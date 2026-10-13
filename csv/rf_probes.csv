@@ -1,0 +1,63 @@
+﻿time,probe,label,stage,tx_radio,tx_port,tx_gain,rx_radio,rx_port,rx_gain,state,inband_dbfs,carrier_dbfs,tone_dbfs,total_dbfs,source
+2026-10-05T14:50:46+03:00,ant_probe,after_antenna_tightening,no transmitter (floor),,,,2974,RX2,15,idle,,,-120.1,-69.2,results/o5gb/ant_probe.csv
+2026-10-05T14:50:46+03:00,ant_probe,after_antenna_tightening,no transmitter (floor),,,,2974,TX/RX,15,idle,,,-122.3,-80.2,results/o5gb/ant_probe.csv
+2026-10-05T14:50:46+03:00,ant_probe,after_antenna_tightening,no transmitter (floor),,,,2953R,RX2,15,idle,,,-122.8,-56.5,results/o5gb/ant_probe.csv
+2026-10-05T14:50:46+03:00,ant_probe,after_antenna_tightening,no transmitter (floor),,,,2953R,TX/RX,15,idle,,,-124.9,-56.2,results/o5gb/ant_probe.csv
+2026-10-05T14:50:46+03:00,ant_probe,after_antenna_tightening,UL path of the cell,2953R,TX/RX,15.0,2974,RX2,15,tone,,,-26.4,-26.2,results/o5gb/ant_probe.csv
+2026-10-05T14:50:46+03:00,ant_probe,after_antenna_tightening,cross check,2953R,TX/RX,15.0,2974,TX/RX,15,tone,,,-25.1,-24.8,results/o5gb/ant_probe.csv
+2026-10-05T14:50:46+03:00,ant_probe,after_antenna_tightening,DL path of the cell,2974,TX/RX,15.0,2953R,RX2,15,tone,,,-30.1,-29.6,results/o5gb/ant_probe.csv
+2026-10-05T14:50:46+03:00,ant_probe,after_antenna_tightening,cross check,2974,TX/RX,15.0,2953R,TX/RX,15,tone,,,-31.3,-29.9,results/o5gb/ant_probe.csv
+2026-10-05T15:50:16+03:00,self_probe,day_1600,own transmitter into own receiver,,,,2974,RX2,18,floor_idle,-71.3,-73.5,-90.1,,results/o5gb/self_probe.csv
+2026-10-05T15:50:16+03:00,self_probe,day_1600,own transmitter into own receiver,2974,TX/RX,16.5,2974,RX2,18,floor_zeros,-69.5,-74.9,-89.5,,results/o5gb/self_probe.csv
+2026-10-05T15:50:16+03:00,self_probe,day_1600,own transmitter into own receiver,2974,TX/RX,16.5,2974,RX2,18,tone,-53.0,-73.0,-6.7,,results/o5gb/self_probe.csv
+2026-10-05T15:50:16+03:00,self_probe,day_1600,own transmitter into own receiver,2974,TX/RX,26.5,2974,RX2,18,floor_zeros,-63.6,-65.8,-86.4,,results/o5gb/self_probe.csv
+2026-10-05T15:50:16+03:00,self_probe,day_1600,own transmitter into own receiver,2974,TX/RX,26.5,2974,RX2,18,tone,-5.2,-19.0,-9.2,,results/o5gb/self_probe.csv
+2026-10-05T15:50:16+03:00,self_probe,day_1600,own transmitter into own receiver,2974,TX/RX,31.5,2974,RX2,18,floor_zeros,-59.1,-60.2,-83.0,,results/o5gb/self_probe.csv
+2026-10-05T15:50:16+03:00,self_probe,day_1600,own transmitter into own receiver,2974,TX/RX,31.5,2974,RX2,18,tone,-6.4,-16.0,-6.8,,results/o5gb/self_probe.csv
+2026-10-05T15:50:33+03:00,self_probe,day_1600,own transmitter into own receiver,,,,2953R,RX2,18,floor_idle,-78.2,-59.5,-97.3,,results/o5gb/self_probe.csv
+2026-10-05T15:50:33+03:00,self_probe,day_1600,own transmitter into own receiver,2953R,TX/RX,16.5,2953R,RX2,18,floor_zeros,-78.2,-60.8,-97.3,,results/o5gb/self_probe.csv
+2026-10-05T15:50:33+03:00,self_probe,day_1600,own transmitter into own receiver,2953R,TX/RX,16.5,2953R,RX2,18,tone,-56.6,-58.0,-15.6,,results/o5gb/self_probe.csv
+2026-10-05T15:50:33+03:00,self_probe,day_1600,own transmitter into own receiver,2953R,TX/RX,26.5,2953R,RX2,18,floor_zeros,-75.4,-58.8,-95.4,,results/o5gb/self_probe.csv
+2026-10-05T15:50:33+03:00,self_probe,day_1600,own transmitter into own receiver,2953R,TX/RX,26.5,2953R,RX2,18,tone,-40.0,-62.1,-6.2,,results/o5gb/self_probe.csv
+2026-10-05T15:50:33+03:00,self_probe,day_1600,own transmitter into own receiver,2953R,TX/RX,31.5,2953R,RX2,18,floor_zeros,-72.5,-54.3,-93.4,,results/o5gb/self_probe.csv
+2026-10-05T15:50:33+03:00,self_probe,day_1600,own transmitter into own receiver,2953R,TX/RX,31.5,2953R,RX2,18,tone,-33.5,-50.0,-0.8,,results/o5gb/self_probe.csv
+2026-10-05T17:14:45+03:00,port_map,all_antennas_1,safety,2953R,B:TX/RX,0.0,2974,B:RX2,0,weak tone,-76.6,-68.8,-69.4,,results/o5gb/port_map.csv
+2026-10-05T17:14:45+03:00,port_map,all_antennas_1,safety,2953R,B:TX/RX,0.0,2974,B:TX/RX,0,weak tone,-76.8,-83.9,-80.4,,results/o5gb/port_map.csv
+2026-10-05T17:14:46+03:00,port_map,all_antennas_1,safety,2974,B:TX/RX,0.0,2953R,B:RX2,0,weak tone,-78.8,-55.5,-82.7,,results/o5gb/port_map.csv
+2026-10-05T17:14:47+03:00,port_map,all_antennas_1,safety,2974,B:TX/RX,0.0,2953R,B:TX/RX,0,weak tone,-79.0,-55.5,-86.3,,results/o5gb/port_map.csv
+2026-10-05T17:14:48+03:00,port_map,all_antennas_1,self,,,,2974,A:RX2,18,idle,-69.1,-69.8,-88.0,,results/o5gb/port_map.csv
+2026-10-05T17:14:48+03:00,port_map,all_antennas_1,self,,,,2974,A:TX/RX,18,idle,-74.8,-76.1,-93.8,,results/o5gb/port_map.csv
+2026-10-05T17:14:48+03:00,port_map,all_antennas_1,self,,,,2974,B:RX2,18,idle,-71.5,-82.1,-90.3,,results/o5gb/port_map.csv
+2026-10-05T17:14:48+03:00,port_map,all_antennas_1,self,,,,2974,B:TX/RX,18,idle,-74.5,-80.4,-93.6,,results/o5gb/port_map.csv
+2026-10-05T17:14:49+03:00,port_map,all_antennas_1,self,2974,A:TX/RX,26.5,2974,A:RX2,18,zeros +9.0dB,-60.2,-48.7,-83.4,,results/o5gb/port_map.csv
+2026-10-05T17:14:49+03:00,port_map,all_antennas_1,self,2974,A:TX/RX,26.5,2974,B:RX2,18,zeros +0.2dB,-71.3,-73.9,-90.3,,results/o5gb/port_map.csv
+2026-10-05T17:14:50+03:00,port_map,all_antennas_1,self,2974,A:TX/RX,26.5,2974,B:TX/RX,18,zeros +1.2dB,-73.3,-73.4,-93.2,,results/o5gb/port_map.csv
+2026-10-05T17:14:51+03:00,port_map,all_antennas_1,self,2974,B:TX/RX,26.5,2974,A:RX2,18,zeros +1.6dB,-67.5,-73.9,-87.3,,results/o5gb/port_map.csv
+2026-10-05T17:14:51+03:00,port_map,all_antennas_1,self,2974,B:TX/RX,26.5,2974,A:TX/RX,18,zeros +1.6dB,-73.2,-58.8,-93.3,,results/o5gb/port_map.csv
+2026-10-05T17:14:52+03:00,port_map,all_antennas_1,self,2974,B:TX/RX,26.5,2974,B:RX2,18,zeros +9.7dB,-61.7,-51.2,-85.6,,results/o5gb/port_map.csv
+2026-10-05T17:14:53+03:00,port_map,all_antennas_1,self,,,,2953R,A:RX2,18,idle,-78.1,-56.0,-97.4,,results/o5gb/port_map.csv
+2026-10-05T17:14:53+03:00,port_map,all_antennas_1,self,,,,2953R,A:TX/RX,18,idle,-78.1,-56.1,-97.1,,results/o5gb/port_map.csv
+2026-10-05T17:14:53+03:00,port_map,all_antennas_1,self,,,,2953R,B:RX2,18,idle,-78.2,-55.7,-97.2,,results/o5gb/port_map.csv
+2026-10-05T17:14:53+03:00,port_map,all_antennas_1,self,,,,2953R,B:TX/RX,18,idle,-77.9,-55.4,-97.0,,results/o5gb/port_map.csv
+2026-10-05T17:14:54+03:00,port_map,all_antennas_1,self,2953R,A:TX/RX,26.5,2953R,A:RX2,18,zeros +8.9dB,-69.2,-45.3,-90.6,,results/o5gb/port_map.csv
+2026-10-05T17:14:54+03:00,port_map,all_antennas_1,self,2953R,A:TX/RX,26.5,2953R,B:RX2,18,zeros +0.4dB,-77.8,-56.9,-96.9,,results/o5gb/port_map.csv
+2026-10-05T17:14:55+03:00,port_map,all_antennas_1,self,2953R,A:TX/RX,26.5,2953R,B:TX/RX,18,zeros +1.3dB,-76.6,-52.1,-96.2,,results/o5gb/port_map.csv
+2026-10-05T17:14:56+03:00,port_map,all_antennas_1,self,2953R,B:TX/RX,26.5,2953R,A:RX2,18,zeros +3.1dB,-75.1,-62.1,-95.4,,results/o5gb/port_map.csv
+2026-10-05T17:14:56+03:00,port_map,all_antennas_1,self,2953R,B:TX/RX,26.5,2953R,A:TX/RX,18,zeros +1.4dB,-76.7,-60.2,-96.2,,results/o5gb/port_map.csv
+2026-10-05T17:14:56+03:00,port_map,all_antennas_1,self,2953R,B:TX/RX,26.5,2953R,B:RX2,18,zeros +5.3dB,-73.0,-54.5,-94.0,,results/o5gb/port_map.csv
+2026-10-05T17:14:58+03:00,port_map,all_antennas_1,path,2953R,A:TX/RX,15.0,2974,A:RX2,15,tone,-59.0,-49.9,-23.0,,results/o5gb/port_map.csv
+2026-10-05T17:14:58+03:00,port_map,all_antennas_1,path,2953R,A:TX/RX,15.0,2974,A:TX/RX,15,tone,-56.2,-46.8,-20.0,,results/o5gb/port_map.csv
+2026-10-05T17:14:58+03:00,port_map,all_antennas_1,path,2953R,A:TX/RX,15.0,2974,B:RX2,15,tone,-62.9,-54.6,-27.7,,results/o5gb/port_map.csv
+2026-10-05T17:14:59+03:00,port_map,all_antennas_1,path,2953R,A:TX/RX,15.0,2974,B:TX/RX,15,tone,-72.1,-64.8,-38.8,,results/o5gb/port_map.csv
+2026-10-05T17:15:00+03:00,port_map,all_antennas_1,path,2953R,B:TX/RX,15.0,2974,A:RX2,15,tone,-54.5,-45.4,-18.1,,results/o5gb/port_map.csv
+2026-10-05T17:15:00+03:00,port_map,all_antennas_1,path,2953R,B:TX/RX,15.0,2974,A:TX/RX,15,tone,-53.0,-43.8,-16.5,,results/o5gb/port_map.csv
+2026-10-05T17:15:01+03:00,port_map,all_antennas_1,path,2953R,B:TX/RX,15.0,2974,B:RX2,15,tone,-60.4,-51.6,-24.8,,results/o5gb/port_map.csv
+2026-10-05T17:15:01+03:00,port_map,all_antennas_1,path,2953R,B:TX/RX,15.0,2974,B:TX/RX,15,tone,-71.1,-67.1,-36.8,,results/o5gb/port_map.csv
+2026-10-05T17:15:02+03:00,port_map,all_antennas_1,path,2974,A:TX/RX,15.0,2953R,A:RX2,15,tone,-60.3,-47.0,-21.9,,results/o5gb/port_map.csv
+2026-10-05T17:15:03+03:00,port_map,all_antennas_1,path,2974,A:TX/RX,15.0,2953R,A:TX/RX,15,tone,-65.4,-51.3,-27.2,,results/o5gb/port_map.csv
+2026-10-05T17:15:03+03:00,port_map,all_antennas_1,path,2974,A:TX/RX,15.0,2953R,B:RX2,15,tone,-58.1,-45.0,-19.7,,results/o5gb/port_map.csv
+2026-10-05T17:15:03+03:00,port_map,all_antennas_1,path,2974,A:TX/RX,15.0,2953R,B:TX/RX,15,tone,-60.1,-46.7,-21.6,,results/o5gb/port_map.csv
+2026-10-05T17:15:05+03:00,port_map,all_antennas_1,path,2974,B:TX/RX,15.0,2953R,A:RX2,15,tone,-74.4,-56.0,-38.8,,results/o5gb/port_map.csv
+2026-10-05T17:15:05+03:00,port_map,all_antennas_1,path,2974,B:TX/RX,15.0,2953R,A:TX/RX,15,tone,-77.5,-56.3,-47.0,,results/o5gb/port_map.csv
+2026-10-05T17:15:05+03:00,port_map,all_antennas_1,path,2974,B:TX/RX,15.0,2953R,B:RX2,15,tone,-74.7,-55.2,-39.1,,results/o5gb/port_map.csv
+2026-10-05T17:15:05+03:00,port_map,all_antennas_1,path,2974,B:TX/RX,15.0,2953R,B:TX/RX,15,tone,-76.4,-55.1,-42.5,,results/o5gb/port_map.csv

@@ -1,0 +1,20 @@
+﻿campaign,series,medium,antenna_cm,cell_prb,antennas,ue,run,time,target_dl_mbps,target_ul_mbps,radio_uptime_s,attempts,passed,dead_after_s,dead_in,tcp_dl_mbps,tcp_ul_mbps,file_dl_mbps,file_ul_mbps,file_dl_ok,file_ul_ok,source
+G1_golden,campaign_2026-09-27g run 1,coax,,24,1x1,oai_ue,1,2026-09-27T21:14:16+03:00,4,1,32,1,0,1241,file_ul:5,4,1.0,8.36,0.14,1,0,paper/data/raw/campaign_2026-09-27g/acceptance.csv
+G1_golden,campaign_2026-09-27g2 run 1,coax,,24,1x1,oai_ue,1,2026-09-27T21:44:41+03:00,4,1,1857,1,1,,,4,1.0,8.64,0.99,1,1,paper/data/raw/campaign_2026-09-27g2/acceptance.csv
+G1_golden,campaign_2026-09-27g2 run 2,coax,,24,1x1,oai_ue,2,2026-09-27T22:07:10+03:00,4,1,3206,1,0,310,tcpr_dl:4,0,,,,,,paper/data/raw/campaign_2026-09-27g2/acceptance.csv
+G1_golden,campaign_2026-09-27g2 run 3,coax,,24,1x1,oai_ue,3,2026-09-27T22:19:02+03:00,4,1,3918,1,1,,,4,1.0,9.33,0.99,1,1,paper/data/raw/campaign_2026-09-27g2/acceptance.csv
+G1_golden,campaign_2026-09-27g2 run 4,coax,,24,1x1,oai_ue,4,2026-09-27T22:41:30+03:00,4,1,5266,1,0,549,tcpr_dl:4,0,,,,,,paper/data/raw/campaign_2026-09-27g2/acceptance.csv
+G1_golden,campaign_2026-09-27g2 run 5,coax,,24,1x1,oai_ue,5,2026-09-27T22:53:20+03:00,4,1,5976,1,1,,,4,1.0,8.98,0.99,1,1,paper/data/raw/campaign_2026-09-27g2/acceptance.csv
+G2_golden,campaign_2026-09-28_dl2ul1 run 1,coax,,24,1x1,oai_ue,1,2026-09-28T04:34:00+03:00,2,1,392,1,1,,,2,1.0,10.01,0.99,1,1,paper/data/raw/campaign_2026-09-28_dl2ul1/acceptance.csv
+G2_golden,campaign_2026-09-28_dl2ul1 run 2,coax,,24,1x1,oai_ue,2,2026-09-28T04:57:24+03:00,2,1,1796,1,1,,,2,1.0,9.54,0.99,1,1,paper/data/raw/campaign_2026-09-28_dl2ul1/acceptance.csv
+G2_golden,campaign_2026-09-28_dl2ul1 run 3,coax,,24,1x1,oai_ue,3,2026-09-28T05:19:55+03:00,2,1,3147,1,1,,,2,1.0,9.94,0.99,1,1,paper/data/raw/campaign_2026-09-28_dl2ul1/acceptance.csv
+G2_golden,campaign_2026-09-28_dl2ul1 run 4,coax,,24,1x1,oai_ue,4,2026-09-28T05:42:20+03:00,2,1,4492,1,1,,,2,1.0,9.64,0.99,1,1,paper/data/raw/campaign_2026-09-28_dl2ul1/acceptance.csv
+G2_golden,campaign_2026-09-28_dl2ul1 run 5,coax,,24,1x1,oai_ue,5,2026-09-28T06:04:51+03:00,2,1,5843,1,1,,,2,1.0,7.48,0.99,1,1,paper/data/raw/campaign_2026-09-28_dl2ul1/acceptance.csv
+O1_golden_2cm,campaign_2026-10-03_ota_dl2ul1 run 1,ota,2,24,1x1,oai_ue,1,2026-10-03T11:20:53+03:00,2,1,806,2,1,,,2,1.0,3.04,0.99,1,1,results/ota_campaign_2026-10-03/data/campaign_2026-10-03_ota_dl2ul1/acceptance.csv
+O1_golden_2cm,campaign_2026-10-03_ota_dl2ul1 run 2,ota,2,24,1x1,oai_ue,2,2026-10-03T11:50:28+03:00,2,1,2581,1,1,,,2,1.0,4.57,0.99,1,1,results/ota_campaign_2026-10-03/data/campaign_2026-10-03_ota_dl2ul1/acceptance.csv
+O1_golden_2cm,campaign_2026-10-03_ota_dl2ul1 run 3,ota,2,24,1x1,oai_ue,3,2026-10-03T12:18:15+03:00,2,1,4248,3,1,,,2,1.0,5.11,0.99,1,1,results/ota_campaign_2026-10-03/data/campaign_2026-10-03_ota_dl2ul1/acceptance.csv
+O1_golden_2cm,campaign_2026-10-03_ota_dl2ul1 run 4,ota,2,24,1x1,oai_ue,4,2026-10-03T12:48:58+03:00,2,1,6091,1,1,,,2,1.0,3.6,0.99,1,1,results/ota_campaign_2026-10-03/data/campaign_2026-10-03_ota_dl2ul1/acceptance.csv
+O1_golden_2cm,campaign_2026-10-03_ota_dl2ul1 run 5,ota,2,24,1x1,oai_ue,5,2026-10-03T13:18:12+03:00,2,1,7845,2,1,,,2,1.0,4.16,0.99,1,1,results/ota_campaign_2026-10-03/data/campaign_2026-10-03_ota_dl2ul1/acceptance.csv
+O7_golden_10cm,campaign_2026-10-03_ota_10cm_dl2ul1 run 1,ota,10,24,1x1,oai_ue,1,2026-10-03T20:13:07+03:00,2,1,292,1,1,,,2,1.0,8.22,0.99,1,1,results/ota_campaign_2026-10-03/data/campaign_2026-10-03_ota_10cm_dl2ul1/acceptance.csv
+O7_golden_10cm,campaign_2026-10-03_ota_10cm_dl2ul1 run 2,ota,10,24,1x1,oai_ue,2,2026-10-03T20:40:39+03:00,2,1,1944,2,0,811,tcpr_ul:1,2,0.33,,,,,results/ota_campaign_2026-10-03/data/campaign_2026-10-03_ota_10cm_dl2ul1/acceptance.csv
+O7_golden_10cm,campaign_2026-10-03_ota_10cm_dl2ul1 run 3,ota,10,24,1x1,oai_ue,3,2026-10-03T21:08:57+03:00,2,1,3642,1,1,,,2,1.0,9.99,0.99,1,1,results/ota_campaign_2026-10-03/data/campaign_2026-10-03_ota_10cm_dl2ul1/acceptance.csv

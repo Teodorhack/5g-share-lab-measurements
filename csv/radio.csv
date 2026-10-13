@@ -1,0 +1,571 @@
+﻿meas_id,campaign,series,medium,antenna_cm,cell_prb,antennas,ue,time,moment,snr_ul_db,rsrp_dbm,ph_db,cqi,dl_mcs,ul_mcs,dl_bler,ul_bler,source
+2,K0_0920_10s,first working config,coax,,51,1x1,oai_ue,,median of 72 gNB statistics blocks over the session,49.0,-43,,,17,19.5,0.071015,0.039724999999999996,golden/usrp-coax-e2e/results/kpi/20260920_202306_51prb_10s/host/gnb.log
+3,C3_level1,base,coax,,51,1x1,oai_ue,2026-09-27T17:59:55+03:00,tcp_dl,52.5,,,,7,0.0,0.04329,0.01244,paper/data/raw/campaign_2026-09-27c/L1_baseline/tests.csv
+3,C3_level1,base,coax,,51,1x1,oai_ue,2026-09-27T18:00:22+03:00,tcp_ul,53.0,,,,14,14.0,0.04417,0.03179,paper/data/raw/campaign_2026-09-27c/L1_baseline/tests.csv
+3,C3_level1,base,coax,,51,1x1,oai_ue,2026-09-27T18:00:48+03:00,udp_dl,52.5,,,,25,23.0,0.22499,0.26745,paper/data/raw/campaign_2026-09-27c/L1_baseline/tests.csv
+3,C3_level1,base,coax,,51,1x1,oai_ue,2026-09-27T18:01:13+03:00,udp_ul,52.5,,,,0,13.0,0.13037,0.04069,paper/data/raw/campaign_2026-09-27c/L1_baseline/tests.csv
+4,C3_level1,base,coax,,51,1x1,oai_ue,2026-09-27T18:04:04+03:00,tcp_dl,35.5,,,,7,0.0,0.32264,0.23459,paper/data/raw/campaign_2026-09-27c/L1_baseline/tests.csv
+4,C3_level1,base,coax,,51,1x1,oai_ue,2026-09-27T18:05:29+03:00,tcp_ul,52.5,,,,28,10.0,0.08172,0.02028,paper/data/raw/campaign_2026-09-27c/L1_baseline/tests.csv
+4,C3_level1,base,coax,,51,1x1,oai_ue,2026-09-27T18:05:56+03:00,udp_dl,52.5,,,,20,23.0,0.24187,0.2805,paper/data/raw/campaign_2026-09-27c/L1_baseline/tests.csv
+4,C3_level1,base,coax,,51,1x1,oai_ue,2026-09-27T18:06:21+03:00,udp_ul,52.5,,,,17,22.0,0.05316,0.23403,paper/data/raw/campaign_2026-09-27c/L1_baseline/tests.csv
+5,C3_level1,base,coax,,51,1x1,oai_ue,2026-09-27T18:09:11+03:00,tcp_dl,8.0,,,,7,0.0,0.24113,0.16044,paper/data/raw/campaign_2026-09-27c/L1_baseline/tests.csv
+5,C3_level1,base,coax,,51,1x1,oai_ue,2026-09-27T18:10:35+03:00,tcp_ul,53.0,,,,27,10.0,0.07542,0.02273,paper/data/raw/campaign_2026-09-27c/L1_baseline/tests.csv
+5,C3_level1,base,coax,,51,1x1,oai_ue,2026-09-27T18:11:00+03:00,udp_dl,53.0,,,,22,23.0,0.15771,0.25982,paper/data/raw/campaign_2026-09-27c/L1_baseline/tests.csv
+5,C3_level1,base,coax,,51,1x1,oai_ue,2026-09-27T18:11:26+03:00,udp_ul,53.0,,,,17,5.0,0.09929,0.01098,paper/data/raw/campaign_2026-09-27c/L1_baseline/tests.csv
+6,C3_level1,base,coax,,51,1x1,oai_ue,2026-09-27T18:14:15+03:00,tcp_dl,35.0,,,,7,0.0,0.27814,0.19588,paper/data/raw/campaign_2026-09-27c/L1_baseline/tests.csv
+6,C3_level1,base,coax,,51,1x1,oai_ue,2026-09-27T18:15:58+03:00,tcp_ul,10.5,,,,0,0.0,1.0,1.0,paper/data/raw/campaign_2026-09-27c/L1_baseline/tests.csv
+6,C3_level1,base,coax,,51,1x1,oai_ue,2026-09-27T18:18:49+03:00,udp_dl,52.5,,,,21,23.0,0.2406,0.31639,paper/data/raw/campaign_2026-09-27c/L1_baseline/tests.csv
+6,C3_level1,base,coax,,51,1x1,oai_ue,2026-09-27T18:19:15+03:00,udp_ul,53.0,,,,10,6.0,0.05599,0.02253,paper/data/raw/campaign_2026-09-27c/L1_baseline/tests.csv
+7,C3_level1,base,coax,,51,1x1,oai_ue,2026-09-27T18:21:46+03:00,tcp_dl,52.5,,,,9,0.0,0.05507,0.01891,paper/data/raw/campaign_2026-09-27c/L1_baseline/tests.csv
+7,C3_level1,base,coax,,51,1x1,oai_ue,2026-09-27T18:22:31+03:00,tcp_ul,11.0,,,,0,0.0,1.0,0.96218,paper/data/raw/campaign_2026-09-27c/L1_baseline/tests.csv
+7,C3_level1,base,coax,,51,1x1,oai_ue,2026-09-27T18:23:54+03:00,udp_dl,54.0,,,,24,23.0,0.19201,0.25757,paper/data/raw/campaign_2026-09-27c/L1_baseline/tests.csv
+7,C3_level1,base,coax,,51,1x1,oai_ue,2026-09-27T18:24:20+03:00,udp_ul,54.0,,,,6,6.0,0.13841,0.01549,paper/data/raw/campaign_2026-09-27c/L1_baseline/tests.csv
+8,C3_level1,base,coax,,51,1x1,oai_ue,2026-09-27T18:26:53+03:00,tcp_dl,53.5,,,,8,0.0,0.06556,0.01507,paper/data/raw/campaign_2026-09-27c/L1_baseline/tests.csv
+8,C3_level1,base,coax,,51,1x1,oai_ue,2026-09-27T18:27:37+03:00,tcp_ul,11.0,,,,0,0.0,1.0,1.0,paper/data/raw/campaign_2026-09-27c/L1_baseline/tests.csv
+8,C3_level1,base,coax,,51,1x1,oai_ue,2026-09-27T18:31:54+03:00,udp_dl,52.5,,,,22,23.0,0.17202,0.25202,paper/data/raw/campaign_2026-09-27c/L1_baseline/tests.csv
+8,C3_level1,base,coax,,51,1x1,oai_ue,2026-09-27T18:32:19+03:00,udp_ul,52.5,,,,20,10.0,0.14317,0.04761,paper/data/raw/campaign_2026-09-27c/L1_baseline/tests.csv
+9,C3_level1,base,coax,,51,1x1,oai_ue,2026-09-27T18:34:51+03:00,tcp_dl,52.5,,,,9,0.0,0.11327,0.06126,paper/data/raw/campaign_2026-09-27c/L1_baseline/tests.csv
+9,C3_level1,base,coax,,51,1x1,oai_ue,2026-09-27T18:35:20+03:00,tcp_ul,52.5,,,,24,0.0,0.07613,0.01092,paper/data/raw/campaign_2026-09-27c/L1_baseline/tests.csv
+9,C3_level1,base,coax,,51,1x1,oai_ue,2026-09-27T18:35:46+03:00,udp_dl,51.5,,,,22,23.0,0.25462,0.34702,paper/data/raw/campaign_2026-09-27c/L1_baseline/tests.csv
+9,C3_level1,base,coax,,51,1x1,oai_ue,2026-09-27T18:36:13+03:00,udp_ul,52.5,,,,18,12.0,0.08696,0.06214,paper/data/raw/campaign_2026-09-27c/L1_baseline/tests.csv
+10,C3_level1,base,coax,,51,1x1,oai_ue,2026-09-27T18:38:44+03:00,tcp_dl,52.5,,,,10,5.0,0.04141,0.03396,paper/data/raw/campaign_2026-09-27c/L1_baseline/tests.csv
+10,C3_level1,base,coax,,51,1x1,oai_ue,2026-09-27T18:39:12+03:00,tcp_ul,52.5,,,,28,13.0,0.00545,0.06366,paper/data/raw/campaign_2026-09-27c/L1_baseline/tests.csv
+10,C3_level1,base,coax,,51,1x1,oai_ue,2026-09-27T18:39:38+03:00,udp_dl,52.5,,,,22,23.0,0.16804,0.26508,paper/data/raw/campaign_2026-09-27c/L1_baseline/tests.csv
+10,C3_level1,base,coax,,51,1x1,oai_ue,2026-09-27T18:40:23+03:00,udp_ul,20.0,,,,0,0.0,0.38373,0.24683,paper/data/raw/campaign_2026-09-27c/L1_baseline/tests.csv
+11,C3_level1,base,coax,,51,1x1,oai_ue,2026-09-27T18:43:51+03:00,tcp_dl,54.0,,,,7,0.0,0.09901,0.04059,paper/data/raw/campaign_2026-09-27c/L1_baseline/tests.csv
+11,C3_level1,base,coax,,51,1x1,oai_ue,2026-09-27T18:44:19+03:00,tcp_ul,53.5,,,,25,10.0,0.11746,0.06673,paper/data/raw/campaign_2026-09-27c/L1_baseline/tests.csv
+11,C3_level1,base,coax,,51,1x1,oai_ue,2026-09-27T18:44:45+03:00,udp_dl,53.5,,,,22,25.0,0.14468,0.07956,paper/data/raw/campaign_2026-09-27c/L1_baseline/tests.csv
+11,C3_level1,base,coax,,51,1x1,oai_ue,2026-09-27T18:45:11+03:00,udp_ul,54.0,,,,14,14.0,0.09561,0.03792,paper/data/raw/campaign_2026-09-27c/L1_baseline/tests.csv
+12,C3_level1,base,coax,,51,1x1,oai_ue,2026-09-27T18:47:42+03:00,tcp_dl,52.5,,,,0,0.0,0.12606,0.00857,paper/data/raw/campaign_2026-09-27c/L1_baseline/tests.csv
+12,C3_level1,base,coax,,51,1x1,oai_ue,2026-09-27T18:48:11+03:00,tcp_ul,52.5,,,,17,8.0,0.28356,0.04604,paper/data/raw/campaign_2026-09-27c/L1_baseline/tests.csv
+12,C3_level1,base,coax,,51,1x1,oai_ue,2026-09-27T18:48:37+03:00,udp_dl,52.5,,,,23,23.0,0.20391,0.3348,paper/data/raw/campaign_2026-09-27c/L1_baseline/tests.csv
+12,C3_level1,base,coax,,51,1x1,oai_ue,2026-09-27T18:49:03+03:00,udp_ul,52.5,,,,3,5.0,0.0994,0.07858,paper/data/raw/campaign_2026-09-27c/L1_baseline/tests.csv
+13,O3_kpi_2cm,ota working config,ota,2,24,1x1,oai_ue,,median of 1195 gNB statistics blocks over the session,51.0,-45,,,0,0.0,5e-05,0.0,results/ota_campaign_2026-10-03/data/kpi/20261003_150007_24prb/host/gnb.log
+14,O4_grid_2cm,"att_tx 0, ue_rxgain 95",ota,2,24,1x1,oai_ue,2026-10-03T15:53:30+03:00,after the TCP tests,50.5,-43,,,19,3.0,0.066,0.0307,results/ota_campaign_2026-10-03/data/campaign_2026-10-03_ota_grid/grid.csv
+15,O4_grid_2cm,"att_tx 10, ue_rxgain 100",ota,2,24,1x1,oai_ue,2026-10-03T15:55:42+03:00,after the TCP tests,50.0,-49,,,1,3.0,0.0766,0.0344,results/ota_campaign_2026-10-03/data/campaign_2026-10-03_ota_grid/grid.csv
+16,O4_grid_2cm,"att_tx 10, ue_rxgain 90",ota,2,24,1x1,oai_ue,2026-10-03T15:58:04+03:00,after the TCP tests,50.0,-49,,,0,10.0,0.1009,0.0307,results/ota_campaign_2026-10-03/data/campaign_2026-10-03_ota_grid/grid.csv
+17,O4_grid_2cm,"att_tx 0, ue_rxgain 100",ota,2,24,1x1,oai_ue,2026-10-03T16:00:32+03:00,after the TCP tests,51.0,-43,,,15,13.0,0.0469,0.0283,results/ota_campaign_2026-10-03/data/campaign_2026-10-03_ota_grid/grid.csv
+18,O4_grid_2cm,"att_tx 10, ue_rxgain 95",ota,2,24,1x1,oai_ue,2026-10-03T16:02:44+03:00,after the TCP tests,52.0,-49,,,1,6.0,0.0929,0.0303,results/ota_campaign_2026-10-03/data/campaign_2026-10-03_ota_grid/grid.csv
+19,O4_grid_2cm,"att_tx 0, ue_rxgain 90",ota,2,24,1x1,oai_ue,2026-10-03T16:05:14+03:00,after the TCP tests,51.0,-43,,,1,13.0,0.0356,0.0306,results/ota_campaign_2026-10-03/data/campaign_2026-10-03_ota_grid/grid.csv
+20,O4_grid_2cm,"att_tx 5, ue_rxgain 100",ota,2,24,1x1,oai_ue,2026-10-03T16:07:25+03:00,after the TCP tests,50.5,-45,,,9,8.0,0.0479,0.0327,results/ota_campaign_2026-10-03/data/campaign_2026-10-03_ota_grid/grid.csv
+21,O4_grid_2cm,"att_tx 5, ue_rxgain 95",ota,2,24,1x1,oai_ue,2026-10-03T16:09:37+03:00,after the TCP tests,50.0,-45,,,6,0.0,0.0461,0.032,results/ota_campaign_2026-10-03/data/campaign_2026-10-03_ota_grid/grid.csv
+22,O4_grid_2cm,"att_tx 5, ue_rxgain 90",ota,2,24,1x1,oai_ue,2026-10-03T16:11:49+03:00,after the TCP tests,50.0,-45,,,8,3.0,0.0751,0.0343,results/ota_campaign_2026-10-03/data/campaign_2026-10-03_ota_grid/grid.csv
+23,O4_grid_2cm,"att_tx 5, ue_rxgain 90",ota,2,24,1x1,oai_ue,2026-10-03T16:19:01+03:00,after the TCP tests,49.5,-45,,,2,3.0,0.0646,0.0315,results/ota_campaign_2026-10-03/data/campaign_2026-10-03_ota_grid/grid.csv
+24,O4_grid_2cm,"att_tx 0, ue_rxgain 100",ota,2,24,1x1,oai_ue,2026-10-03T16:21:13+03:00,after the TCP tests,49.0,-43,,,17,17.0,0.0414,0.0308,results/ota_campaign_2026-10-03/data/campaign_2026-10-03_ota_grid/grid.csv
+25,O4_grid_2cm,"att_tx 5, ue_rxgain 95",ota,2,24,1x1,oai_ue,2026-10-03T16:23:25+03:00,after the TCP tests,50.5,-45,,,4,6.0,0.0533,0.0304,results/ota_campaign_2026-10-03/data/campaign_2026-10-03_ota_grid/grid.csv
+26,O4_grid_2cm,"att_tx 10, ue_rxgain 95",ota,2,24,1x1,oai_ue,2026-10-03T16:27:54+03:00,after the TCP tests,51.0,-49,,,0,2.0,0.0883,0.0315,results/ota_campaign_2026-10-03/data/campaign_2026-10-03_ota_grid/grid.csv
+27,O4_grid_2cm,"att_tx 10, ue_rxgain 90",ota,2,24,1x1,oai_ue,2026-10-03T16:30:06+03:00,after the TCP tests,,,,,,,,,results/ota_campaign_2026-10-03/data/campaign_2026-10-03_ota_grid/grid.csv
+28,O4_grid_2cm,"att_tx 10, ue_rxgain 100",ota,2,24,1x1,oai_ue,2026-10-03T16:32:52+03:00,after the TCP tests,50.0,-49,,,1,6.0,0.0578,0.0298,results/ota_campaign_2026-10-03/data/campaign_2026-10-03_ota_grid/grid.csv
+29,O4_grid_2cm,"att_tx 0, ue_rxgain 90",ota,2,24,1x1,oai_ue,2026-10-03T16:35:13+03:00,after the TCP tests,51.0,-43,,,17,15.0,0.0577,0.027,results/ota_campaign_2026-10-03/data/campaign_2026-10-03_ota_grid/grid.csv
+30,O4_grid_2cm,"att_tx 5, ue_rxgain 100",ota,2,24,1x1,oai_ue,2026-10-03T16:44:02+03:00,after the TCP tests,50.5,-45,,,15,7.0,0.0587,0.0294,results/ota_campaign_2026-10-03/data/campaign_2026-10-03_ota_grid/grid.csv
+31,O6_std_10cm,_smoke,ota,10,24,1x1,oai_ue,2026-10-03T17:04:22+03:00,after the tests,44.0,-43,,,19,7.0,0.0617,0.0673,results/std/std.csv
+34,O6_std_10cm,siso_10cm,ota,10,24,1x1,oai_ue,2026-10-03T17:34:40+03:00,after the tests,44.5,-43,,,21,10.0,0.0677,0.0868,results/std/std.csv
+35,O6_std_10cm,rxdiv1x2_10cm,ota,10,24,1x2,oai_ue,2026-10-03T17:38:33+03:00,after the tests,44.5,-44,,,16,1.0,0.093,0.0955,results/std/std.csv
+36,O6_std_10cm,siso_10cm,ota,10,24,1x1,oai_ue,2026-10-03T17:46:17+03:00,after the tests,44.5,-43,,,20,3.0,0.0799,0.0723,results/std/std.csv
+37,O6_std_10cm,rxdiv1x2_10cm,ota,10,24,1x2,oai_ue,2026-10-03T17:50:09+03:00,after the tests,44.0,-44,,,18,10.0,0.0803,0.0901,results/std/std.csv
+38,O6_std_10cm,siso_10cm,ota,10,24,1x1,oai_ue,2026-10-03T17:54:00+03:00,after the tests,44.5,-43,,,3,9.0,0.0753,0.1101,results/std/std.csv
+39,O6_std_10cm,rxdiv1x2_10cm,ota,10,24,1x2,oai_ue,2026-10-03T17:57:52+03:00,after the tests,44.0,-44,,,18,4.0,0.0796,0.0779,results/std/std.csv
+40,O6_std_10cm,siso_10cm,ota,10,24,1x1,oai_ue,2026-10-03T18:01:44+03:00,after the tests,45.0,-43,,,20,4.0,0.0696,0.0974,results/std/std.csv
+41,O6_std_10cm,rxdiv1x2_10cm,ota,10,24,1x2,oai_ue,2026-10-03T18:05:36+03:00,after the tests,43.5,-44,,,17,4.0,0.0933,0.0938,results/std/std.csv
+42,O6_std_10cm,siso_10cm,ota,10,24,1x1,oai_ue,2026-10-03T18:14:19+03:00,after the tests,45.0,-43,,,20,5.0,0.0953,0.0787,results/std/std.csv
+43,O6_std_10cm,rxdiv1x2_10cm,ota,10,24,1x2,oai_ue,2026-10-03T18:18:10+03:00,after the tests,44.5,-44,,,17,12.0,0.0871,0.1117,results/std/std.csv
+44,O6_std_10cm,mimo2x2_10cm,ota,10,24,2x2,oai_ue,2026-10-03T18:35:47+03:00,after the tests,,,,,,,,,results/std/std.csv
+32,O5_mimo_tries_10cm,"02_2x2_1layer_att5: 1 layer(s), att_tx 5",ota,10,24,2x2,oai_ue,2026-10-03T17:10:42+03:00,"RI 1.0, CQI 3.0",19.0,,,,2,7.0,0.04152,0.11678,results/mimo_tuning/tries.csv
+33,O5_mimo_tries_10cm,"05_1x2_rxdiv_att5_nocap: 1 layer(s), att_tx 5",ota,10,24,1x2,oai_ue,2026-10-03T17:32:04+03:00,"RI nan, CQI nan",26.0,,,,23,21.0,0.05556,0.11225,results/mimo_tuning/tries.csv
+45,B0_smoke,_smoke_coax24,coax,,24,1x1,oai_ue,2026-10-04T17:06:52+03:00,end of the iteration,53.0,-43,,,18,8.0,0.0447,0.0261,results/o5gb/o5gb.csv
+46,B0_smoke,_smoke_coax24,coax,,24,1x1,oai_ue,2026-10-04T17:07:53+03:00,end of the iteration,53.0,-43,,,20,4.0,0.0668,0.0179,results/o5gb/o5gb.csv
+47,B0_smoke,ota24_smoke,ota,50,24,1x1,oai_ue,2026-10-04T17:11:58+03:00,end of the iteration,31.0,-55,,,1,0.0,0.0608,0.1586,results/o5gb/o5gb.csv
+48,B0_smoke,ota24_smoke,ota,50,24,1x1,oai_ue,2026-10-04T17:15:21+03:00,end of the iteration,30.5,-55,,,2,0.0,0.0964,0.1579,results/o5gb/o5gb.csv
+49,T1_tuning_50cm,_tune50_a,ota,50,24,1x1,oai_ue,2026-10-04T17:23:27+03:00,end of the iteration,18.5,-47,,,3,6.0,0.1114,0.0929,results/o5gb/o5gb.csv
+50,T1_tuning_50cm,_tune50_b,ota,50,24,1x1,oai_ue,2026-10-04T17:26:46+03:00,end of the iteration,35.0,-49,,,2,2.0,0.0941,0.0979,results/o5gb/o5gb.csv
+51,T1_tuning_50cm,_tune50_c,ota,50,24,1x1,oai_ue,2026-10-04T17:29:58+03:00,end of the iteration,16.5,-50,,,3,0.0,0.1204,0.0788,results/o5gb/o5gb.csv
+52,T1_tuning_50cm,_tune50_d,ota,50,24,1x1,oai_ue,2026-10-04T17:33:04+03:00,end of the iteration,16.5,-54,,,3,0.0,0.1052,0.1648,results/o5gb/o5gb.csv
+53,T1_tuning_50cm,_tune50_e,ota,50,24,1x1,oai_ue,2026-10-04T17:36:30+03:00,end of the iteration,25.5,,,,1,0.0,0.053,0.1697,results/o5gb/o5gb.csv
+54,T1_tuning_50cm,_tune50_f,ota,50,24,1x1,oai_ue,2026-10-04T17:41:01+03:00,end of the iteration,16.5,-50,,,4,1.0,0.0958,0.1126,results/o5gb/o5gb.csv
+55,T1_tuning_50cm,_tune50_f,ota,50,24,1x1,oai_ue,2026-10-04T17:43:16+03:00,end of the iteration,16.5,-51,,,5,0.0,0.1272,0.09,results/o5gb/o5gb.csv
+56,T1_tuning_50cm,_tune50_g,ota,50,24,1x1,oai_ue,2026-10-04T17:46:26+03:00,end of the iteration,30.0,-50,,,3,0.0,0.1161,0.0814,results/o5gb/o5gb.csv
+57,T1_tuning_50cm,_tune50_g,ota,50,24,1x1,oai_ue,2026-10-04T17:49:54+03:00,end of the iteration,30.0,-50,,,5,0.0,0.0942,0.0798,results/o5gb/o5gb.csv
+58,T1_tuning_50cm,_tune50_h,ota,50,24,1x1,oai_ue,2026-10-04T17:53:34+03:00,end of the iteration,19.0,-47,,,2,5.0,0.0964,0.091,results/o5gb/o5gb.csv
+59,T1_tuning_50cm,_tune50_i,ota,50,24,1x1,oai_ue,2026-10-04T17:57:01+03:00,end of the iteration,19.0,-47,,,0,5.0,0.0943,0.0933,results/o5gb/o5gb.csv
+60,T1_tuning_50cm,_tune50_j,ota,50,24,1x1,oai_ue,2026-10-04T18:02:35+03:00,end of the iteration,30.0,-50,,,3,0.0,0.0711,0.0801,results/o5gb/o5gb.csv
+61,B1_c1,coax24_c1,coax,,24,1x1,oai_ue,2026-10-04T18:23:38+03:00,end of the iteration,53.0,-43,,,18,8.0,0.0888,0.0384,results/o5gb/o5gb.csv
+62,B1_c1,coax24_c1,coax,,24,1x1,oai_ue,2026-10-04T18:26:07+03:00,end of the iteration,53.0,,,,,0.0,,,results/o5gb/o5gb.csv
+63,B1_c1,coax24_c1,coax,,24,1x1,oai_ue,2026-10-04T18:33:27+03:00,end of the iteration,53.0,-43,,,16,6.0,0.0843,0.036,results/o5gb/o5gb.csv
+64,B1_c1,coax24_c1,coax,,24,1x1,oai_ue,2026-10-04T18:35:35+03:00,end of the iteration,33.5,-43,,,18,0.0,0.0744,0.0369,results/o5gb/o5gb.csv
+65,B1_c1,coax24_c1,coax,,24,1x1,oai_ue,2026-10-04T18:40:46+03:00,end of the iteration,53.0,-43,,,17,3.0,0.0796,0.0321,results/o5gb/o5gb.csv
+66,B1_c1,coax24_c1,coax,,24,1x1,oai_ue,2026-10-04T18:42:54+03:00,end of the iteration,53.0,-43,,,15,3.0,0.0682,0.0336,results/o5gb/o5gb.csv
+67,B1_c1,coax24_c1,coax,,24,1x1,oai_ue,2026-10-04T18:44:59+03:00,end of the iteration,53.0,-43,,,20,0.0,0.0697,0.0296,results/o5gb/o5gb.csv
+68,B1_c1,coax24_c1,coax,,24,1x1,oai_ue,2026-10-04T18:47:06+03:00,end of the iteration,53.0,-43,,,22,2.0,0.0562,0.0328,results/o5gb/o5gb.csv
+69,B1_c1,coax24_c1,coax,,24,1x1,oai_ue,2026-10-04T18:49:11+03:00,end of the iteration,53.5,-43,,,16,11.0,0.0918,0.0322,results/o5gb/o5gb.csv
+70,T2_tuning_15cm,_tune15_k,ota,15,24,1x1,oai_ue,2026-10-04T18:56:38+03:00,end of the iteration,33.0,-44,,,19,0.0,0.0794,0.0795,results/o5gb/o5gb.csv
+71,T2_tuning_15cm,_tune15_k,ota,15,24,1x1,oai_ue,2026-10-04T18:58:19+03:00,end of the iteration,32.5,-44,,,19,0.0,0.0947,0.0961,results/o5gb/o5gb.csv
+72,T2_tuning_15cm,_tune15_l,ota,15,24,1x1,oai_ue,2026-10-04T19:01:06+03:00,end of the iteration,28.5,-43,,,2,0.0,0.0767,,results/o5gb/o5gb.csv
+73,T2_tuning_15cm,_tune15_l,ota,15,24,1x1,oai_ue,2026-10-04T19:05:13+03:00,end of the iteration,29.0,-43,,,0,0.0,0.0,0.0,results/o5gb/o5gb.csv
+74,T2_tuning_15cm,_tune15_m,ota,15,24,1x1,oai_ue,2026-10-04T19:11:32+03:00,end of the iteration,29.5,-45,,,19,0.0,0.0914,0.2125,results/o5gb/o5gb.csv
+75,T2_tuning_15cm,_tune15_m,ota,15,24,1x1,oai_ue,2026-10-04T19:14:01+03:00,end of the iteration,16.0,-45,,,19,1.0,0.1126,0.2206,results/o5gb/o5gb.csv
+76,T2_tuning_15cm,_tune15_m,ota,15,24,1x1,oai_ue,2026-10-04T19:16:38+03:00,end of the iteration,16.5,-45,,,19,1.0,0.0981,0.2093,results/o5gb/o5gb.csv
+77,T2_tuning_15cm,_tune15_n,ota,15,24,1x1,oai_ue,2026-10-04T19:20:48+03:00,end of the iteration,30.5,,,,0,0.0,0.0538,0.25,results/o5gb/o5gb.csv
+78,T2_tuning_15cm,_tune15_q,ota,15,24,1x1,oai_ue,2026-10-04T19:41:24+03:00,end of the iteration,29.0,-45,,,19,0.0,0.0729,0.0911,results/o5gb/o5gb.csv
+79,B2_c2,coax24_c2,coax,,24,1x1,oai_ue,2026-10-04T19:44:54+03:00,end of the iteration,53.0,-43,,,20,11.0,0.066,0.0351,results/o5gb/o5gb.csv
+80,B2_c2,coax24_c2,coax,,24,1x1,oai_ue,2026-10-04T19:47:01+03:00,end of the iteration,53.0,-43,,,19,10.0,0.0732,0.0372,results/o5gb/o5gb.csv
+81,B2_c2,coax24_c2,coax,,24,1x1,oai_ue,2026-10-04T19:49:06+03:00,end of the iteration,53.0,-43,,,21,6.0,0.0733,0.0371,results/o5gb/o5gb.csv
+82,B2_c2,coax24_c2,coax,,24,1x1,oai_ue,2026-10-04T19:51:13+03:00,end of the iteration,53.0,-43,,,20,5.0,0.0627,0.0785,results/o5gb/o5gb.csv
+83,B2_c2,coax24_c2,coax,,24,1x1,oai_ue,2026-10-04T19:53:23+03:00,end of the iteration,53.0,-43,,,21,13.0,0.0676,0.0375,results/o5gb/o5gb.csv
+84,B2_c2,coax24_c2,coax,,24,1x1,oai_ue,2026-10-04T19:55:29+03:00,end of the iteration,53.0,-43,,,17,8.0,0.0386,0.0356,results/o5gb/o5gb.csv
+85,B2_c2,coax24_c2,coax,,24,1x1,oai_ue,2026-10-04T19:57:36+03:00,end of the iteration,53.0,-43,,,21,2.0,0.0643,0.0382,results/o5gb/o5gb.csv
+86,B2_c2,coax24_c2,coax,,24,1x1,oai_ue,2026-10-04T19:59:42+03:00,end of the iteration,53.0,-43,,,21,9.0,0.0751,0.0368,results/o5gb/o5gb.csv
+87,B2_c2,coax24_c2,coax,,24,1x1,oai_ue,2026-10-04T20:01:48+03:00,end of the iteration,53.0,-43,,,21,11.0,0.0787,0.0375,results/o5gb/o5gb.csv
+88,B2_c2,coax24_c2,coax,,24,1x1,oai_ue,2026-10-04T20:03:55+03:00,end of the iteration,53.0,-43,,,10,13.0,0.0452,0.0796,results/o5gb/o5gb.csv
+89,B2_c2,coax24_c2,coax,,24,1x1,oai_ue,2026-10-04T20:06:08+03:00,end of the iteration,53.0,-43,,,19,6.0,0.0646,0.0376,results/o5gb/o5gb.csv
+90,B2_c2,coax24_c2,coax,,24,1x1,oai_ue,2026-10-04T20:08:15+03:00,end of the iteration,53.0,-43,,,20,13.0,0.0766,0.0366,results/o5gb/o5gb.csv
+91,B2_c2,coax24_c2,coax,,24,1x1,oai_ue,2026-10-04T20:10:21+03:00,end of the iteration,53.0,-43,,,10,0.0,0.0348,0.0372,results/o5gb/o5gb.csv
+92,B2_c2,coax24_c2,coax,,24,1x1,oai_ue,2026-10-04T20:12:29+03:00,end of the iteration,53.0,-43,,,18,8.0,0.056,0.0372,results/o5gb/o5gb.csv
+93,B2_c2,coax24_c2,coax,,24,1x1,oai_ue,2026-10-04T20:14:36+03:00,end of the iteration,53.0,-43,,,19,5.0,0.0465,0.0368,results/o5gb/o5gb.csv
+94,B2_c2,coax24_c2,coax,,24,1x1,oai_ue,2026-10-04T20:16:43+03:00,end of the iteration,53.0,-43,,,21,4.0,0.072,0.0366,results/o5gb/o5gb.csv
+95,B2_c2,coax24_c2,coax,,24,1x1,oai_ue,2026-10-04T20:18:50+03:00,end of the iteration,53.0,-43,,,19,6.0,0.0827,0.0358,results/o5gb/o5gb.csv
+96,B2_c2,coax24_c2,coax,,24,1x1,oai_ue,2026-10-04T20:20:56+03:00,end of the iteration,53.0,-43,,,15,10.0,0.0742,0.035,results/o5gb/o5gb.csv
+97,B2_c2,coax24_c2,coax,,24,1x1,oai_ue,2026-10-04T20:23:03+03:00,end of the iteration,53.0,-43,,,20,16.0,0.0893,0.0353,results/o5gb/o5gb.csv
+98,B2_c2,coax24_c2,coax,,24,1x1,oai_ue,2026-10-04T20:25:10+03:00,end of the iteration,53.0,-43,,,20,5.0,0.082,0.0356,results/o5gb/o5gb.csv
+99,B2_c2,ota24_c2,ota,15,24,1x1,oai_ue,2026-10-04T20:30:34+03:00,end of the iteration,16.5,-45,,,18,0.0,0.0997,0.1102,results/o5gb/o5gb.csv
+100,B2_c2,ota24_c2,ota,15,24,1x1,oai_ue,2026-10-04T20:34:43+03:00,end of the iteration,16.5,-45,,,17,0.0,0.116,0.1101,results/o5gb/o5gb.csv
+101,B2_c2,ota24_c2,ota,15,24,1x1,oai_ue,2026-10-04T20:38:58+03:00,end of the iteration,29.5,-45,,,20,0.0,0.1093,0.112,results/o5gb/o5gb.csv
+102,B2_c2,ota24_c2,ota,15,24,1x1,oai_ue,2026-10-04T20:43:10+03:00,end of the iteration,16.5,-45,,,17,0.0,0.1087,0.1112,results/o5gb/o5gb.csv
+103,B2_c2,ota24_c2,ota,15,24,1x1,oai_ue,2026-10-04T20:47:25+03:00,end of the iteration,29.5,-45,,,14,0.0,0.1096,0.1117,results/o5gb/o5gb.csv
+104,B2_c2,ota24_c2,ota,15,24,1x1,oai_ue,2026-10-04T20:51:42+03:00,end of the iteration,16.5,-45,,,19,0.0,0.1155,0.112,results/o5gb/o5gb.csv
+105,B2_c2,ota24_c2,ota,15,24,1x1,oai_ue,2026-10-04T20:54:28+03:00,end of the iteration,16.5,-45,,,18,0.0,0.1106,0.1106,results/o5gb/o5gb.csv
+106,B2_c2,ota24_c2,ota,15,24,1x1,oai_ue,2026-10-04T20:57:13+03:00,end of the iteration,16.5,-45,,,20,0.0,0.1121,0.1133,results/o5gb/o5gb.csv
+107,B2_c2,ota24_c2,ota,15,24,1x1,oai_ue,2026-10-04T20:59:53+03:00,end of the iteration,29.5,-45,,,19,0.0,0.1096,0.1112,results/o5gb/o5gb.csv
+108,B2_c2,ota24_c2,ota,15,24,1x1,oai_ue,2026-10-04T21:03:37+03:00,end of the iteration,16.5,-45,,,19,0.0,0.1116,0.1114,results/o5gb/o5gb.csv
+109,B2_c2,ota24_c2,ota,15,24,1x1,oai_ue,2026-10-04T21:06:21+03:00,end of the iteration,16.5,-45,,,18,0.0,0.1091,0.1109,results/o5gb/o5gb.csv
+110,B2_c2,ota24_c2,ota,15,24,1x1,oai_ue,2026-10-04T21:10:31+03:00,end of the iteration,16.0,-45,,,17,0.0,0.1091,0.1116,results/o5gb/o5gb.csv
+111,B2_c2,ota24_c2,ota,15,24,1x1,oai_ue,2026-10-04T21:14:14+03:00,end of the iteration,16.5,-45,,,17,0.0,0.1065,0.1123,results/o5gb/o5gb.csv
+112,B2_c2,ota24_c2,ota,15,24,1x1,oai_ue,2026-10-04T21:18:25+03:00,end of the iteration,16.5,-45,,,17,0.0,0.1161,0.1123,results/o5gb/o5gb.csv
+113,B2_c2,ota24_c2,ota,15,24,1x1,oai_ue,2026-10-04T21:22:39+03:00,end of the iteration,16.5,-45,,,17,0.0,0.1115,0.1112,results/o5gb/o5gb.csv
+114,B2_c2,ota24_c2,ota,15,24,1x1,oai_ue,2026-10-04T21:25:26+03:00,end of the iteration,29.5,-45,,,18,0.0,0.1079,0.1124,results/o5gb/o5gb.csv
+115,B2_c2,ota24_c2,ota,15,24,1x1,oai_ue,2026-10-04T21:29:36+03:00,end of the iteration,16.5,-45,,,0,0.0,0.3854,0.3325,results/o5gb/o5gb.csv
+116,B2_c2,ota24_c2,ota,15,24,1x1,oai_ue,2026-10-04T21:32:33+03:00,end of the iteration,15.0,-45,,,0,0.0,0.301,0.327,results/o5gb/o5gb.csv
+117,B2_c2,ota24_c2,ota,15,24,1x1,oai_ue,2026-10-04T21:34:47+03:00,end of the iteration,16.5,-45,,,19,0.0,0.0729,0.1068,results/o5gb/o5gb.csv
+118,B2_c2,ota24_c2,ota,15,24,1x1,oai_ue,2026-10-04T21:39:03+03:00,end of the iteration,16.5,-45,,,15,0.0,0.0772,0.108,results/o5gb/o5gb.csv
+119,B3_c3,coax24_c3,coax,,24,1x1,oai_ue,2026-10-04T21:45:18+03:00,end of the iteration,53.0,-43,,,9,17.0,0.032,0.0326,results/o5gb/o5gb.csv
+120,B3_c3,coax24_c3,coax,,24,1x1,oai_ue,2026-10-04T21:46:13+03:00,end of the iteration,17.5,-43,,,21,23.0,0.0541,0.0312,results/o5gb/o5gb.csv
+121,B3_c3,coax24_c3,coax,,24,1x1,oai_ue,2026-10-04T21:47:07+03:00,end of the iteration,53.0,-43,,,17,16.0,0.0632,0.0304,results/o5gb/o5gb.csv
+122,B3_c3,coax24_c3,coax,,24,1x1,oai_ue,2026-10-04T21:48:02+03:00,end of the iteration,34.0,-43,,,5,19.0,0.0366,0.0337,results/o5gb/o5gb.csv
+123,B3_c3,coax24_c3,coax,,24,1x1,oai_ue,2026-10-04T21:48:59+03:00,end of the iteration,53.0,-43,,,22,10.0,0.0617,0.0347,results/o5gb/o5gb.csv
+124,B3_c3,coax24_c3,coax,,24,1x1,oai_ue,2026-10-04T21:49:53+03:00,end of the iteration,53.0,-43,,,20,11.0,0.0588,0.0322,results/o5gb/o5gb.csv
+125,B3_c3,coax24_c3,coax,,24,1x1,oai_ue,2026-10-04T21:50:48+03:00,end of the iteration,53.0,-43,,,20,17.0,0.0457,0.0341,results/o5gb/o5gb.csv
+126,B3_c3,coax24_c3,coax,,24,1x1,oai_ue,2026-10-04T21:51:43+03:00,end of the iteration,53.0,-43,,,20,19.0,0.0525,0.0373,results/o5gb/o5gb.csv
+127,B3_c3,coax24_c3,coax,,24,1x1,oai_ue,2026-10-04T21:52:37+03:00,end of the iteration,53.0,-43,,,21,20.0,0.0332,0.0291,results/o5gb/o5gb.csv
+128,B3_c3,coax24_c3,coax,,24,1x1,oai_ue,2026-10-04T21:53:32+03:00,end of the iteration,34.5,-43,,,22,15.0,0.0668,0.0224,results/o5gb/o5gb.csv
+129,B3_c3,coax24_c3,coax,,24,1x1,oai_ue,2026-10-04T21:54:27+03:00,end of the iteration,53.0,-43,,,9,19.0,0.0329,0.0268,results/o5gb/o5gb.csv
+130,B3_c3,coax24_c3,coax,,24,1x1,oai_ue,2026-10-04T21:55:23+03:00,end of the iteration,53.0,-43,,,21,15.0,0.0615,0.0282,results/o5gb/o5gb.csv
+131,B3_c3,coax24_c3,coax,,24,1x1,oai_ue,2026-10-04T21:56:18+03:00,end of the iteration,53.0,-43,,,0,10.0,0.0434,0.0289,results/o5gb/o5gb.csv
+132,B3_c3,coax24_c3,coax,,24,1x1,oai_ue,2026-10-04T21:57:14+03:00,end of the iteration,53.0,-43,,,18,16.0,0.0584,0.0247,results/o5gb/o5gb.csv
+133,B3_c3,coax24_c3,coax,,24,1x1,oai_ue,2026-10-04T21:58:10+03:00,end of the iteration,50.5,-43,,,21,20.0,0.0705,0.0296,results/o5gb/o5gb.csv
+134,B3_c3,coax24_c3,coax,,24,1x1,oai_ue,2026-10-04T21:59:04+03:00,end of the iteration,53.0,-43,,,19,12.0,0.0709,0.0255,results/o5gb/o5gb.csv
+135,B3_c3,coax24_c3,coax,,24,1x1,oai_ue,2026-10-04T22:00:00+03:00,end of the iteration,36.5,,,,,,,,results/o5gb/o5gb.csv
+136,B3_c3,coax24_c3,coax,,24,1x1,oai_ue,2026-10-04T22:02:40+03:00,end of the iteration,53.0,-43,,,,,,,results/o5gb/o5gb.csv
+137,B3_c3,coax24_c3,coax,,24,1x1,oai_ue,2026-10-04T22:07:35+03:00,end of the iteration,53.0,,,,,,,,results/o5gb/o5gb.csv
+138,B3_c3,coax24_c3,coax,,24,1x1,oai_ue,2026-10-04T22:10:16+03:00,end of the iteration,53.0,-43,,,,,,,results/o5gb/o5gb.csv
+139,B3_c3,coax24_c3,coax,,24,1x1,oai_ue,2026-10-04T22:15:11+03:00,end of the iteration,53.0,-43,,,,,,,results/o5gb/o5gb.csv
+140,B3_c3,coax24_c3,coax,,24,1x1,oai_ue,2026-10-04T22:20:06+03:00,end of the iteration,53.0,-43,,,,,,,results/o5gb/o5gb.csv
+141,B3_c3,coax24_c3,coax,,24,1x1,oai_ue,2026-10-04T22:25:01+03:00,end of the iteration,53.0,-43,,,,,,,results/o5gb/o5gb.csv
+142,B3_c3,coax24_c3,coax,,24,1x1,oai_ue,2026-10-04T22:29:57+03:00,end of the iteration,53.0,-43,,,,,,,results/o5gb/o5gb.csv
+143,B3_c3,coax24_c3,coax,,24,1x1,oai_ue,2026-10-04T22:34:52+03:00,end of the iteration,53.0,-43,,,,,,,results/o5gb/o5gb.csv
+144,B3_c3,coax24_c3,coax,,24,1x1,oai_ue,2026-10-04T22:39:47+03:00,end of the iteration,53.0,-43,,,,,,,results/o5gb/o5gb.csv
+145,B3_c3,coax24_c3,coax,,24,1x1,oai_ue,2026-10-04T22:44:43+03:00,end of the iteration,53.0,-43,,,,,,,results/o5gb/o5gb.csv
+146,B3_c3,coax24_c3,coax,,24,1x1,oai_ue,2026-10-04T22:49:38+03:00,end of the iteration,53.0,-43,,,,,,,results/o5gb/o5gb.csv
+147,B3_c3,coax24_c3,coax,,24,1x1,oai_ue,2026-10-04T22:54:34+03:00,end of the iteration,53.0,-43,,,,,,,results/o5gb/o5gb.csv
+148,B3_c3,coax24_c3,coax,,24,1x1,oai_ue,2026-10-04T22:59:30+03:00,end of the iteration,53.0,-43,,,,,,,results/o5gb/o5gb.csv
+149,B3_c3,coax24_c3,coax,,24,1x1,oai_ue,2026-10-04T23:04:25+03:00,end of the iteration,53.0,-43,,,,,,,results/o5gb/o5gb.csv
+150,B3_c3,coax24_c3,coax,,24,1x1,oai_ue,2026-10-04T23:09:21+03:00,end of the iteration,53.0,-43,,,,,,,results/o5gb/o5gb.csv
+151,B3_c3,coax24_c3,coax,,24,1x1,oai_ue,2026-10-04T23:14:17+03:00,end of the iteration,53.0,-43,,,,,,,results/o5gb/o5gb.csv
+152,B3_c3,coax24_c3,coax,,24,1x1,oai_ue,2026-10-04T23:19:13+03:00,end of the iteration,53.0,-43,,,,,,,results/o5gb/o5gb.csv
+153,B3_c3,coax24_c3,coax,,24,1x1,oai_ue,2026-10-04T23:24:09+03:00,end of the iteration,53.0,-43,,,,,,,results/o5gb/o5gb.csv
+154,B3_c3,coax24_c3,coax,,24,1x1,oai_ue,2026-10-04T23:29:05+03:00,end of the iteration,53.0,-43,,,,,,,results/o5gb/o5gb.csv
+155,B3_c3,coax24_c3,coax,,24,1x1,oai_ue,2026-10-04T23:34:01+03:00,end of the iteration,53.0,-43,,,,,,,results/o5gb/o5gb.csv
+156,B3_c3,coax24_c3,coax,,24,1x1,oai_ue,2026-10-04T23:38:57+03:00,end of the iteration,53.0,-43,,,,,,,results/o5gb/o5gb.csv
+157,B3_c3,coax24_c3,coax,,24,1x1,oai_ue,2026-10-04T23:43:53+03:00,end of the iteration,53.0,-43,,,,,,,results/o5gb/o5gb.csv
+158,B3_c3,coax24_c3,coax,,24,1x1,oai_ue,2026-10-04T23:48:49+03:00,end of the iteration,53.0,-43,,,,,,,results/o5gb/o5gb.csv
+159,B3_c3,coax24_c3,coax,,24,1x1,oai_ue,2026-10-04T23:53:46+03:00,end of the iteration,53.0,-43,,,,,,,results/o5gb/o5gb.csv
+160,B3_c3,coax24_c3,coax,,24,1x1,oai_ue,2026-10-04T23:58:42+03:00,end of the iteration,53.0,-43,,,,,,,results/o5gb/o5gb.csv
+161,B3_c3,coax24_c3,coax,,24,1x1,oai_ue,2026-10-05T00:03:38+03:00,end of the iteration,53.0,-43,,,,,,,results/o5gb/o5gb.csv
+162,B3_c3,coax24_c3,coax,,24,1x1,oai_ue,2026-10-05T00:08:35+03:00,end of the iteration,53.0,-43,,,,,,,results/o5gb/o5gb.csv
+163,B3_c3,coax24_c3,coax,,24,1x1,oai_ue,2026-10-05T00:13:31+03:00,end of the iteration,53.0,-43,,,,,,,results/o5gb/o5gb.csv
+164,B3_c3,coax24_c3,coax,,24,1x1,oai_ue,2026-10-05T00:18:28+03:00,end of the iteration,53.0,-43,,,,,,,results/o5gb/o5gb.csv
+165,B3_c3,coax24_c3,coax,,24,1x1,oai_ue,2026-10-05T00:23:25+03:00,end of the iteration,53.0,-43,,,,,,,results/o5gb/o5gb.csv
+166,B3_c3,coax24_c3,coax,,24,1x1,oai_ue,2026-10-05T00:28:21+03:00,end of the iteration,53.0,-43,,,,,,,results/o5gb/o5gb.csv
+167,B3_c3,coax24_c3,coax,,24,1x1,oai_ue,2026-10-05T00:33:18+03:00,end of the iteration,53.0,-43,,,,,,,results/o5gb/o5gb.csv
+168,B3_c3,coax24_c3,coax,,24,1x1,oai_ue,2026-10-05T00:38:15+03:00,end of the iteration,53.0,-43,,,,,,,results/o5gb/o5gb.csv
+169,B3_c3,ota24_c3,ota,15,24,1x1,oai_ue,2026-10-05T00:47:14+03:00,end of the iteration,29.5,-45,,,20,0.0,0.0782,0.1084,results/o5gb/o5gb.csv
+170,B3_c3,ota24_c3,ota,15,24,1x1,oai_ue,2026-10-05T00:49:05+03:00,end of the iteration,16.5,-45,,,19,0.0,0.0848,0.1098,results/o5gb/o5gb.csv
+171,B3_c3,ota24_c3,ota,15,24,1x1,oai_ue,2026-10-05T00:50:54+03:00,end of the iteration,16.5,-45,,,20,0.0,0.0803,0.1128,results/o5gb/o5gb.csv
+172,B3_c3,ota24_c3,ota,15,24,1x1,oai_ue,2026-10-05T00:52:48+03:00,end of the iteration,29.5,-45,,,20,0.0,0.0815,0.1111,results/o5gb/o5gb.csv
+173,B3_c3,ota24_c3,ota,15,24,1x1,oai_ue,2026-10-05T00:54:42+03:00,end of the iteration,29.5,-45,,,19,0.0,0.0903,0.1124,results/o5gb/o5gb.csv
+174,B3_c3,ota24_c3,ota,15,24,1x1,oai_ue,2026-10-05T00:56:35+03:00,end of the iteration,29.5,-45,,,20,0.0,0.0932,0.1128,results/o5gb/o5gb.csv
+175,B3_c3,ota24_c3,ota,15,24,1x1,oai_ue,2026-10-05T00:58:29+03:00,end of the iteration,29.5,-45,,,19,0.0,0.0936,0.1121,results/o5gb/o5gb.csv
+176,B3_c3,ota24_c3,ota,15,24,1x1,oai_ue,2026-10-05T01:00:22+03:00,end of the iteration,29.5,-45,,,20,0.0,0.0754,0.1112,results/o5gb/o5gb.csv
+177,B3_c3,ota24_c3,ota,15,24,1x1,oai_ue,2026-10-05T01:02:15+03:00,end of the iteration,16.5,-45,,,20,0.0,0.0778,0.1114,results/o5gb/o5gb.csv
+178,B3_c3,ota24_c3,ota,15,24,1x1,oai_ue,2026-10-05T01:04:02+03:00,end of the iteration,29.5,-45,,,20,0.0,0.0799,0.1123,results/o5gb/o5gb.csv
+179,B3_c3,ota24_c3,ota,15,24,1x1,oai_ue,2026-10-05T01:05:54+03:00,end of the iteration,29.5,-45,,,20,0.0,0.0821,0.1136,results/o5gb/o5gb.csv
+180,B3_c3,ota24_c3,ota,15,24,1x1,oai_ue,2026-10-05T01:07:47+03:00,end of the iteration,29.5,-45,,,20,0.0,0.0832,0.1135,results/o5gb/o5gb.csv
+181,B3_c3,ota24_c3,ota,15,24,1x1,oai_ue,2026-10-05T01:09:39+03:00,end of the iteration,16.5,-45,,,19,0.0,0.0811,0.1105,results/o5gb/o5gb.csv
+182,B3_c3,ota24_c3,ota,15,24,1x1,oai_ue,2026-10-05T01:11:33+03:00,end of the iteration,29.5,-45,,,19,0.0,0.074,0.1114,results/o5gb/o5gb.csv
+183,B3_c3,ota24_c3,ota,15,24,1x1,oai_ue,2026-10-05T01:13:26+03:00,end of the iteration,16.5,-45,,,19,0.0,0.0728,0.1109,results/o5gb/o5gb.csv
+184,B3_c3,ota24_c3,ota,15,24,1x1,oai_ue,2026-10-05T01:15:15+03:00,end of the iteration,29.5,-45,,,20,0.0,0.0969,0.1119,results/o5gb/o5gb.csv
+185,B3_c3,ota24_c3,ota,15,24,1x1,oai_ue,2026-10-05T01:17:09+03:00,end of the iteration,29.5,-45,,,20,0.0,0.0803,0.1131,results/o5gb/o5gb.csv
+186,B3_c3,ota24_c3,ota,15,24,1x1,oai_ue,2026-10-05T01:19:02+03:00,end of the iteration,16.5,-45,,,20,0.0,0.098,0.1108,results/o5gb/o5gb.csv
+187,B3_c3,ota24_c3,ota,15,24,1x1,oai_ue,2026-10-05T01:20:56+03:00,end of the iteration,29.5,-45,,,20,0.0,0.0944,0.1102,results/o5gb/o5gb.csv
+188,B3_c3,ota24_c3,ota,15,24,1x1,oai_ue,2026-10-05T01:22:48+03:00,end of the iteration,29.5,-45,,,20,0.0,0.0749,0.1101,results/o5gb/o5gb.csv
+189,B3_c3,ota24_c3,ota,15,24,1x1,oai_ue,2026-10-05T01:24:38+03:00,end of the iteration,16.5,-45,,,20,0.0,0.0815,0.1136,results/o5gb/o5gb.csv
+190,B3_c3,ota24_c3,ota,15,24,1x1,oai_ue,2026-10-05T01:26:32+03:00,end of the iteration,29.5,-45,,,20,0.0,0.0762,0.1125,results/o5gb/o5gb.csv
+191,B3_c3,ota24_c3,ota,15,24,1x1,oai_ue,2026-10-05T01:28:26+03:00,end of the iteration,29.5,-45,,,20,0.0,0.0807,0.116,results/o5gb/o5gb.csv
+192,B3_c3,ota24_c3,ota,15,24,1x1,oai_ue,2026-10-05T01:30:13+03:00,end of the iteration,16.5,-45,,,20,0.0,0.0969,0.1122,results/o5gb/o5gb.csv
+193,B3_c3,ota24_c3,ota,15,24,1x1,oai_ue,2026-10-05T01:32:08+03:00,end of the iteration,29.5,-45,,,20,0.0,0.079,0.1099,results/o5gb/o5gb.csv
+194,B3_c3,ota24_c3,ota,15,24,1x1,oai_ue,2026-10-05T01:34:02+03:00,end of the iteration,29.5,-45,,,20,0.0,0.0967,0.1135,results/o5gb/o5gb.csv
+195,B3_c3,ota24_c3,ota,15,24,1x1,oai_ue,2026-10-05T01:35:55+03:00,end of the iteration,29.5,-45,,,20,0.0,0.0801,0.1153,results/o5gb/o5gb.csv
+196,B3_c3,ota24_c3,ota,15,24,1x1,oai_ue,2026-10-05T01:37:42+03:00,end of the iteration,29.5,-45,,,18,0.0,0.0746,0.1104,results/o5gb/o5gb.csv
+197,B3_c3,ota24_c3,ota,15,24,1x1,oai_ue,2026-10-05T01:39:36+03:00,end of the iteration,16.5,-45,,,19,0.0,0.0954,0.1115,results/o5gb/o5gb.csv
+198,B3_c3,ota24_c3,ota,15,24,1x1,oai_ue,2026-10-05T01:41:25+03:00,end of the iteration,16.5,-45,,,20,0.0,0.0795,0.1117,results/o5gb/o5gb.csv
+199,B3_c3,ota24_c3,ota,15,24,1x1,oai_ue,2026-10-05T01:43:19+03:00,end of the iteration,29.5,-45,,,20,0.0,0.0786,0.1117,results/o5gb/o5gb.csv
+200,B3_c3,ota24_c3,ota,15,24,1x1,oai_ue,2026-10-05T01:45:13+03:00,end of the iteration,29.5,-45,,,20,0.0,0.0769,0.1133,results/o5gb/o5gb.csv
+201,B3_c3,ota24_c3,ota,15,24,1x1,oai_ue,2026-10-05T01:47:05+03:00,end of the iteration,29.5,-45,,,19,0.0,0.073,0.114,results/o5gb/o5gb.csv
+202,B3_c3,ota24_c3,ota,15,24,1x1,oai_ue,2026-10-05T01:48:58+03:00,end of the iteration,29.5,-45,,,20,0.0,0.0965,0.1117,results/o5gb/o5gb.csv
+203,B3_c3,ota24_c3,ota,15,24,1x1,oai_ue,2026-10-05T01:50:52+03:00,end of the iteration,16.5,-45,,,20,0.0,0.0758,0.1145,results/o5gb/o5gb.csv
+204,B3_c3,ota24_c3,ota,15,24,1x1,oai_ue,2026-10-05T01:52:41+03:00,end of the iteration,16.5,-45,,,20,0.0,0.0837,0.1116,results/o5gb/o5gb.csv
+205,B3_c3,ota24_c3,ota,15,24,1x1,oai_ue,2026-10-05T01:54:36+03:00,end of the iteration,16.5,-45,,,20,0.0,0.0913,0.1116,results/o5gb/o5gb.csv
+206,B3_c3,ota24_c3,ota,15,24,1x1,oai_ue,2026-10-05T01:56:24+03:00,end of the iteration,29.5,-54,,,19,0.0,0.0762,0.1109,results/o5gb/o5gb.csv
+207,B3_c3,ota24_c3,ota,15,24,1x1,oai_ue,2026-10-05T01:58:18+03:00,end of the iteration,16.5,-45,,,20,0.0,0.0786,0.1117,results/o5gb/o5gb.csv
+208,B3_c3,ota24_c3,ota,15,24,1x1,oai_ue,2026-10-05T02:00:10+03:00,end of the iteration,16.5,-46,,,20,0.0,0.0812,0.1124,results/o5gb/o5gb.csv
+209,B3_c3,ota24_c3,ota,15,24,1x1,oai_ue,2026-10-05T02:01:59+03:00,end of the iteration,29.5,-46,,,18,0.0,0.0898,0.1127,results/o5gb/o5gb.csv
+210,B3_c3,ota24_c3,ota,15,24,1x1,oai_ue,2026-10-05T02:03:52+03:00,end of the iteration,29.5,-45,,,18,0.0,0.076,0.112,results/o5gb/o5gb.csv
+211,B3_c3,ota24_c3,ota,15,24,1x1,oai_ue,2026-10-05T02:05:44+03:00,end of the iteration,29.5,-45,,,20,0.0,0.0805,0.1101,results/o5gb/o5gb.csv
+212,B3_c3,ota24_c3,ota,15,24,1x1,oai_ue,2026-10-05T02:07:36+03:00,end of the iteration,29.5,-45,,,19,0.0,0.0966,0.1125,results/o5gb/o5gb.csv
+213,B3_c3,ota24_c3,ota,15,24,1x1,oai_ue,2026-10-05T02:09:28+03:00,end of the iteration,16.5,-45,,,20,0.0,0.0858,0.1124,results/o5gb/o5gb.csv
+214,B3_c3,ota24_c3,ota,15,24,1x1,oai_ue,2026-10-05T02:11:22+03:00,end of the iteration,16.5,-45,,,20,0.0,0.0801,0.1109,results/o5gb/o5gb.csv
+215,B3_c3,ota24_c3,ota,15,24,1x1,oai_ue,2026-10-05T02:13:15+03:00,end of the iteration,29.5,-45,,,20,0.0,0.0854,0.1123,results/o5gb/o5gb.csv
+216,B3_c3,ota24_c3,ota,15,24,1x1,oai_ue,2026-10-05T02:15:10+03:00,end of the iteration,29.5,-45,,,20,0.0,0.0831,0.1127,results/o5gb/o5gb.csv
+217,B3_c3,ota24_c3,ota,15,24,1x1,oai_ue,2026-10-05T02:17:04+03:00,end of the iteration,16.5,-45,,,20,0.0,0.0799,0.1108,results/o5gb/o5gb.csv
+218,B3_c3,ota24_c3,ota,15,24,1x1,oai_ue,2026-10-05T02:18:54+03:00,end of the iteration,16.5,-45,,,20,0.0,0.0729,0.1099,results/o5gb/o5gb.csv
+219,B3_c3,ota51_c3,ota,15,51,1x1,oai_ue,2026-10-05T03:46:31+03:00,end of the iteration,22.5,-47,,,7,1.0,0.0875,0.0944,results/o5gb/o5gb.csv
+220,B3_c3,ota51_c3,ota,15,51,1x1,oai_ue,2026-10-05T03:47:41+03:00,end of the iteration,23.0,-47,,,8,2.0,0.0777,0.089,results/o5gb/o5gb.csv
+221,B3_c3,ota51_c3,ota,15,51,1x1,oai_ue,2026-10-05T03:48:53+03:00,end of the iteration,31.5,-47,,,8,0.0,0.0869,0.089,results/o5gb/o5gb.csv
+222,B3_c3,ota51_c3,ota,15,51,1x1,oai_ue,2026-10-05T03:49:59+03:00,end of the iteration,20.5,-47,,,8,0.0,0.0722,0.6803,results/o5gb/o5gb.csv
+223,B3_c3,ota51_c3,ota,15,51,1x1,oai_ue,2026-10-05T03:54:58+03:00,end of the iteration,22.5,-47,,,8,2.0,0.0811,0.0881,results/o5gb/o5gb.csv
+224,B3_c3,ota51_c3,ota,15,51,1x1,oai_ue,2026-10-05T03:56:10+03:00,end of the iteration,22.5,-47,,,8,1.0,0.1015,0.0943,results/o5gb/o5gb.csv
+225,B3_c3,ota51_c3,ota,15,51,1x1,oai_ue,2026-10-05T03:57:21+03:00,end of the iteration,22.5,-47,,,7,2.0,0.0947,0.0876,results/o5gb/o5gb.csv
+226,B3_c3,ota51_c3,ota,15,51,1x1,oai_ue,2026-10-05T03:58:33+03:00,end of the iteration,22.5,-47,,,7,1.0,0.0767,0.0878,results/o5gb/o5gb.csv
+227,B3_c3,ota51_c3,ota,15,51,1x1,oai_ue,2026-10-05T03:59:44+03:00,end of the iteration,31.5,-48,,,2,0.0,0.0928,0.0,results/o5gb/o5gb.csv
+228,B3_c3,ota51_c3,ota,15,51,1x1,oai_ue,2026-10-05T04:02:06+03:00,end of the iteration,22.5,-47,,,7,2.0,0.0809,0.0919,results/o5gb/o5gb.csv
+229,B3_c3,ota51_c3,ota,15,51,1x1,oai_ue,2026-10-05T04:03:16+03:00,end of the iteration,32.0,-48,,,8,0.0,0.0967,0.0859,results/o5gb/o5gb.csv
+230,B3_c3,ota51_c3,ota,15,51,1x1,oai_ue,2026-10-05T04:04:27+03:00,end of the iteration,22.5,-48,,,7,2.0,0.0789,0.0937,results/o5gb/o5gb.csv
+231,B3_c3,ota51_c3,ota,15,51,1x1,oai_ue,2026-10-05T04:05:39+03:00,end of the iteration,22.5,-47,,,8,1.0,0.0807,0.0875,results/o5gb/o5gb.csv
+232,B3_c3,ota51_c3,ota,15,51,1x1,oai_ue,2026-10-05T04:06:51+03:00,end of the iteration,22.5,-47,,,8,0.0,0.1047,0.0899,results/o5gb/o5gb.csv
+233,B3_c3,ota51_c3,ota,15,51,1x1,oai_ue,2026-10-05T04:08:02+03:00,end of the iteration,23.0,-48,,,8,2.0,0.0783,0.0899,results/o5gb/o5gb.csv
+234,B3_c3,ota51_c3,ota,15,51,1x1,oai_ue,2026-10-05T04:09:15+03:00,end of the iteration,22.5,-47,,,8,1.0,0.0837,0.0903,results/o5gb/o5gb.csv
+235,B3_c3,ota51_c3,ota,15,51,1x1,oai_ue,2026-10-05T04:10:26+03:00,end of the iteration,31.0,-47,,,7,1.0,0.0732,0.0862,results/o5gb/o5gb.csv
+236,B3_c3,ota51_c3,ota,15,51,1x1,oai_ue,2026-10-05T04:11:38+03:00,end of the iteration,22.5,-48,,,8,2.0,0.0706,0.093,results/o5gb/o5gb.csv
+237,B3_c3,ota51_c3,ota,15,51,1x1,oai_ue,2026-10-05T04:12:51+03:00,end of the iteration,31.5,-47,,,5,0.0,0.1019,0.09,results/o5gb/o5gb.csv
+238,B3_c3,ota51_c3,ota,15,51,1x1,oai_ue,2026-10-05T04:14:01+03:00,end of the iteration,22.5,-48,,,7,1.0,0.0847,0.086,results/o5gb/o5gb.csv
+239,B3_c3,ota51_c3,ota,15,51,1x1,oai_ue,2026-10-05T04:15:13+03:00,end of the iteration,31.5,-47,,,8,0.0,0.0897,0.0936,results/o5gb/o5gb.csv
+240,B3_c3,ota51_c3,ota,15,51,1x1,oai_ue,2026-10-05T04:16:25+03:00,end of the iteration,31.5,-47,,,7,0.0,0.1045,0.0864,results/o5gb/o5gb.csv
+241,B3_c3,ota51_c3,ota,15,51,1x1,oai_ue,2026-10-05T04:17:36+03:00,end of the iteration,22.5,-47,,,7,2.0,0.1001,0.0876,results/o5gb/o5gb.csv
+242,B3_c3,ota51_c3,ota,15,51,1x1,oai_ue,2026-10-05T04:18:48+03:00,end of the iteration,22.5,-47,,,7,2.0,0.1033,0.0849,results/o5gb/o5gb.csv
+243,B3_c3,ota51_c3,ota,15,51,1x1,oai_ue,2026-10-05T04:20:00+03:00,end of the iteration,22.5,-47,,,7,1.0,0.0997,0.0889,results/o5gb/o5gb.csv
+244,B3_c3,ota51_c3,ota,15,51,1x1,oai_ue,2026-10-05T04:21:12+03:00,end of the iteration,22.5,-47,,,6,2.0,0.102,0.0866,results/o5gb/o5gb.csv
+245,B3_c3,ota51_c3,ota,15,51,1x1,oai_ue,2026-10-05T04:22:25+03:00,end of the iteration,22.5,-47,,,8,2.0,0.107,0.0881,results/o5gb/o5gb.csv
+246,B3_c3,ota51_c3,ota,15,51,1x1,oai_ue,2026-10-05T04:23:36+03:00,end of the iteration,23.0,-47,,,7,1.0,0.1014,0.0922,results/o5gb/o5gb.csv
+247,B3_c3,ota51_c3,ota,15,51,1x1,oai_ue,2026-10-05T04:24:48+03:00,end of the iteration,23.0,-47,,,8,2.0,0.0806,0.088,results/o5gb/o5gb.csv
+248,B3_c3,ota51_c3,ota,15,51,1x1,oai_ue,2026-10-05T04:26:01+03:00,end of the iteration,22.5,-48,,,8,2.0,0.0682,0.0914,results/o5gb/o5gb.csv
+249,B3_c3,ota51_c3,ota,15,51,1x1,oai_ue,2026-10-05T04:27:13+03:00,end of the iteration,22.5,-47,,,8,2.0,0.1069,0.0868,results/o5gb/o5gb.csv
+250,B3_c3,ota51_c3,ota,15,51,1x1,oai_ue,2026-10-05T04:28:24+03:00,end of the iteration,22.5,-47,,,8,2.0,0.1074,0.0851,results/o5gb/o5gb.csv
+251,B3_c3,ota51_c3,ota,15,51,1x1,oai_ue,2026-10-05T04:29:36+03:00,end of the iteration,22.5,-47,,,6,1.0,0.0792,0.0935,results/o5gb/o5gb.csv
+252,B3_c3,ota51_c3,ota,15,51,1x1,oai_ue,2026-10-05T04:30:48+03:00,end of the iteration,31.0,-47,,,7,1.0,0.0782,0.0853,results/o5gb/o5gb.csv
+253,B3_c3,ota51_c3,ota,15,51,1x1,oai_ue,2026-10-05T04:31:59+03:00,end of the iteration,32.0,-47,,,8,0.0,0.0609,0.0903,results/o5gb/o5gb.csv
+254,B3_c3,ota51_c3,ota,15,51,1x1,oai_ue,2026-10-05T04:33:05+03:00,end of the iteration,22.5,-47,,,9,2.0,0.1127,0.0909,results/o5gb/o5gb.csv
+255,B3_c3,ota51_c3,ota,15,51,1x1,oai_ue,2026-10-05T04:34:17+03:00,end of the iteration,22.5,-47,,,7,2.0,0.096,0.0852,results/o5gb/o5gb.csv
+256,B3_c3,ota51_c3,ota,15,51,1x1,oai_ue,2026-10-05T04:35:29+03:00,end of the iteration,31.5,-47,,,8,0.0,0.095,0.0874,results/o5gb/o5gb.csv
+257,B3_c3,ota51_c3,ota,15,51,1x1,oai_ue,2026-10-05T04:36:40+03:00,end of the iteration,22.5,-47,,,8,2.0,0.0741,0.0862,results/o5gb/o5gb.csv
+258,B3_c3,ota51_c3,ota,15,51,1x1,oai_ue,2026-10-05T04:37:52+03:00,end of the iteration,22.5,-48,,,8,2.0,0.101,0.09,results/o5gb/o5gb.csv
+259,B3_c3,ota51_c3,ota,15,51,1x1,oai_ue,2026-10-05T04:39:05+03:00,end of the iteration,31.5,-47,,,6,0.0,0.0763,0.0895,results/o5gb/o5gb.csv
+260,B3_c3,ota51_c3,ota,15,51,1x1,oai_ue,2026-10-05T04:40:14+03:00,end of the iteration,22.5,-47,,,7,2.0,0.0714,0.0892,results/o5gb/o5gb.csv
+261,B3_c3,ota51_c3,ota,15,51,1x1,oai_ue,2026-10-05T04:41:28+03:00,end of the iteration,31.5,-47,,,8,0.0,0.1089,0.0816,results/o5gb/o5gb.csv
+262,B3_c3,ota51_c3,ota,15,51,1x1,oai_ue,2026-10-05T04:42:38+03:00,end of the iteration,22.5,-48,,,8,2.0,0.0969,0.0888,results/o5gb/o5gb.csv
+263,B3_c3,ota51_c3,ota,15,51,1x1,oai_ue,2026-10-05T04:43:50+03:00,end of the iteration,23.0,-47,,,8,2.0,0.0749,0.0937,results/o5gb/o5gb.csv
+264,B3_c3,ota51_c3,ota,15,51,1x1,oai_ue,2026-10-05T04:45:02+03:00,end of the iteration,22.5,-47,,,8,2.0,0.1037,0.0874,results/o5gb/o5gb.csv
+265,B3_c3,ota51_c3,ota,15,51,1x1,oai_ue,2026-10-05T04:46:14+03:00,end of the iteration,22.5,-48,,,8,1.0,0.1014,0.0888,results/o5gb/o5gb.csv
+266,B3_c3,ota51_c3,ota,15,51,1x1,oai_ue,2026-10-05T04:47:26+03:00,end of the iteration,22.5,-47,,,7,2.0,0.0857,0.0827,results/o5gb/o5gb.csv
+267,B3_c3,ota51_c3,ota,15,51,1x1,oai_ue,2026-10-05T04:48:37+03:00,end of the iteration,22.5,-47,,,7,2.0,0.0839,0.0889,results/o5gb/o5gb.csv
+268,B3_c3,ota51_c3,ota,15,51,1x1,oai_ue,2026-10-05T04:49:51+03:00,end of the iteration,23.0,-47,,,8,1.0,0.0906,0.0919,results/o5gb/o5gb.csv
+269,B3_c3,coax24_c3,coax,,24,1x1,oai_ue,2026-10-05T04:52:39+03:00,end of the iteration,53.0,-43,,,20,13.0,0.0638,0.0278,results/o5gb/o5gb.csv
+270,B3_c3,coax24_c3,coax,,24,1x1,oai_ue,2026-10-05T04:53:33+03:00,end of the iteration,53.0,-43,,,12,22.0,0.0303,0.0266,results/o5gb/o5gb.csv
+271,B3_c3,coax24_c3,coax,,24,1x1,oai_ue,2026-10-05T04:54:27+03:00,end of the iteration,53.0,-43,,,22,16.0,0.0808,0.0266,results/o5gb/o5gb.csv
+272,B3_c3,coax24_c3,coax,,24,1x1,oai_ue,2026-10-05T04:55:20+03:00,end of the iteration,53.0,-43,,,1,15.0,0.0385,0.0283,results/o5gb/o5gb.csv
+273,B3_c3,coax24_c3,coax,,24,1x1,oai_ue,2026-10-05T04:56:17+03:00,end of the iteration,53.0,-43,,,17,16.0,0.0602,0.0299,results/o5gb/o5gb.csv
+274,B3_c3,coax24_c3,coax,,24,1x1,oai_ue,2026-10-05T04:57:11+03:00,end of the iteration,44.5,-43,,,14,19.0,0.0331,0.0283,results/o5gb/o5gb.csv
+275,B3_c3,coax24_c3,coax,,24,1x1,oai_ue,2026-10-05T04:58:05+03:00,end of the iteration,53.0,-43,,,7,20.0,0.0302,0.0297,results/o5gb/o5gb.csv
+276,B3_c3,coax24_c3,coax,,24,1x1,oai_ue,2026-10-05T04:59:00+03:00,end of the iteration,35.0,-43,,,21,19.0,0.0649,0.0289,results/o5gb/o5gb.csv
+277,B3_c3,coax24_c3,coax,,24,1x1,oai_ue,2026-10-05T04:59:53+03:00,end of the iteration,53.0,-43,,,20,19.0,0.0531,0.0285,results/o5gb/o5gb.csv
+278,B3_c3,coax24_c3,coax,,24,1x1,oai_ue,2026-10-05T05:00:47+03:00,end of the iteration,53.0,-43,,,12,16.0,0.0303,0.0274,results/o5gb/o5gb.csv
+279,B3_c3,coax24_c3,coax,,24,1x1,oai_ue,2026-10-05T05:01:42+03:00,end of the iteration,53.0,-43,,,21,18.0,0.0717,0.0288,results/o5gb/o5gb.csv
+280,B3_c3,coax24_c3,coax,,24,1x1,oai_ue,2026-10-05T05:02:36+03:00,end of the iteration,53.0,-43,,,15,12.0,0.0336,0.0293,results/o5gb/o5gb.csv
+281,B3_c3,coax24_c3,coax,,24,1x1,oai_ue,2026-10-05T05:03:30+03:00,end of the iteration,53.0,-43,,,22,14.0,0.0334,0.028,results/o5gb/o5gb.csv
+282,B3_c3,coax24_c3,coax,,24,1x1,oai_ue,2026-10-05T05:04:25+03:00,end of the iteration,53.0,-43,,,19,13.0,0.0652,0.0291,results/o5gb/o5gb.csv
+283,B3_c3,coax24_c3,coax,,24,1x1,oai_ue,2026-10-05T05:05:19+03:00,end of the iteration,53.0,-43,,,18,17.0,0.0271,0.0268,results/o5gb/o5gb.csv
+284,B3_c3,coax24_c3,coax,,24,1x1,oai_ue,2026-10-05T05:06:13+03:00,end of the iteration,53.0,-43,,,22,19.0,0.0644,0.0311,results/o5gb/o5gb.csv
+285,B3_c3,coax24_c3,coax,,24,1x1,oai_ue,2026-10-05T05:07:08+03:00,end of the iteration,53.0,-43,,,21,16.0,0.0332,0.0303,results/o5gb/o5gb.csv
+286,B3_c3,coax24_c3,coax,,24,1x1,oai_ue,2026-10-05T05:08:02+03:00,end of the iteration,53.0,-43,,,21,9.0,0.0487,0.0281,results/o5gb/o5gb.csv
+287,B3_c3,coax24_c3,coax,,24,1x1,oai_ue,2026-10-05T05:08:56+03:00,end of the iteration,53.0,-43,,,20,11.0,0.0585,0.0287,results/o5gb/o5gb.csv
+288,B3_c3,coax24_c3,coax,,24,1x1,oai_ue,2026-10-05T05:09:51+03:00,end of the iteration,53.5,-43,,,18,19.0,0.0275,0.0288,results/o5gb/o5gb.csv
+289,B3_c3,coax24_c3,coax,,24,1x1,oai_ue,2026-10-05T05:10:45+03:00,end of the iteration,53.0,-43,,,0,19.0,0.041,0.0283,results/o5gb/o5gb.csv
+290,B3_c3,coax24_c3,coax,,24,1x1,oai_ue,2026-10-05T05:11:40+03:00,end of the iteration,53.0,-43,,,18,16.0,0.0457,0.0338,results/o5gb/o5gb.csv
+291,B3_c3,coax24_c3,coax,,24,1x1,oai_ue,2026-10-05T05:12:34+03:00,end of the iteration,53.0,-43,,,22,14.0,0.045,0.0293,results/o5gb/o5gb.csv
+292,B3_c3,coax24_c3,coax,,24,1x1,oai_ue,2026-10-05T05:13:28+03:00,end of the iteration,53.0,-43,,,21,16.0,0.0389,0.0281,results/o5gb/o5gb.csv
+293,B3_c3,coax24_c3,coax,,24,1x1,oai_ue,2026-10-05T05:14:23+03:00,end of the iteration,53.0,-43,,,22,12.0,0.0527,0.0283,results/o5gb/o5gb.csv
+294,B3_c3,coax24_c3,coax,,24,1x1,oai_ue,2026-10-05T05:15:17+03:00,end of the iteration,36.5,-43,,,5,0.0,0.0305,0.1454,results/o5gb/o5gb.csv
+295,B3_c3,coax24_c3,coax,,24,1x1,oai_ue,2026-10-05T05:17:06+03:00,end of the iteration,29.0,-43,,,0,0.0,0.4089,0.2857,results/o5gb/o5gb.csv
+296,B3_c3,coax24_c3,coax,,24,1x1,oai_ue,2026-10-05T05:20:06+03:00,end of the iteration,53.0,-43,,,21,10.0,0.068,0.0348,results/o5gb/o5gb.csv
+297,B3_c3,coax24_c3,coax,,24,1x1,oai_ue,2026-10-05T05:21:01+03:00,end of the iteration,50.0,-43,,,22,19.0,0.0884,0.0623,results/o5gb/o5gb.csv
+298,B3_c3,coax24_c3,coax,,24,1x1,oai_ue,2026-10-05T05:21:55+03:00,end of the iteration,53.0,-43,,,18,14.0,0.0484,0.0339,results/o5gb/o5gb.csv
+299,B3_c3,coax24_c3,coax,,24,1x1,oai_ue,2026-10-05T05:22:50+03:00,end of the iteration,53.0,-43,,,22,14.0,0.0764,0.0369,results/o5gb/o5gb.csv
+300,B3_c3,coax24_c3,coax,,24,1x1,oai_ue,2026-10-05T05:23:43+03:00,end of the iteration,53.0,-43,,,21,13.0,0.0644,0.0398,results/o5gb/o5gb.csv
+301,B3_c3,coax24_c3,coax,,24,1x1,oai_ue,2026-10-05T05:24:38+03:00,end of the iteration,11.5,-43,,,20,23.0,0.0644,0.0346,results/o5gb/o5gb.csv
+302,B3_c3,coax24_c3,coax,,24,1x1,oai_ue,2026-10-05T05:25:32+03:00,end of the iteration,53.0,-43,,,20,9.0,0.0625,0.038,results/o5gb/o5gb.csv
+303,B3_c3,coax24_c3,coax,,24,1x1,oai_ue,2026-10-05T05:26:26+03:00,end of the iteration,53.0,-43,,,20,13.0,0.06,0.0293,results/o5gb/o5gb.csv
+305,B3_c3,coax24_c3,coax,,24,1x1,oai_ue,2026-10-05T05:32:12+03:00,end of the iteration,53.5,-43,,,19,11.0,0.0649,0.0346,results/o5gb/o5gb.csv
+306,B3_c3,coax24_c3,coax,,24,1x1,oai_ue,2026-10-05T05:33:09+03:00,end of the iteration,53.5,-43,,,18,13.0,0.0816,0.0361,results/o5gb/o5gb.csv
+307,B3_c3,coax24_c3,coax,,24,1x1,oai_ue,2026-10-05T05:34:02+03:00,end of the iteration,53.0,-43,,,20,14.0,0.0614,0.0347,results/o5gb/o5gb.csv
+308,B3_c3,coax24_c3,coax,,24,1x1,oai_ue,2026-10-05T05:34:56+03:00,end of the iteration,53.0,-43,,,21,18.0,0.0495,0.0349,results/o5gb/o5gb.csv
+309,B3_c3,coax24_c3,coax,,24,1x1,oai_ue,2026-10-05T05:35:50+03:00,end of the iteration,53.0,-43,,,10,16.0,0.0286,0.0342,results/o5gb/o5gb.csv
+310,B3_c3,coax24_c3,coax,,24,1x1,oai_ue,2026-10-05T05:36:46+03:00,end of the iteration,53.5,-43,,,20,18.0,0.0662,0.0349,results/o5gb/o5gb.csv
+311,B3_c3,coax24_c3,coax,,24,1x1,oai_ue,2026-10-05T05:37:42+03:00,end of the iteration,53.0,-43,,,21,12.0,0.0549,0.0362,results/o5gb/o5gb.csv
+312,B3_c3,coax24_c3,coax,,24,1x1,oai_ue,2026-10-05T05:38:37+03:00,end of the iteration,53.0,,,,,,,,results/o5gb/o5gb.csv
+313,B3_c3,coax24_c3,coax,,24,1x1,oai_ue,2026-10-05T05:41:17+03:00,end of the iteration,53.0,,,,,,,,results/o5gb/o5gb.csv
+314,B3_c3,coax24_c3,coax,,24,1x1,oai_ue,2026-10-05T05:45:03+03:00,end of the iteration,,,,,21,,0.0576,,results/o5gb/o5gb.csv
+315,B3_c3,coax24_c3,coax,,24,1x1,oai_ue,2026-10-05T05:47:59+03:00,end of the iteration,53.0,-43,,,19,20.0,0.0576,0.0295,results/o5gb/o5gb.csv
+316,B3_c3,coax24_c3,coax,,24,1x1,oai_ue,2026-10-05T05:48:54+03:00,end of the iteration,53.0,-43,,,17,18.0,0.0302,0.0306,results/o5gb/o5gb.csv
+317,B3_c3,coax24_c3,coax,,24,1x1,oai_ue,2026-10-05T05:49:49+03:00,end of the iteration,53.0,-43,,,1,16.0,0.0314,0.0327,results/o5gb/o5gb.csv
+318,B3_c3,coax24_c3,coax,,24,1x1,oai_ue,2026-10-05T05:50:43+03:00,end of the iteration,53.0,-43,,,20,11.0,0.0691,0.0328,results/o5gb/o5gb.csv
+319,B3_c3,ota24_c3,ota,15,24,1x1,oai_ue,2026-10-05T05:55:36+03:00,end of the iteration,16.5,-45,,,20,0.0,0.0785,0.1095,results/o5gb/o5gb.csv
+320,B3_c3,ota24_c3,ota,15,24,1x1,oai_ue,2026-10-05T05:57:30+03:00,end of the iteration,29.5,-45,,,18,0.0,0.0815,0.1135,results/o5gb/o5gb.csv
+321,B3_c3,ota24_c3,ota,15,24,1x1,oai_ue,2026-10-05T05:59:13+03:00,end of the iteration,29.5,-45,,,20,0.0,0.08,0.1109,results/o5gb/o5gb.csv
+322,B3_c3,ota24_c3,ota,15,24,1x1,oai_ue,2026-10-05T06:01:05+03:00,end of the iteration,29.5,-45,,,19,0.0,0.0756,0.1141,results/o5gb/o5gb.csv
+323,B3_c3,ota24_c3,ota,15,24,1x1,oai_ue,2026-10-05T06:02:56+03:00,end of the iteration,29.5,-45,,,19,0.0,0.0868,0.1102,results/o5gb/o5gb.csv
+324,B3_c3,ota24_c3,ota,15,24,1x1,oai_ue,2026-10-05T06:04:49+03:00,end of the iteration,16.5,-45,,,20,0.0,0.0855,0.1123,results/o5gb/o5gb.csv
+325,B3_c3,ota24_c3,ota,15,24,1x1,oai_ue,2026-10-05T06:06:41+03:00,end of the iteration,29.5,-45,,,19,0.0,0.0775,0.1116,results/o5gb/o5gb.csv
+326,B3_c3,ota24_c3,ota,15,24,1x1,oai_ue,2026-10-05T06:08:32+03:00,end of the iteration,29.5,-45,,,20,0.0,0.0709,0.1123,results/o5gb/o5gb.csv
+327,B3_c3,ota24_c3,ota,15,24,1x1,oai_ue,2026-10-05T06:10:25+03:00,end of the iteration,29.5,-45,,,19,0.0,0.0836,0.1099,results/o5gb/o5gb.csv
+328,B3_c3,ota24_c3,ota,15,24,1x1,oai_ue,2026-10-05T06:12:18+03:00,end of the iteration,16.5,-45,,,20,0.0,0.0872,0.1111,results/o5gb/o5gb.csv
+329,B3_c3,ota24_c3,ota,15,24,1x1,oai_ue,2026-10-05T06:14:11+03:00,end of the iteration,16.5,-45,,,20,0.0,0.0824,0.1122,results/o5gb/o5gb.csv
+330,B3_c3,ota24_c3,ota,15,24,1x1,oai_ue,2026-10-05T06:16:00+03:00,end of the iteration,29.5,-45,,,19,0.0,0.0908,0.1111,results/o5gb/o5gb.csv
+331,B3_c3,ota24_c3,ota,15,24,1x1,oai_ue,2026-10-05T06:17:53+03:00,end of the iteration,17.0,-45,,,19,0.0,0.0852,0.1126,results/o5gb/o5gb.csv
+332,B3_c3,ota24_c3,ota,15,24,1x1,oai_ue,2026-10-05T06:20:11+03:00,end of the iteration,29.5,-45,,,20,0.0,0.0799,0.1127,results/o5gb/o5gb.csv
+333,B3_c3,ota24_c3,ota,15,24,1x1,oai_ue,2026-10-05T06:22:04+03:00,end of the iteration,29.5,-45,,,19,0.0,0.0855,0.1149,results/o5gb/o5gb.csv
+334,B3_c3,ota24_c3,ota,15,24,1x1,oai_ue,2026-10-05T06:23:57+03:00,end of the iteration,29.5,-45,,,20,0.0,0.0626,0.1105,results/o5gb/o5gb.csv
+335,B3_c3,ota24_c3,ota,15,24,1x1,oai_ue,2026-10-05T06:25:49+03:00,end of the iteration,29.5,-45,,,19,0.0,0.0817,0.1135,results/o5gb/o5gb.csv
+336,B3_c3,ota24_c3,ota,15,24,1x1,oai_ue,2026-10-05T06:27:40+03:00,end of the iteration,16.5,-45,,,20,0.0,0.0769,0.1121,results/o5gb/o5gb.csv
+337,B3_c3,ota24_c3,ota,15,24,1x1,oai_ue,2026-10-05T06:29:34+03:00,end of the iteration,29.5,-45,,,19,0.0,0.079,0.113,results/o5gb/o5gb.csv
+338,B3_c3,ota24_c3,ota,15,24,1x1,oai_ue,2026-10-05T06:31:19+03:00,end of the iteration,29.5,-45,,,20,0.0,0.1057,0.137,results/o5gb/o5gb.csv
+339,B3_c3,ota24_c3,ota,15,24,1x1,oai_ue,2026-10-05T06:33:12+03:00,end of the iteration,16.5,-45,,,20,0.0,0.085,0.1335,results/o5gb/o5gb.csv
+340,B3_c3,ota24_c3,ota,15,24,1x1,oai_ue,2026-10-05T06:35:06+03:00,end of the iteration,16.5,-45,,,19,0.0,0.0782,0.1346,results/o5gb/o5gb.csv
+341,B3_c3,ota24_c3,ota,15,24,1x1,oai_ue,2026-10-05T06:37:01+03:00,end of the iteration,29.5,-45,,,20,0.0,0.09,0.1324,results/o5gb/o5gb.csv
+342,B3_c3,ota24_c3,ota,15,24,1x1,oai_ue,2026-10-05T06:38:52+03:00,end of the iteration,29.5,-45,,,19,0.0,0.0839,0.1336,results/o5gb/o5gb.csv
+343,B3_c3,ota24_c3,ota,15,24,1x1,oai_ue,2026-10-05T06:40:45+03:00,end of the iteration,16.5,-45,,,20,0.0,0.0868,0.1368,results/o5gb/o5gb.csv
+344,B3_c3,ota24_c3,ota,15,24,1x1,oai_ue,2026-10-05T06:42:40+03:00,end of the iteration,29.5,-45,,,20,0.0,0.0824,0.1358,results/o5gb/o5gb.csv
+345,B3_c3,ota24_c3,ota,15,24,1x1,oai_ue,2026-10-05T06:44:34+03:00,end of the iteration,16.0,-45,,,19,0.0,0.0879,0.1347,results/o5gb/o5gb.csv
+346,B3_c3,ota24_c3,ota,15,24,1x1,oai_ue,2026-10-05T06:46:31+03:00,end of the iteration,16.5,-45,,,20,0.0,0.1016,0.1366,results/o5gb/o5gb.csv
+347,B3_c3,ota24_c3,ota,15,24,1x1,oai_ue,2026-10-05T06:48:26+03:00,end of the iteration,29.5,-45,,,20,0.0,0.1028,0.1328,results/o5gb/o5gb.csv
+348,B3_c3,ota24_c3,ota,15,24,1x1,oai_ue,2026-10-05T06:50:20+03:00,end of the iteration,16.0,-45,,,19,0.0,0.081,0.1369,results/o5gb/o5gb.csv
+349,B3_c3,ota24_c3,ota,15,24,1x1,oai_ue,2026-10-05T06:52:07+03:00,end of the iteration,16.5,-45,,,22,0.0,0.0723,0.1357,results/o5gb/o5gb.csv
+350,B3_c3,ota24_c3,ota,15,24,1x1,oai_ue,2026-10-05T06:53:58+03:00,end of the iteration,16.0,-45,,,19,0.0,0.0805,0.136,results/o5gb/o5gb.csv
+351,B3_c3,ota24_c3,ota,15,24,1x1,oai_ue,2026-10-05T06:55:54+03:00,end of the iteration,29.5,-45,,,20,0.0,0.0881,0.1356,results/o5gb/o5gb.csv
+352,B3_c3,ota24_c3,ota,15,24,1x1,oai_ue,2026-10-05T06:57:49+03:00,end of the iteration,16.5,-45,,,20,0.0,0.0888,0.138,results/o5gb/o5gb.csv
+353,B3_c3,ota24_c3,ota,15,24,1x1,oai_ue,2026-10-05T06:59:40+03:00,end of the iteration,16.5,-45,,,18,0.0,0.0851,0.1384,results/o5gb/o5gb.csv
+354,B3_c3,ota24_c3,ota,15,24,1x1,oai_ue,2026-10-05T07:01:36+03:00,end of the iteration,16.5,-45,,,20,0.0,0.0813,0.1361,results/o5gb/o5gb.csv
+355,B3_c3,ota24_c3,ota,15,24,1x1,oai_ue,2026-10-05T07:03:27+03:00,end of the iteration,16.5,-45,,,19,0.0,0.085,0.1407,results/o5gb/o5gb.csv
+356,B3_c3,ota24_c3,ota,15,24,1x1,oai_ue,2026-10-05T07:05:25+03:00,end of the iteration,16.5,-45,,,19,0.0,0.0885,0.1413,results/o5gb/o5gb.csv
+357,B3_c3,ota24_c3,ota,15,24,1x1,oai_ue,2026-10-05T07:07:16+03:00,end of the iteration,29.5,-45,,,20,0.0,0.0824,0.142,results/o5gb/o5gb.csv
+358,B3_c3,ota24_c3,ota,15,24,1x1,oai_ue,2026-10-05T07:09:01+03:00,end of the iteration,29.5,-45,,,19,0.0,0.0743,0.1389,results/o5gb/o5gb.csv
+359,B3_c3,ota24_c3,ota,15,24,1x1,oai_ue,2026-10-05T07:10:56+03:00,end of the iteration,16.0,-45,,,20,0.0,0.0848,0.1412,results/o5gb/o5gb.csv
+360,B3_c3,ota24_c3,ota,15,24,1x1,oai_ue,2026-10-05T07:12:52+03:00,end of the iteration,16.5,-45,,,20,0.0,0.0832,0.1387,results/o5gb/o5gb.csv
+361,B3_c3,ota24_c3,ota,15,24,1x1,oai_ue,2026-10-05T07:14:48+03:00,end of the iteration,29.5,-45,,,20,0.0,0.1021,0.1417,results/o5gb/o5gb.csv
+362,B3_c3,ota24_c3,ota,15,24,1x1,oai_ue,2026-10-05T07:16:41+03:00,end of the iteration,16.0,-45,,,20,0.0,0.0856,0.139,results/o5gb/o5gb.csv
+363,B3_c3,ota24_c3,ota,15,24,1x1,oai_ue,2026-10-05T07:18:31+03:00,end of the iteration,16.5,-45,,,19,0.0,0.0912,0.1421,results/o5gb/o5gb.csv
+364,B3_c3,ota24_c3,ota,15,24,1x1,oai_ue,2026-10-05T07:20:23+03:00,end of the iteration,8.5,-45,,,19,0.0,0.0809,0.1421,results/o5gb/o5gb.csv
+365,B3_c3,ota24_c3,ota,15,24,1x1,oai_ue,2026-10-05T07:22:18+03:00,end of the iteration,16.5,-45,,,20,0.0,0.0849,0.1413,results/o5gb/o5gb.csv
+366,B3_c3,ota24_c3,ota,15,24,1x1,oai_ue,2026-10-05T07:24:15+03:00,end of the iteration,29.5,-45,,,20,0.0,0.0842,0.1359,results/o5gb/o5gb.csv
+367,B3_c3,ota24_c3,ota,15,24,1x1,oai_ue,2026-10-05T07:26:11+03:00,end of the iteration,16.5,-45,,,20,0.0,0.0874,0.14,results/o5gb/o5gb.csv
+368,B3_c3,ota24_c3,ota,15,24,1x1,oai_ue,2026-10-05T07:28:09+03:00,end of the iteration,16.5,-45,,,20,0.0,0.0892,0.1426,results/o5gb/o5gb.csv
+369,B3_c3,coax51_c3,coax,,51,1x1,oai_ue,2026-10-05T08:49:24+03:00,end of the iteration,53.0,-43,,,8,19.0,0.0786,0.0728,results/o5gb/o5gb.csv
+370,B3_c3,coax51_c3,coax,,51,1x1,oai_ue,2026-10-05T08:50:37+03:00,end of the iteration,55.0,,,,,,,,results/o5gb/o5gb.csv
+371,B3_c3,coax51_c3,coax,,51,1x1,oai_ue,2026-10-05T08:54:24+03:00,end of the iteration,54.0,,,,,,,,results/o5gb/o5gb.csv
+372,B3_c3,coax51_c3,coax,,51,1x1,oai_ue,2026-10-05T08:57:05+03:00,end of the iteration,19.5,,,,0,0.0,,1.0,results/o5gb/o5gb.csv
+373,B3_c3,coax51_c3,coax,,51,1x1,oai_ue,2026-10-05T08:59:29+03:00,end of the iteration,53.5,-43,,,11,17.0,0.0687,0.062,results/o5gb/o5gb.csv
+374,B3_c3,coax51_c3,coax,,51,1x1,oai_ue,2026-10-05T09:00:25+03:00,end of the iteration,53.0,,,,,,,,results/o5gb/o5gb.csv
+375,B3_c3,coax51_c3,coax,,51,1x1,oai_ue,2026-10-05T09:04:12+03:00,end of the iteration,53.0,-43,,,11,17.0,0.0746,0.0626,results/o5gb/o5gb.csv
+376,B3_c3,coax51_c3,coax,,51,1x1,oai_ue,2026-10-05T09:05:07+03:00,end of the iteration,55.0,,,,,,,,results/o5gb/o5gb.csv
+377,B3_c3,coax51_c3,coax,,51,1x1,oai_ue,2026-10-05T09:08:54+03:00,end of the iteration,54.0,,,,,,,,results/o5gb/o5gb.csv
+378,B3_c3,coax51_c3,coax,,51,1x1,oai_ue,2026-10-05T09:11:35+03:00,end of the iteration,54.5,-43,,,10,19.0,0.0869,0.0682,results/o5gb/o5gb.csv
+379,B3_c3,coax51_c3,coax,,51,1x1,oai_ue,2026-10-05T09:13:01+03:00,end of the iteration,24.0,,,,0,0.0,,1.0,results/o5gb/o5gb.csv
+380,B3_c3,coax51_c3,coax,,51,1x1,oai_ue,2026-10-05T09:15:35+03:00,end of the iteration,53.0,-43,,,10,18.0,0.0938,0.0762,results/o5gb/o5gb.csv
+381,B3_c3,coax51_c3,coax,,51,1x1,oai_ue,2026-10-05T09:16:42+03:00,end of the iteration,53.5,-43,,,10,11.0,0.0876,0.0666,results/o5gb/o5gb.csv
+382,B3_c3,coax51_c3,coax,,51,1x1,oai_ue,2026-10-05T09:18:10+03:00,end of the iteration,53.5,,,,,,,,results/o5gb/o5gb.csv
+384,B3_c3,coax51_c3,coax,,51,1x1,oai_ue,2026-10-05T09:24:38+03:00,end of the iteration,6.0,-117,,,0,0.0,,1.0,results/o5gb/o5gb.csv
+385,B3_c3,coax51_c3,coax,,51,1x1,oai_ue,2026-10-05T09:27:03+03:00,end of the iteration,53.0,-43,,,9,14.0,0.0691,0.0583,results/o5gb/o5gb.csv
+386,B3_c3,coax51_c3,coax,,51,1x1,oai_ue,2026-10-05T09:28:12+03:00,end of the iteration,54.0,,,,,,,,results/o5gb/o5gb.csv
+388,B3_c3,coax51_c3,coax,,51,1x1,oai_ue,2026-10-05T09:34:40+03:00,end of the iteration,46.5,-43,,,14,23.0,0.0741,0.067,results/o5gb/o5gb.csv
+389,B3_c3,coax51_c3,coax,,51,1x1,oai_ue,2026-10-05T09:35:36+03:00,end of the iteration,52.5,,,,,,,,results/o5gb/o5gb.csv
+390,B3_c3,coax51_c3,coax,,51,1x1,oai_ue,2026-10-05T09:38:17+03:00,end of the iteration,53.0,-43,,,10,21.0,0.065,0.06,results/o5gb/o5gb.csv
+391,B3_c3,coax51_c3,coax,,51,1x1,oai_ue,2026-10-05T09:39:14+03:00,end of the iteration,53.0,,,,,,,,results/o5gb/o5gb.csv
+392,B3_c3,coax51_c3,coax,,51,1x1,oai_ue,2026-10-05T09:41:55+03:00,end of the iteration,21.0,,,,0,0.0,,1.0,results/o5gb/o5gb.csv
+393,B3_c3,coax51_c3,coax,,51,1x1,oai_ue,2026-10-05T09:46:31+03:00,end of the iteration,37.0,-43,,,7,24.0,0.0815,0.0625,results/o5gb/o5gb.csv
+394,B3_c3,coax51_c3,coax,,51,1x1,oai_ue,2026-10-05T09:47:44+03:00,end of the iteration,54.0,,,,,,,,results/o5gb/o5gb.csv
+395,B3_c3,coax51_c3,coax,,51,1x1,oai_ue,2026-10-05T09:51:31+03:00,end of the iteration,36.5,-43,,,9,22.0,0.0835,0.0593,results/o5gb/o5gb.csv
+396,B3_c3,coax51_c3,coax,,51,1x1,oai_ue,2026-10-05T09:52:26+03:00,end of the iteration,53.5,,,,,,,,results/o5gb/o5gb.csv
+397,B3_c3,coax51_c3,coax,,51,1x1,oai_ue,2026-10-05T09:55:07+03:00,end of the iteration,53.0,-43,,,10,18.0,0.0731,0.0689,results/o5gb/o5gb.csv
+398,B3_c3,coax51_c3,coax,,51,1x1,oai_ue,2026-10-05T09:56:34+03:00,end of the iteration,53.0,-43,,,8,12.0,0.0733,0.0583,results/o5gb/o5gb.csv
+399,B3_c3,coax51_c3,coax,,51,1x1,oai_ue,2026-10-05T09:57:31+03:00,end of the iteration,53.5,-44,,,10,17.0,0.0649,0.0547,results/o5gb/o5gb.csv
+400,B3_c3,coax51_c3,coax,,51,1x1,oai_ue,2026-10-05T10:00:17+03:00,end of the iteration,53.5,-43,,,9,14.0,0.0837,0.0667,results/o5gb/o5gb.csv
+401,B3_c3,coax51_c3,coax,,51,1x1,oai_ue,2026-10-05T10:01:25+03:00,end of the iteration,54.0,,,,,,,,results/o5gb/o5gb.csv
+402,B3_c3,coax51_c3,coax,,51,1x1,oai_ue,2026-10-05T10:05:13+03:00,end of the iteration,54.0,-43,,,8,17.0,0.088,0.064,results/o5gb/o5gb.csv
+403,B3_c3,coax51_c3,coax,,51,1x1,oai_ue,2026-10-05T10:06:09+03:00,end of the iteration,54.5,,,,,,,,results/o5gb/o5gb.csv
+404,B4_c4,coax24_c4,coax,,24,1x1,oai_ue,2026-10-05T10:12:50+03:00,end of the iteration,53.5,-43,,,18,18.0,0.0538,0.0287,results/o5gb/o5gb.csv
+405,B4_c4,coax24_c4,coax,,24,1x1,oai_ue,2026-10-05T10:14:02+03:00,end of the iteration,53.0,,,,,,,,results/o5gb/o5gb.csv
+406,B4_c4,coax24_c4,coax,,24,1x1,oai_ue,2026-10-05T10:17:48+03:00,end of the iteration,53.0,,,,,,,,results/o5gb/o5gb.csv
+407,B4_c4,coax24_c4,coax,,24,1x1,oai_ue,2026-10-05T10:20:28+03:00,end of the iteration,53.0,-43,,,8,17.0,0.0363,0.0311,results/o5gb/o5gb.csv
+408,B4_c4,coax24_c4,coax,,24,1x1,oai_ue,2026-10-05T10:21:25+03:00,end of the iteration,35.0,-43,,,21,20.0,0.0511,0.032,results/o5gb/o5gb.csv
+409,B4_c4,coax24_c4,coax,,24,1x1,oai_ue,2026-10-05T10:22:19+03:00,end of the iteration,53.5,-43,,,21,21.0,0.0718,0.0549,results/o5gb/o5gb.csv
+410,B4_c4,coax24_c4,coax,,24,1x1,oai_ue,2026-10-05T10:23:16+03:00,end of the iteration,53.0,-43,,,9,17.0,0.0475,0.0314,results/o5gb/o5gb.csv
+412,B4_c4,coax24_c4,coax,,24,1x1,oai_ue,2026-10-05T10:27:08+03:00,end of the iteration,53.0,-43,,,20,17.0,0.0601,0.032,results/o5gb/o5gb.csv
+413,B4_c4,coax24_c4,coax,,24,1x1,oai_ue,2026-10-05T10:28:02+03:00,end of the iteration,53.0,-43,,,10,13.0,0.0335,0.0303,results/o5gb/o5gb.csv
+414,B4_c4,coax24_c4,coax,,24,1x1,oai_ue,2026-10-05T10:28:57+03:00,end of the iteration,15.5,-43,,,20,0.0,0.0491,0.2247,results/o5gb/o5gb.csv
+415,B4_c4,coax24_c4,coax,,24,1x1,oai_ue,2026-10-05T10:30:56+03:00,end of the iteration,53.0,-51,,,22,13.0,0.05,0.0348,results/o5gb/o5gb.csv
+416,B4_c4,coax24_c4,coax,,24,1x1,oai_ue,2026-10-05T10:31:51+03:00,end of the iteration,53.0,-43,,,21,12.0,0.0655,0.0304,results/o5gb/o5gb.csv
+417,B4_c4,coax24_c4,coax,,24,1x1,oai_ue,2026-10-05T10:32:47+03:00,end of the iteration,53.0,-43,,,17,14.0,0.0349,0.0291,results/o5gb/o5gb.csv
+418,B4_c4,coax24_c4,coax,,24,1x1,oai_ue,2026-10-05T10:33:41+03:00,end of the iteration,53.0,-43,,,14,10.0,0.0349,0.0321,results/o5gb/o5gb.csv
+419,B4_c4,coax24_c4,coax,,24,1x1,oai_ue,2026-10-05T10:34:36+03:00,end of the iteration,53.0,-43,,,21,8.0,0.0761,0.0315,results/o5gb/o5gb.csv
+420,B4_c4,coax24_c4,coax,,24,1x1,oai_ue,2026-10-05T10:35:31+03:00,end of the iteration,53.0,-43,,,10,19.0,0.0288,0.0304,results/o5gb/o5gb.csv
+421,B4_c4,coax24_c4,coax,,24,1x1,oai_ue,2026-10-05T10:36:27+03:00,end of the iteration,36.5,,,,,,,,results/o5gb/o5gb.csv
+422,B4_c4,coax24_c4,coax,,24,1x1,oai_ue,2026-10-05T10:39:07+03:00,end of the iteration,33.5,-43,,,20,18.0,0.0485,0.0354,results/o5gb/o5gb.csv
+423,B4_c4,coax24_c4,coax,,24,1x1,oai_ue,2026-10-05T10:40:02+03:00,end of the iteration,53.0,-43,,,21,17.0,0.0362,0.0362,results/o5gb/o5gb.csv
+424,B4_c4,coax24_c4,coax,,24,1x1,oai_ue,2026-10-05T10:40:57+03:00,end of the iteration,53.0,-43,,,9,9.0,0.0377,0.0348,results/o5gb/o5gb.csv
+425,B4_c4,coax24_c4,coax,,24,1x1,oai_ue,2026-10-05T10:41:53+03:00,end of the iteration,53.0,-43,,,20,17.0,0.0522,0.0373,results/o5gb/o5gb.csv
+426,B4_c4,coax24_c4,coax,,24,1x1,oai_ue,2026-10-05T10:42:47+03:00,end of the iteration,53.0,-43,,,18,14.0,0.0484,0.0609,results/o5gb/o5gb.csv
+427,B4_c4,coax24_c4,coax,,24,1x1,oai_ue,2026-10-05T10:43:42+03:00,end of the iteration,53.0,-43,,,21,18.0,0.0739,0.0291,results/o5gb/o5gb.csv
+428,B4_c4,coax24_c4,coax,,24,1x1,oai_ue,2026-10-05T10:44:37+03:00,end of the iteration,53.0,-43,,,10,9.0,0.0321,0.0358,results/o5gb/o5gb.csv
+429,B4_c4,coax24_c4,coax,,24,1x1,oai_ue,2026-10-05T10:45:33+03:00,end of the iteration,53.0,-43,,,19,19.0,0.0627,0.0365,results/o5gb/o5gb.csv
+430,B4_c4,coax24_c4,coax,,24,1x1,oai_ue,2026-10-05T10:46:27+03:00,end of the iteration,53.0,-43,,,20,8.0,0.0566,0.0354,results/o5gb/o5gb.csv
+431,B4_c4,coax24_c4,coax,,24,1x1,oai_ue,2026-10-05T10:47:22+03:00,end of the iteration,53.0,-43,,,21,20.0,0.0608,0.0306,results/o5gb/o5gb.csv
+432,B4_c4,coax24_c4,coax,,24,1x1,oai_ue,2026-10-05T10:48:17+03:00,end of the iteration,53.0,-43,,,21,15.0,0.0717,0.0359,results/o5gb/o5gb.csv
+433,B4_c4,coax24_c4,coax,,24,1x1,oai_ue,2026-10-05T10:49:13+03:00,end of the iteration,53.0,-43,,,17,15.0,0.0239,0.037,results/o5gb/o5gb.csv
+434,B4_c4,coax24_c4,coax,,24,1x1,oai_ue,2026-10-05T10:50:08+03:00,end of the iteration,53.0,-43,,,21,10.0,0.0607,0.0354,results/o5gb/o5gb.csv
+435,B4_c4,coax24_c4,coax,,24,1x1,oai_ue,2026-10-05T10:51:02+03:00,end of the iteration,53.0,-43,,,12,15.0,0.0354,0.0324,results/o5gb/o5gb.csv
+436,B4_c4,coax24_c4,coax,,24,1x1,oai_ue,2026-10-05T10:51:57+03:00,end of the iteration,53.5,-43,,,8,14.0,0.0298,0.0312,results/o5gb/o5gb.csv
+437,B4_c4,coax24_c4,coax,,24,1x1,oai_ue,2026-10-05T10:52:53+03:00,end of the iteration,53.5,-43,,,19,14.0,0.0591,0.0377,results/o5gb/o5gb.csv
+438,B4_c4,coax24_c4,coax,,24,1x1,oai_ue,2026-10-05T10:53:48+03:00,end of the iteration,53.0,-43,,,10,15.0,0.0638,0.0622,results/o5gb/o5gb.csv
+439,B4_c4,coax24_c4,coax,,24,1x1,oai_ue,2026-10-05T10:54:43+03:00,end of the iteration,53.0,-43,,,17,11.0,0.0507,0.0319,results/o5gb/o5gb.csv
+440,B4_c4,coax24_c4,coax,,24,1x1,oai_ue,2026-10-05T10:55:39+03:00,end of the iteration,53.0,-43,,,20,22.0,0.0835,0.0616,results/o5gb/o5gb.csv
+441,B4_c4,coax24_c4,coax,,24,1x1,oai_ue,2026-10-05T10:56:34+03:00,end of the iteration,53.0,-43,,,20,17.0,0.0631,0.0344,results/o5gb/o5gb.csv
+442,B4_c4,coax24_c4,coax,,24,1x1,oai_ue,2026-10-05T10:57:30+03:00,end of the iteration,53.0,-43,,,20,16.0,0.0372,0.0352,results/o5gb/o5gb.csv
+443,B4_c4,coax24_c4,coax,,24,1x1,oai_ue,2026-10-05T10:58:25+03:00,end of the iteration,53.0,-43,,,20,9.0,0.0594,0.036,results/o5gb/o5gb.csv
+444,B4_c4,coax24_c4,coax,,24,1x1,oai_ue,2026-10-05T10:59:20+03:00,end of the iteration,53.0,-43,,,10,16.0,0.0338,0.0352,results/o5gb/o5gb.csv
+445,B4_c4,coax24_c4,coax,,24,1x1,oai_ue,2026-10-05T11:00:16+03:00,end of the iteration,53.0,-43,,,10,16.0,0.0308,0.0369,results/o5gb/o5gb.csv
+446,B4_c4,coax24_c4,coax,,24,1x1,oai_ue,2026-10-05T11:01:11+03:00,end of the iteration,53.0,-43,,,21,15.0,0.0487,0.0375,results/o5gb/o5gb.csv
+447,B4_c4,coax24_c4,coax,,24,1x1,oai_ue,2026-10-05T11:02:06+03:00,end of the iteration,53.0,-43,,,20,12.0,0.0531,0.0349,results/o5gb/o5gb.csv
+448,B4_c4,coax24_c4,coax,,24,1x1,oai_ue,2026-10-05T11:03:00+03:00,end of the iteration,33.5,-43,,,20,18.0,0.0695,0.0356,results/o5gb/o5gb.csv
+449,B4_c4,coax24_c4,coax,,24,1x1,oai_ue,2026-10-05T11:03:55+03:00,end of the iteration,53.5,-43,,,21,18.0,0.049,0.0361,results/o5gb/o5gb.csv
+450,B4_c4,coax24_c4,coax,,24,1x1,oai_ue,2026-10-05T11:04:50+03:00,end of the iteration,53.0,-43,,,21,12.0,0.0522,0.0351,results/o5gb/o5gb.csv
+451,B4_c4,coax24_c4,coax,,24,1x1,oai_ue,2026-10-05T11:05:44+03:00,end of the iteration,53.0,,,,19,8.0,0.0369,0.032,results/o5gb/o5gb.csv
+452,B4_c4,coax24_c4,coax,,24,1x1,oai_ue,2026-10-05T11:06:41+03:00,end of the iteration,,,,,22,,0.0968,,results/o5gb/o5gb.csv
+453,B4_c4,coax24_c4,coax,,24,1x1,oai_ue,2026-10-05T11:09:29+03:00,end of the iteration,53.0,-43,,,20,15.0,0.0748,0.0314,results/o5gb/o5gb.csv
+454,B5_c5,coax51_c5,coax,,51,1x1,oai_ue,2026-10-05T11:15:29+03:00,end of the iteration,54.5,-43,,,10,18.0,0.0767,0.0526,results/o5gb/o5gb.csv
+455,B5_c5,coax51_c5,coax,,51,1x1,oai_ue,2026-10-05T11:16:39+03:00,end of the iteration,53.5,-43,,,11,21.0,0.0855,0.0479,results/o5gb/o5gb.csv
+456,B5_c5,coax51_c5,coax,,51,1x1,oai_ue,2026-10-05T11:17:34+03:00,end of the iteration,53.5,,,,,,,,results/o5gb/o5gb.csv
+457,B5_c5,coax51_c5,coax,,51,1x1,oai_ue,2026-10-05T11:20:15+03:00,end of the iteration,54.0,-43,,,10,17.0,0.0975,0.0536,results/o5gb/o5gb.csv
+458,B5_c5,coax51_c5,coax,,51,1x1,oai_ue,2026-10-05T11:21:36+03:00,end of the iteration,54.0,-80,,,,,,,results/o5gb/o5gb.csv
+459,B5_c5,coax51_c5,coax,,51,1x1,oai_ue,2026-10-05T11:25:23+03:00,end of the iteration,53.5,-44,,,9,15.0,0.0961,0.0678,results/o5gb/o5gb.csv
+460,B5_c5,coax51_c5,coax,,51,1x1,oai_ue,2026-10-05T11:26:19+03:00,end of the iteration,53.5,-43,,,11,21.0,0.0751,0.087,results/o5gb/o5gb.csv
+462,B5_c5,coax51_c5,coax,,51,1x1,oai_ue,2026-10-05T11:29:54+03:00,end of the iteration,53.5,-43,,,8,17.0,0.0757,0.0662,results/o5gb/o5gb.csv
+463,B5_c5,coax51_c5,coax,,51,1x1,oai_ue,2026-10-05T11:31:00+03:00,end of the iteration,22.5,,,,0,0.0,,1.0,results/o5gb/o5gb.csv
+464,B5_c5,coax51_c5,coax,,51,1x1,oai_ue,2026-10-05T11:35:39+03:00,end of the iteration,53.5,-43,,,10,17.0,0.0793,0.0724,results/o5gb/o5gb.csv
+465,B5_c5,coax51_c5,coax,,51,1x1,oai_ue,2026-10-05T11:36:49+03:00,end of the iteration,53.5,,,,,,,,results/o5gb/o5gb.csv
+467,B5_c5,coax51_c5,coax,,51,1x1,oai_ue,2026-10-05T11:43:18+03:00,end of the iteration,50.0,-43,,,11,23.0,0.0753,0.0627,results/o5gb/o5gb.csv
+468,B5_c5,coax51_c5,coax,,51,1x1,oai_ue,2026-10-05T11:44:42+03:00,end of the iteration,53.5,,,,,,,,results/o5gb/o5gb.csv
+469,B5_c5,coax51_c5,coax,,51,1x1,oai_ue,2026-10-05T11:47:23+03:00,end of the iteration,54.0,,,,,,,,results/o5gb/o5gb.csv
+470,B5_c5,coax51_c5,coax,,51,1x1,oai_ue,2026-10-05T11:51:11+03:00,end of the iteration,53.5,-43,,,9,10.0,0.0908,0.0563,results/o5gb/o5gb.csv
+471,B5_c5,coax51_c5,coax,,51,1x1,oai_ue,2026-10-05T11:52:07+03:00,end of the iteration,53.5,-43,,,8,8.0,0.0842,0.0674,results/o5gb/o5gb.csv
+473,B5_c5,coax51_c5,coax,,51,1x1,oai_ue,2026-10-05T11:55:26+03:00,end of the iteration,54.5,-43,,,8,14.0,0.0833,0.0563,results/o5gb/o5gb.csv
+474,B5_c5,coax51_c5,coax,,51,1x1,oai_ue,2026-10-05T11:56:37+03:00,end of the iteration,54.5,,,,,,,,results/o5gb/o5gb.csv
+475,B5_c5,coax51_c5,coax,,51,1x1,oai_ue,2026-10-05T12:00:24+03:00,end of the iteration,54.5,-43,,,10,17.0,0.1127,0.0614,results/o5gb/o5gb.csv
+476,B5_c5,coax51_c5,coax,,51,1x1,oai_ue,2026-10-05T12:01:20+03:00,end of the iteration,54.5,-43,,,10,17.0,0.074,0.0672,results/o5gb/o5gb.csv
+477,B5_c5,coax51_c5,coax,,51,1x1,oai_ue,2026-10-05T12:02:16+03:00,end of the iteration,54.0,-44,,,7,17.0,0.0792,0.0599,results/o5gb/o5gb.csv
+478,B5_c5,coax51_c5,coax,,51,1x1,oai_ue,2026-10-05T12:03:13+03:00,end of the iteration,54.5,-43,,,11,14.0,0.0676,0.056,results/o5gb/o5gb.csv
+479,B5_c5,coax51_c5,coax,,51,1x1,oai_ue,2026-10-05T12:04:10+03:00,end of the iteration,54.5,-43,,,4,17.0,0.0826,0.0589,results/o5gb/o5gb.csv
+480,B5_c5,coax51_c5,coax,,51,1x1,oai_ue,2026-10-05T12:10:53+03:00,end of the iteration,54.0,-43,,,7,22.0,0.0798,0.0597,results/o5gb/o5gb.csv
+481,B5_c5,coax51_c5,coax,,51,1x1,oai_ue,2026-10-05T12:14:22+03:00,end of the iteration,53.5,-43,,,10,14.0,0.069,0.0522,results/o5gb/o5gb.csv
+482,B5_c5,coax51_c5,coax,,51,1x1,oai_ue,2026-10-05T12:21:11+03:00,end of the iteration,54.5,-43,,,9,22.0,0.0836,0.0552,results/o5gb/o5gb.csv
+483,B5_c5,coax51_c5,coax,,51,1x1,oai_ue,2026-10-05T12:22:23+03:00,end of the iteration,53.5,,,,0,0.0,,0.0,results/o5gb/o5gb.csv
+484,B5_c5,coax51_c5,coax,,51,1x1,oai_ue,2026-10-05T12:25:57+03:00,end of the iteration,53.5,-43,,,11,16.0,0.0728,0.0561,results/o5gb/o5gb.csv
+485,B5_c5,coax51_c5,coax,,51,1x1,oai_ue,2026-10-05T12:26:52+03:00,end of the iteration,53.0,,,,,,,,results/o5gb/o5gb.csv
+486,B5_c5,coax51_c5,coax,,51,1x1,oai_ue,2026-10-05T12:30:39+03:00,end of the iteration,54.0,,,,,,,,results/o5gb/o5gb.csv
+487,B5_c5,coax51_c5,coax,,51,1x1,oai_ue,2026-10-05T12:33:20+03:00,end of the iteration,54.0,-43,,,8,20.0,0.1068,0.075,results/o5gb/o5gb.csv
+488,B5_c5,coax51_c5,coax,,51,1x1,oai_ue,2026-10-05T12:34:49+03:00,end of the iteration,52.5,,,,,,,,results/o5gb/o5gb.csv
+489,B5_c5,coax51_c5,coax,,51,1x1,oai_ue,2026-10-05T12:37:30+03:00,end of the iteration,53.0,-43,,,5,11.0,0.0763,0.0767,results/o5gb/o5gb.csv
+490,B5_c5,coax51_c5,coax,,51,1x1,oai_ue,2026-10-05T12:38:49+03:00,end of the iteration,32.5,,,,,,,,results/o5gb/o5gb.csv
+492,B5_c5,coax51_c5,coax,,51,1x1,oai_ue,2026-10-05T12:45:18+03:00,end of the iteration,53.0,-43,,,9,18.0,0.0756,0.0585,results/o5gb/o5gb.csv
+493,B5_c5,coax51_c5,coax,,51,1x1,oai_ue,2026-10-05T12:46:46+03:00,end of the iteration,49.0,-43,,,11,20.0,0.0843,0.0689,results/o5gb/o5gb.csv
+494,B5_c5,coax51_c5,coax,,51,1x1,oai_ue,2026-10-05T12:49:47+03:00,end of the iteration,54.0,-43,,,7,18.0,0.0849,0.0568,results/o5gb/o5gb.csv
+495,B5_c5,coax51_c5,coax,,51,1x1,oai_ue,2026-10-05T12:50:53+03:00,end of the iteration,54.5,-43,,,7,15.0,0.0812,0.0559,results/o5gb/o5gb.csv
+496,B5_c5,coax51_c5,coax,,51,1x1,oai_ue,2026-10-05T12:52:19+03:00,end of the iteration,52.5,,,,,,,,results/o5gb/o5gb.csv
+497,B5_c5,coax51_c5,coax,,51,1x1,oai_ue,2026-10-05T12:56:06+03:00,end of the iteration,53.0,-43,,,6,19.0,0.0753,0.0644,results/o5gb/o5gb.csv
+498,B5_c5,coax51_c5,coax,,51,1x1,oai_ue,2026-10-05T12:57:03+03:00,end of the iteration,51.0,-43,,,8,24.0,0.0764,0.0593,results/o5gb/o5gb.csv
+499,B5_c5,coax51_c5,coax,,51,1x1,oai_ue,2026-10-05T12:57:59+03:00,end of the iteration,53.0,-43,,,9,17.0,0.0672,0.0645,results/o5gb/o5gb.csv
+500,B5_c5,coax51_c5,coax,,51,1x1,oai_ue,2026-10-05T12:59:07+03:00,end of the iteration,51.5,-43,,,9,24.0,0.0721,0.0609,results/o5gb/o5gb.csv
+501,B5_c5,coax51_c5,coax,,51,1x1,oai_ue,2026-10-05T13:00:04+03:00,end of the iteration,54.5,-43,,,9,17.0,0.0701,0.0537,results/o5gb/o5gb.csv
+502,B5_c5,coax51_c5,coax,,51,1x1,oai_ue,2026-10-05T13:01:01+03:00,end of the iteration,54.0,-46,,,1,23.0,0.0795,0.0507,results/o5gb/o5gb.csv
+503,B5_c5,coax51_c5,coax,,51,1x1,oai_ue,2026-10-05T13:08:22+03:00,end of the iteration,53.5,-43,,,8,21.0,0.0734,0.0752,results/o5gb/o5gb.csv
+504,T3_uplink_diagnosis,_ota24_c5_degraded,ota,15,24,1x1,oai_ue,2026-10-05T13:42:31+03:00,end of the iteration,24.0,,,,0,0.0,0.1048,,results/o5gb/o5gb.csv
+505,T3_uplink_diagnosis,_ota24_c5_degraded,ota,15,24,1x1,oai_ue,2026-10-05T13:45:01+03:00,end of the iteration,24.5,,,,0,0.0,0.2581,,results/o5gb/o5gb.csv
+506,T3_uplink_diagnosis,_ota24_c5_degraded,ota,15,24,1x1,oai_ue,2026-10-05T13:47:27+03:00,end of the iteration,16.0,,,,0,0.0,,0.4831,results/o5gb/o5gb.csv
+507,T3_uplink_diagnosis,_tune15t_a,ota,15,24,1x1,oai_ue,2026-10-05T14:00:21+03:00,end of the iteration,29.5,-49,,,3,0.0,0.126,0.1148,results/o5gb/o5gb.csv
+508,T3_uplink_diagnosis,_tune15t_a,ota,15,24,1x1,oai_ue,2026-10-05T14:02:37+03:00,end of the iteration,28.0,-49,,,3,0.0,0.0783,0.1287,results/o5gb/o5gb.csv
+509,T3_uplink_diagnosis,_tune15t_b,ota,15,24,1x1,oai_ue,2026-10-05T14:07:41+03:00,end of the iteration,23.0,,,,16,0.0,0.0903,0.9537,results/o5gb/o5gb.csv
+511,T3_uplink_diagnosis,_tune15t_c,ota,15,24,1x1,oai_ue,2026-10-05T14:13:15+03:00,end of the iteration,14.5,,,,0,0.0,0.0448,1.0,results/o5gb/o5gb.csv
+512,T3_uplink_diagnosis,_tune15t_c,ota,15,24,1x1,oai_ue,2026-10-05T14:14:39+03:00,end of the iteration,23.0,,,,18,0.0,0.0885,0.8057,results/o5gb/o5gb.csv
+513,T3_uplink_diagnosis,_tune15t_d,ota,15,24,1x1,oai_ue,2026-10-05T14:21:00+03:00,end of the iteration,13.0,-49,,,4,5.0,0.1161,0.0844,results/o5gb/o5gb.csv
+514,T3_uplink_diagnosis,_tune15t_d,ota,15,24,1x1,oai_ue,2026-10-05T14:22:17+03:00,end of the iteration,27.0,-49,,,6,6.0,0.1266,0.0692,results/o5gb/o5gb.csv
+515,T3_uplink_diagnosis,_tune15t_e,ota,15,24,1x1,oai_ue,2026-10-05T14:26:53+03:00,end of the iteration,14.0,,,,0,0.0,0.0213,1.0138,results/o5gb/o5gb.csv
+516,T3_uplink_diagnosis,_tune15t_e,ota,15,24,1x1,oai_ue,2026-10-05T14:29:29+03:00,end of the iteration,14.5,,,,0,0.0,0.0,1.0,results/o5gb/o5gb.csv
+517,T3_uplink_diagnosis,_post15_a,ota,15,24,1x1,oai_ue,2026-10-05T14:31:25+03:00,end of the iteration,25.5,,,,17,0.0,0.0762,0.7534,results/o5gb/o5gb.csv
+518,T3_uplink_diagnosis,_post15_a,ota,15,24,1x1,oai_ue,2026-10-05T14:34:49+03:00,end of the iteration,16.0,,,,15,0.0,0.0865,0.827,results/o5gb/o5gb.csv
+519,T3_uplink_diagnosis,_post15_a,ota,15,24,1x1,oai_ue,2026-10-05T14:38:27+03:00,end of the iteration,15.5,,,,16,0.0,0.0883,0.8009,results/o5gb/o5gb.csv
+520,T3_uplink_diagnosis,_post15_a,ota,15,24,1x1,oai_ue,2026-10-05T14:44:17+03:00,end of the iteration,24.5,,,,18,0.0,0.0732,0.9751,results/o5gb/o5gb.csv
+521,T3_uplink_diagnosis,_post15_ext,ota,15,24,1x1,oai_ue,2026-10-05T14:52:17+03:00,end of the iteration,24.0,,,,14,0.0,0.0612,0.9379,results/o5gb/o5gb.csv
+522,T3_uplink_diagnosis,_post15_ext,ota,15,24,1x1,oai_ue,2026-10-05T14:56:02+03:00,end of the iteration,16.0,,,,5,0.0,0.1028,0.9339,results/o5gb/o5gb.csv
+523,T3_uplink_diagnosis,_post15_ext,ota,15,24,1x1,oai_ue,2026-10-05T14:59:20+03:00,end of the iteration,24.5,,,,6,0.0,0.1036,0.9676,results/o5gb/o5gb.csv
+524,T3_uplink_diagnosis,_cold15_a,ota,15,24,1x1,oai_ue,2026-10-05T15:26:41+03:00,end of the iteration,27.0,-50,,,18,0.0,0.0939,0.3001,results/o5gb/o5gb.csv
+525,T3_uplink_diagnosis,_cold15_a,ota,15,24,1x1,oai_ue,2026-10-05T15:30:04+03:00,end of the iteration,15.5,,,,14,0.0,0.0985,0.8332,results/o5gb/o5gb.csv
+527,T3_uplink_diagnosis,_cold15_a,ota,15,24,1x1,oai_ue,2026-10-05T15:36:25+03:00,end of the iteration,27.0,,,,16,0.0,0.1216,0.6277,results/o5gb/o5gb.csv
+528,T3_uplink_diagnosis,_cold15_a,ota,15,24,1x1,oai_ue,2026-10-05T15:39:50+03:00,end of the iteration,26.5,,,,8,0.0,0.1169,0.5897,results/o5gb/o5gb.csv
+529,T3_uplink_diagnosis,_cold15_a,ota,15,24,1x1,oai_ue,2026-10-05T15:43:28+03:00,end of the iteration,27.0,,,,19,0.0,0.0958,0.4749,results/o5gb/o5gb.csv
+530,T3_uplink_diagnosis,_tune15u_a,ota,15,24,1x1,oai_ue,2026-10-05T15:52:00+03:00,end of the iteration,20.0,-56,,,2,4.0,0.1073,0.082,results/o5gb/o5gb.csv
+531,T3_uplink_diagnosis,_tune15u_a,ota,15,24,1x1,oai_ue,2026-10-05T15:53:53+03:00,end of the iteration,19.5,-57,,,2,4.0,0.1192,0.0798,results/o5gb/o5gb.csv
+532,T3_uplink_diagnosis,_tune15u_a,ota,15,24,1x1,oai_ue,2026-10-05T15:55:40+03:00,end of the iteration,20.0,-56,,,2,4.0,0.142,0.0844,results/o5gb/o5gb.csv
+533,T3_uplink_diagnosis,_tune15u_b,ota,15,24,1x1,oai_ue,2026-10-05T15:58:14+03:00,end of the iteration,31.5,-53,,,4,0.0,0.0967,0.0826,results/o5gb/o5gb.csv
+534,T3_uplink_diagnosis,_tune15u_b,ota,15,24,1x1,oai_ue,2026-10-05T15:59:48+03:00,end of the iteration,31.5,-53,,,6,0.0,0.1159,0.0809,results/o5gb/o5gb.csv
+535,T3_uplink_diagnosis,_tune15u_b,ota,15,24,1x1,oai_ue,2026-10-05T16:01:16+03:00,end of the iteration,17.5,-53,,,5,2.0,0.0902,0.0816,results/o5gb/o5gb.csv
+536,B6_split,_split15_a,ota,15,24,1x1,oai_ue,2026-10-05T17:18:40+03:00,end of the iteration,41.0,-43,,,18,1.0,0.069,0.083,results/o5gb/o5gb.csv
+537,B6_split,_split15_a,ota,15,24,1x1,oai_ue,2026-10-05T17:19:53+03:00,end of the iteration,41.0,-43,,,20,1.0,0.0806,0.0841,results/o5gb/o5gb.csv
+538,B6_split,_split15_a,ota,15,24,1x1,oai_ue,2026-10-05T17:21:06+03:00,end of the iteration,40.0,-43,,,19,0.0,0.0621,0.0892,results/o5gb/o5gb.csv
+539,B6_split,_split15_a,ota,15,24,1x1,oai_ue,2026-10-05T17:22:20+03:00,end of the iteration,24.5,-43,,,18,6.0,0.071,0.0763,results/o5gb/o5gb.csv
+540,B6_split,_split15_a,ota,15,24,1x1,oai_ue,2026-10-05T17:23:36+03:00,end of the iteration,24.0,-43,,,19,7.0,0.0604,0.0804,results/o5gb/o5gb.csv
+541,B6_split,_split15_a,ota,15,24,1x1,oai_ue,2026-10-05T17:24:57+03:00,end of the iteration,41.5,-43,,,18,0.0,0.0704,0.086,results/o5gb/o5gb.csv
+716,B6_split,phones_load_c6,ota,,24,1x1,phone,2026-10-05T17:43:56+03:00,during the echo load,19.0,-86,27,,17,0.0,0.0785,0.1536,results/o5gb/o5gb_phones_load.csv
+717,B6_split,phones_load_c6,ota,,24,1x1,phone,2026-10-05T17:44:09+03:00,during the echo load,18.5,-87,19,,0,0.0,0.0776,0.2472,results/o5gb/o5gb_phones_load.csv
+718,B6_split,phones_load_c6,ota,,24,1x1,phone,2026-10-05T17:44:32+03:00,during the echo load,19.0,-86,18,,0,0.0,0.0667,0.241,results/o5gb/o5gb_phones_load.csv
+719,B6_split,phones_load_c6,ota,,24,1x1,phone,2026-10-05T17:44:59+03:00,during the echo load,18.0,-85,26,,0,0.0,0.0744,0.2532,results/o5gb/o5gb_phones_load.csv
+720,B6_split,phones_load_c6,ota,,24,1x1,phone,2026-10-05T17:45:25+03:00,during the echo load,18.5,-85,26,,22,0.0,0.0804,0.2285,results/o5gb/o5gb_phones_load.csv
+721,B6_split,phones_load_c6,ota,,24,1x1,phone,2026-10-05T17:45:52+03:00,during the echo load,19.0,-83,41,,0,0.0,0.0485,0.1534,results/o5gb/o5gb_phones_load.csv
+722,B6_split,phones_load_c6,ota,,24,1x1,phone,2026-10-05T17:46:13+03:00,during the echo load,19.0,-81,43,,0,0.0,0.055,0.1762,results/o5gb/o5gb_phones_load.csv
+723,B6_split,phones_load_c6,ota,,24,1x1,phone,2026-10-05T17:46:40+03:00,during the echo load,19.0,-82,39,,0,0.0,0.0564,0.1734,results/o5gb/o5gb_phones_load.csv
+724,B6_split,phones_load_c6,ota,,24,1x1,phone,2026-10-05T17:47:06+03:00,during the echo load,24.5,-82,43,,0,0.0,0.0777,0.1649,results/o5gb/o5gb_phones_load.csv
+725,B6_split,phones_load_c6,ota,,24,1x1,phone,2026-10-05T17:47:33+03:00,during the echo load,22.0,-75,28,,0,0.0,0.1304,0.2505,results/o5gb/o5gb_phones_load.csv

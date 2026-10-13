@@ -1,0 +1,24 @@
+﻿time,kind,note
+2026-09-27T11:36:00+03:00,host_boot,2974 booted (from uptime at 11:50)
+2026-09-27T13:27:00+03:00,observation,"attach rate collapses (4 failures in a row, then 0/4 with retries)"
+2026-09-27T13:55:00+03:00,host_reboot,sudo reboot of the 2974 (internal radio FPGA reloaded at boot)
+2026-09-27T14:16:00+03:00,power_cycle,"both radios and the 2974 switched off by hand for 1 minute, coax and RJ45 checked"
+2026-09-27T15:50:00+03:00,power_cycle,both radios and the 2974 switched off by hand for 10 minutes
+2026-09-27T17:54:40+03:00,power_cycle,both radios and the 2974 switched off by hand for 16 minutes
+2026-09-27T21:13:44+03:00,power_cycle,both radios and the 2974 switched off by hand for 10 minutes
+2026-09-28T04:27:28+03:00,power_cycle,both radios and the 2974 switched off by hand (2974 boot time from uptime -s)
+2026-10-02T19:31:00+03:00,hardware,RJ45 cable between the SFP+ modules replaced (the old one had no link)
+2026-10-03T11:07:27+03:00,host_boot,"2974 booted, power-on time of the 2953R unknown, antennas 2 cm apart"
+2026-10-03T16:48:00+03:00,power_cycle,"both radios power-cycled (16:48 to 16:58), antennas moved from 2 cm to 10 cm"
+2026-10-03T19:55:00+03:00,host_off,2974 shut down from software
+2026-10-03T20:08:15+03:00,power_cycle,"both radios powered on together, antennas 10 cm apart"
+2026-10-03T21:55:00+03:00,host_off,2974 shut down
+2026-10-04T13:14:44+03:00,observation,first measured voice call between the two phones
+2026-10-04T17:01:00+03:00,host_boot,"2974 cold boot. New setup: antennas on RF A of both radios, about 50 cm apart, two crossed coax cables on RF B, no attenuators"
+2026-10-04T18:50:00+03:00,setup,antennas moved from 50 cm to 15 cm
+2026-10-05T10:50:00+03:00,hardware,SMA connectors of the coax cables (RF B) tightened
+2026-10-05T14:25:00+03:00,hardware,"SMA connectors of the antennas tightened, common 10 MHz reference (generator, splitter, REF IN of both radios)"
+2026-10-05T15:04:00+03:00,power_cycle,both radios switched off completely (15:04 to 15:24)
+2026-10-05T16:00:00+03:00,observation,"cause of the weak uplink found: the idle transmitter raises the noise at RX2 of the same RF board by 9 dB, by 0.2 dB on the other board"
+2026-10-05T16:25:00+03:00,setup,"coax cables removed, antennas on all ports"
+2026-10-05T17:15:00+03:00,setup,"transmit on RF board A (TX/RX), receive on RF board B (RX2), at the gNB and at the UE"

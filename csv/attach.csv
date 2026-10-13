@@ -1,0 +1,460 @@
+﻿campaign,series,medium,antenna_cm,cell_prb,antennas,ue,time,policy,max_attempts,wait_s,attempts,attached,first_attempt,duration_s,ue_attach_s,failure,cfo_hz,n_ra,host_uptime_s,phone_ip,phone_order,source
+E0_0920,probe,coax,,51,1x1,oai_ue,2026-09-20T11:08:07+03:00,mixed,,,,0,0,201.0,,unknown,,,1680,,,paper/data/raw/attach_series.log
+E0_0920,probe,coax,,51,1x1,oai_ue,2026-09-20T11:10:09+03:00,mixed,,,,1,1,86.0,,,,,1802,,,paper/data/raw/attach_series.log
+E0_0920,probe,coax,,51,1x1,oai_ue,2026-09-20T11:12:08+03:00,mixed,,,,1,1,85.0,,,,,1921,,,paper/data/raw/attach_series.log
+E0_0920,probe,coax,,51,1x1,oai_ue,2026-09-20T11:14:21+03:00,mixed,,,,1,1,97.0,,,,,2054,,,paper/data/raw/attach_series.log
+E0_0920,probe,coax,,51,1x1,oai_ue,2026-09-20T11:17:53+03:00,mixed,,,,0,0,187.0,,unknown,,,2266,,,paper/data/raw/attach_series.log
+E0_0920,probe,coax,,51,1x1,oai_ue,2026-09-20T11:21:25+03:00,mixed,,,,0,0,181.0,,unknown,,,2478,,,paper/data/raw/attach_series.log
+E0_0920,probe,coax,,51,1x1,oai_ue,2026-09-20T11:23:37+03:00,mixed,,,,0,0,111.0,,unknown,,,2610,,,paper/data/raw/attach_series.log
+E0_0920,probe,coax,,51,1x1,oai_ue,2026-09-20T11:27:28+03:00,mixed,,,,0,0,202.0,,unknown,,,2840,,,paper/data/raw/attach_series.log
+E0_0920,probe,coax,,51,1x1,oai_ue,2026-09-20T11:34:29+03:00,mixed,,,,0,0,202.0,,other,5177,,3261,,,paper/data/raw/attach_series.log
+E0_0920,zero,coax,,51,1x1,oai_ue,2026-09-20T11:35:49+03:00,mixed,,,,1,1,42.0,,,5171,,3341,,,paper/data/raw/attach_series.log
+E0_0920,fixed5040,coax,,51,1x1,oai_ue,2026-09-20T11:37:14+03:00,mixed,,,,1,1,51.0,,,5159,,3427,,,paper/data/raw/attach_series.log
+E0_0920,probe,coax,,51,1x1,oai_ue,2026-09-20T11:39:11+03:00,mixed,,,,1,1,86.0,,,5170,,3544,,,paper/data/raw/attach_series.log
+E0_0920,zero,coax,,51,1x1,oai_ue,2026-09-20T11:40:25+03:00,mixed,,,,1,1,40.0,,,5160,,3618,,,paper/data/raw/attach_series.log
+E0_0920,fixed5040,coax,,51,1x1,oai_ue,2026-09-20T11:41:43+03:00,mixed,,,,1,1,42.0,,,5130,,3696,,,paper/data/raw/attach_series.log
+E0_0920,probe,coax,,51,1x1,oai_ue,2026-09-20T11:43:53+03:00,mixed,,,,1,1,96.0,,,5151,,3826,,,paper/data/raw/attach_series.log
+E0_0920,zero,coax,,51,1x1,oai_ue,2026-09-20T11:46:59+03:00,mixed,,,,0,0,160.0,,other,5173,,4012,,,paper/data/raw/attach_series.log
+E0_0920,fixed5040,coax,,51,1x1,oai_ue,2026-09-20T11:50:17+03:00,mixed,,,,0,0,159.0,,other,5193,,4209,,,paper/data/raw/attach_series.log
+E0_0920,probe,coax,,51,1x1,oai_ue,2026-09-20T11:52:20+03:00,mixed,,,,1,1,85.0,,,5175,,4333,,,paper/data/raw/attach_series.log
+E0_0920,zero,coax,,51,1x1,oai_ue,2026-09-20T11:55:17+03:00,mixed,,,,0,0,144.0,,assert,5178,,4510,,,paper/data/raw/attach_series.log
+E0_0920,fixed5040,coax,,51,1x1,oai_ue,2026-09-20T11:56:30+03:00,mixed,,,,1,1,41.0,,,5132,,4583,,,paper/data/raw/attach_series.log
+E0_0920,zero,coax,,51,1x1,oai_ue,2026-09-20T11:57:54+03:00,mixed,,,,1,1,41.0,,,5155,,4667,,,paper/data/raw/attach_series.log
+E0_0920,zero/rt-1,coax,,51,1x1,oai_ue,2026-09-20T11:59:38+03:00,mixed,,,,1,1,71.0,,,5144,,4771,,,paper/data/raw/attach_series.log
+E0_0920,zero,coax,,51,1x1,oai_ue,2026-09-20T12:00:50+03:00,mixed,,,,1,1,41.0,,,5177,,4843,,,paper/data/raw/attach_series.log
+E0_0920,zero/rt-1,coax,,51,1x1,oai_ue,2026-09-20T12:04:05+03:00,mixed,,,,0,0,159.0,,other,5145,,5038,,,paper/data/raw/attach_series.log
+E0_0920,zero,coax,,51,1x1,oai_ue,2026-09-20T12:05:24+03:00,mixed,,,,1,1,41.0,,,5128,,5116,,,paper/data/raw/attach_series.log
+E0_0920,zero/rt-1,coax,,51,1x1,oai_ue,2026-09-20T12:06:38+03:00,mixed,,,,1,1,40.0,,,5138,,5191,,,paper/data/raw/attach_series.log
+E0_0920,zero,coax,,51,1x1,oai_ue,2026-09-20T12:07:54+03:00,mixed,,,,1,1,41.0,,,5151,,5267,,,paper/data/raw/attach_series.log
+E0_0920,zero,coax,,51,1x1,oai_ue,2026-09-20T12:12:00+03:00,mixed,,,,0,0,160.0,,other,5139,,5513,,,paper/data/raw/attach_series.log
+E0_0920,zero/cs_off,coax,,51,1x1,oai_ue,2026-09-20T12:13:18+03:00,mixed,,,,1,1,42.0,,,5121,,5591,,,paper/data/raw/attach_series.log
+E0_0920,zero,coax,,51,1x1,oai_ue,2026-09-20T12:14:34+03:00,mixed,,,,1,1,41.0,,,5115,,5667,,,paper/data/raw/attach_series.log
+E0_0920,zero/cs_off,coax,,51,1x1,oai_ue,2026-09-20T12:15:48+03:00,mixed,,,,1,1,40.0,,,5128,,5741,,,paper/data/raw/attach_series.log
+E0_0920,zero,coax,,51,1x1,oai_ue,2026-09-20T12:17:02+03:00,mixed,,,,1,1,40.0,,,5139,,5815,,,paper/data/raw/attach_series.log
+E0_0920,zero/cs_off,coax,,51,1x1,oai_ue,2026-09-20T12:20:15+03:00,mixed,,,,0,0,158.0,,other,5176,,6008,,,paper/data/raw/attach_series.log
+E0_0920,zero,coax,,51,1x1,oai_ue,2026-09-20T12:22:53+03:00,mixed,,,,1,1,120.0,,,5130,,6166,,,paper/data/raw/attach_series.log
+E0_0920,zero/cs_off,coax,,51,1x1,oai_ue,2026-09-20T12:24:09+03:00,mixed,,,,1,1,41.0,,,5172,,6242,,,paper/data/raw/attach_series.log
+E0_0920,zero,coax,,51,1x1,oai_ue,2026-09-20T12:25:24+03:00,mixed,,,,1,1,41.0,,,5164,,6316,,,paper/data/raw/attach_series.log
+E0_0920,zero/cs_off,coax,,51,1x1,oai_ue,2026-09-20T12:29:07+03:00,mixed,,,,0,0,188.0,,synch_failed,5122,,6540,,,paper/data/raw/attach_series.log
+E0_0920,zero,coax,,51,1x1,oai_ue,2026-09-20T12:32:21+03:00,mixed,,,,0,0,161.0,,other,5130,,6733,,,paper/data/raw/attach_series.log
+E0_0920,zero/cs_off,coax,,51,1x1,oai_ue,2026-09-20T12:33:39+03:00,mixed,,,,1,1,41.0,,,5151,,6812,,,paper/data/raw/attach_series.log
+E0_0920,zero,coax,,51,1x1,oai_ue,2026-09-20T12:36:58+03:00,mixed,,,,0,0,163.0,,other,5130,,7011,,,paper/data/raw/attach_series.log
+E0_0920,zero/cs_off,coax,,51,1x1,oai_ue,2026-09-20T12:38:20+03:00,mixed,,,,1,1,44.0,,,5150,,7093,,,paper/data/raw/attach_series.log
+E0_0920,zero,coax,,51,1x1,oai_ue,2026-09-20T12:39:35+03:00,mixed,,,,1,1,41.0,,,5129,,7167,,,paper/data/raw/attach_series.log
+E0_0920,zero/cs_off,coax,,51,1x1,oai_ue,2026-09-20T12:42:55+03:00,mixed,,,,0,0,165.0,,other,5097,,7367,,,paper/data/raw/attach_series.log
+E0_0920,zero,coax,,51,1x1,oai_ue,2026-09-20T12:44:43+03:00,mixed,,,,1,1,40.0,,,5145,,7476,,,paper/data/raw/attach_series.log
+E0_0920,zero,coax,,51,1x1,oai_ue,2026-09-20T12:46:15+03:00,mixed,,,,1,1,58.0,,,5139,,7568,,,paper/data/raw/attach_series.log
+E0_0920,zero,coax,,51,1x1,oai_ue,2026-09-20T12:48:58+03:00,mixed,,,,1,1,129.0,,,5136,,7730,,,paper/data/raw/attach_series.log
+E0_0920,zero,coax,,51,1x1,oai_ue,2026-09-20T12:50:14+03:00,mixed,,,,1,1,42.0,,,5127,,7806,,,paper/data/raw/attach_series.log
+E0_0920,zero,coax,,51,1x1,oai_ue,2026-09-20T12:54:23+03:00,mixed,,,,1,1,214.0,,,5131,,8056,,,paper/data/raw/attach_series.log
+E0_0920,zero,coax,,51,1x1,oai_ue,2026-09-20T12:55:38+03:00,mixed,,,,1,1,40.0,,,5146,,8131,,,paper/data/raw/attach_series.log
+E0_0920,zero,coax,,51,1x1,oai_ue,2026-09-20T13:00:08+03:00,mixed,,,,1,1,234.0,,,5163,,8401,,,paper/data/raw/attach_series.log
+E0_0920,zero,coax,,51,1x1,oai_ue,2026-09-20T13:01:25+03:00,mixed,,,,1,1,43.0,,,5157,,8478,,,paper/data/raw/attach_series.log
+E0_0920,zero,coax,,51,1x1,oai_ue,2026-09-20T13:02:40+03:00,mixed,,,,1,1,41.0,,,5153,,8552,,,paper/data/raw/attach_series.log
+E0_0920,zero,coax,,51,1x1,oai_ue,2026-09-20T13:04:01+03:00,mixed,,,,1,1,46.0,,,5129,,8634,,,paper/data/raw/attach_series.log
+E0_0920,zero,coax,,51,1x1,oai_ue,2026-09-20T13:06:45+03:00,mixed,,,,1,1,128.0,,,5181,,8798,,,paper/data/raw/attach_series.log
+E0_0920,zero,coax,,51,1x1,oai_ue,2026-09-20T13:08:03+03:00,mixed,,,,1,1,45.0,,,5145,,8876,,,paper/data/raw/attach_series.log
+E0_0920,zero,coax,,51,1x1,oai_ue,2026-09-20T13:09:17+03:00,mixed,,,,1,1,41.0,,,5142,,8950,,,paper/data/raw/attach_series.log
+E0_0920,zero,coax,,51,1x1,oai_ue,2026-09-20T13:10:36+03:00,mixed,,,,1,1,46.0,,,5092,,9029,,,paper/data/raw/attach_series.log
+E0_0920,zero,coax,,51,1x1,oai_ue,2026-09-20T13:13:18+03:00,mixed,,,,1,1,127.0,,,5079,,9191,,,paper/data/raw/attach_series.log
+E0_0920,zero,coax,,51,1x1,oai_ue,2026-09-20T13:15:32+03:00,mixed,,,,1,1,99.0,,,5127,,9325,,,paper/data/raw/attach_series.log
+E0_0920,zero,coax,,51,1x1,oai_ue,2026-09-20T13:17:02+03:00,mixed,,,,1,1,57.0,,,5174,,9415,,,paper/data/raw/attach_series.log
+E0_0920,zero,coax,,51,1x1,oai_ue,2026-09-20T13:18:14+03:00,mixed,,,,1,1,47.0,,,5133,,9487,,,paper/data/raw/attach_series.log
+E0_0920,zero,coax,,51,1x1,oai_ue,2026-09-20T13:19:30+03:00,mixed,,,,1,1,40.0,,,5128,,9563,,,paper/data/raw/attach_series.log
+E0_0920,zero,coax,,51,1x1,oai_ue,2026-09-20T13:21:43+03:00,mixed,,,,1,1,98.0,,,5095,,9695,,,paper/data/raw/attach_series.log
+E0_0920,zero,coax,,51,1x1,oai_ue,2026-09-20T16:05:31+03:00,mixed,,,,0,0,69.0,,assert,5126,,19524,,,paper/data/raw/attach_series.log
+E0_0920,zero,coax,,51,1x1,oai_ue,2026-09-20T16:06:45+03:00,mixed,,,,1,1,42.0,,,5076,,19598,,,paper/data/raw/attach_series.log
+E0_0920,zero,coax,,51,1x1,oai_ue,2026-09-20T16:08:01+03:00,mixed,,,,1,1,41.0,,,5168,,19674,,,paper/data/raw/attach_series.log
+E0_0920,zero,coax,,51,1x1,oai_ue,2026-09-20T16:09:36+03:00,mixed,,,,1,1,62.0,,,5139,,19769,,,paper/data/raw/attach_series.log
+E0_0920,zero,coax,,51,1x1,oai_ue,2026-09-20T16:10:51+03:00,mixed,,,,1,1,41.0,,,5117,,19844,,,paper/data/raw/attach_series.log
+E0_0920,zero,coax,,51,1x1,oai_ue,2026-09-20T16:12:49+03:00,mixed,,,,0,0,83.0,,synch_failed,5116,,19962,,,paper/data/raw/attach_series.log
+E0_0920,zero,coax,,51,1x1,oai_ue,2026-09-20T16:14:40+03:00,mixed,,,,0,0,73.0,,other,5132,,20073,,,paper/data/raw/attach_series.log
+E0_0920,zero,coax,,51,1x1,oai_ue,2026-09-20T16:16:22+03:00,mixed,,,,0,0,73.0,,cr_fail,5125,,20174,,,paper/data/raw/attach_series.log
+E0_0920,zero,coax,,51,1x1,oai_ue,2026-09-20T16:17:32+03:00,mixed,,,,1,1,40.0,,,5113,,20245,,,paper/data/raw/attach_series.log
+E0_0920,zero,coax,,51,1x1,oai_ue,2026-09-20T16:18:49+03:00,mixed,,,,1,1,41.0,,,5162,,20321,,,paper/data/raw/attach_series.log
+E0_0920,zero,coax,,51,1x1,oai_ue,2026-09-20T16:20:05+03:00,mixed,,,,1,1,42.0,,,5105,,20398,,,paper/data/raw/attach_series.log
+E0_0920,zero,coax,,51,1x1,oai_ue,2026-09-20T16:21:52+03:00,mixed,,,,0,0,72.0,,cr_fail,5096,,20505,,,paper/data/raw/attach_series.log
+E0_levers,c24,coax,,24,1x1,oai_ue,2026-09-27T12:43:45+03:00,single,1,35,1,1,1,41.0,,,5143,,4053,,,paper/data/raw/attach_series.log
+E0_levers,dtx,coax,,51,1x1,oai_ue,2026-09-27T12:45:31+03:00,single,1,35,1,0,0,72.0,,cr_fail,5195,,4160,,,paper/data/raw/attach_series.log
+E0_levers,irq,coax,,51,1x1,oai_ue,2026-09-27T12:46:41+03:00,single,1,35,1,1,1,40.0,,,5182,,4230,,,paper/data/raw/attach_series.log
+E0_levers,base,coax,,51,1x1,oai_ue,2026-09-27T12:47:56+03:00,single,1,35,1,1,1,41.0,,,5198,,4305,,,paper/data/raw/attach_series.log
+E0_levers,dtx,coax,,51,1x1,oai_ue,2026-09-27T12:49:42+03:00,single,1,35,1,0,0,73.0,,cr_fail,5150,,4411,,,paper/data/raw/attach_series.log
+E0_levers,irq,coax,,51,1x1,oai_ue,2026-09-27T12:50:52+03:00,single,1,35,1,1,1,40.0,,,5207,,4481,,,paper/data/raw/attach_series.log
+E0_levers,base,coax,,51,1x1,oai_ue,2026-09-27T12:52:08+03:00,single,1,35,1,1,1,41.0,,,5138,,4557,,,paper/data/raw/attach_series.log
+E0_levers,c24,coax,,24,1x1,oai_ue,2026-09-27T12:53:51+03:00,single,1,35,1,0,0,69.0,,assert,,,4660,,,paper/data/raw/attach_series.log
+E0_levers,irq,coax,,51,1x1,oai_ue,2026-09-27T12:55:36+03:00,single,1,35,1,0,0,73.0,,cr_fail,5164,,4765,,,paper/data/raw/attach_series.log
+E0_levers,base,coax,,51,1x1,oai_ue,2026-09-27T12:56:46+03:00,single,1,35,1,1,1,41.0,,,5150,,4834,,,paper/data/raw/attach_series.log
+E0_levers,c24,coax,,24,1x1,oai_ue,2026-09-27T12:58:00+03:00,single,1,35,1,1,1,39.0,,,5142,,4909,,,paper/data/raw/attach_series.log
+E0_levers,dtx,coax,,51,1x1,oai_ue,2026-09-27T12:59:16+03:00,single,1,35,1,1,1,41.0,,,5126,,4985,,,paper/data/raw/attach_series.log
+E0_levers,base,coax,,51,1x1,oai_ue,2026-09-27T13:00:31+03:00,single,1,35,1,1,1,41.0,,,5146,,5060,,,paper/data/raw/attach_series.log
+E0_levers,c24,coax,,24,1x1,oai_ue,2026-09-27T13:01:45+03:00,single,1,35,1,1,1,41.0,,,5147,,5134,,,paper/data/raw/attach_series.log
+E0_levers,dtx,coax,,51,1x1,oai_ue,2026-09-27T13:03:00+03:00,single,1,35,1,1,1,40.0,,,5164,,5209,,,paper/data/raw/attach_series.log
+E0_levers,irq,coax,,51,1x1,oai_ue,2026-09-27T13:04:49+03:00,single,1,35,1,0,0,73.0,,cr_fail,5144,,5318,,,paper/data/raw/attach_series.log
+E0_levers,c24,coax,,24,1x1,oai_ue,2026-09-27T13:05:57+03:00,single,1,35,1,1,1,39.0,,,5195,,5386,,,paper/data/raw/attach_series.log
+E0_levers,dtx,coax,,51,1x1,oai_ue,2026-09-27T13:07:18+03:00,single,1,35,1,1,1,45.0,,,5125,,5467,,,paper/data/raw/attach_series.log
+E0_levers,irq,coax,,51,1x1,oai_ue,2026-09-27T13:09:01+03:00,single,1,35,1,0,0,69.0,,assert,5122,,5569,,,paper/data/raw/attach_series.log
+E0_levers,base,coax,,51,1x1,oai_ue,2026-09-27T13:10:17+03:00,single,1,35,1,1,1,45.0,,,5164,,5646,,,paper/data/raw/attach_series.log
+E0_levers,dtx,coax,,51,1x1,oai_ue,2026-09-27T13:11:33+03:00,single,1,35,1,1,1,41.0,,,5125,,5721,,,paper/data/raw/attach_series.log
+E0_levers,irq,coax,,51,1x1,oai_ue,2026-09-27T13:12:48+03:00,single,1,35,1,1,1,41.0,,,5139,,5797,,,paper/data/raw/attach_series.log
+E0_levers,base,coax,,51,1x1,oai_ue,2026-09-27T13:14:35+03:00,single,1,35,1,0,0,73.0,,cr_fail,5151,,5904,,,paper/data/raw/attach_series.log
+E0_levers,c24,coax,,24,1x1,oai_ue,2026-09-27T13:15:45+03:00,single,1,35,1,1,1,41.0,,,5146,,5974,,,paper/data/raw/attach_series.log
+E0_levers,irq,coax,,51,1x1,oai_ue,2026-09-27T13:17:02+03:00,single,1,35,1,1,1,41.0,,,5141,,6050,,,paper/data/raw/attach_series.log
+E0_levers,base,coax,,51,1x1,oai_ue,2026-09-27T13:18:16+03:00,single,1,35,1,1,1,40.0,,,5122,,6124,,,paper/data/raw/attach_series.log
+E0_levers,c24,coax,,24,1x1,oai_ue,2026-09-27T13:20:01+03:00,single,1,35,1,0,0,71.0,,cr_fail,5152,,6230,,,paper/data/raw/attach_series.log
+E0_levers,dtx,coax,,51,1x1,oai_ue,2026-09-27T13:21:13+03:00,single,1,35,1,1,1,41.0,,,5102,,6302,,,paper/data/raw/attach_series.log
+E0_levers,base,coax,,51,1x1,oai_ue,2026-09-27T13:22:29+03:00,single,1,35,1,1,1,42.0,,,5120,,6377,,,paper/data/raw/attach_series.log
+E0_levers,base,coax,,51,1x1,oai_ue,2026-09-27T13:23:42+03:00,single,1,35,1,1,1,41.0,,,5148,,6450,,,paper/data/raw/attach_series.log
+E0_pucch_thr,thr0,coax,,51,1x1,oai_ue,2026-09-27T13:25:24+03:00,single,1,35,1,1,1,43.0,,,5161,,6552,,,paper/data/raw/attach_series.log
+E0_pucch_thr,base,coax,,51,1x1,oai_ue,2026-09-27T13:27:11+03:00,single,1,35,1,0,0,73.0,,cr_fail,5118,,6659,,,paper/data/raw/attach_series.log
+E0_pucch_thr,base,coax,,51,1x1,oai_ue,2026-09-27T13:28:53+03:00,single,1,35,1,0,0,72.0,,cr_fail,5159,,6761,,,paper/data/raw/attach_series.log
+E0_pucch_thr,thr0,coax,,51,1x1,oai_ue,2026-09-27T13:30:34+03:00,single,1,35,1,0,0,72.0,,cr_fail,5128,,6862,,,paper/data/raw/attach_series.log
+E0_pucch_thr,thr0,coax,,51,1x1,oai_ue,2026-09-27T13:32:50+03:00,single,1,35,1,0,0,106.0,,cr_fail,5149,,6999,,,paper/data/raw/attach_series.log
+E0_reboot,base,coax,,51,1x1,oai_ue,2026-09-27T13:56:45+03:00,single,1,35,1,1,1,42.0,,,5157,,85,,,paper/data/raw/attach_series.log
+E0_reboot,base,coax,,51,1x1,oai_ue,2026-09-27T13:58:32+03:00,single,1,35,1,0,0,72.0,,cr_fail,5154,,192,,,paper/data/raw/attach_series.log
+E0_reboot,base,coax,,51,1x1,oai_ue,2026-09-27T14:00:10+03:00,single,1,35,1,0,0,69.0,,assert,5139,,290,,,paper/data/raw/attach_series.log
+E0_powercycle,base,coax,,51,1x1,oai_ue,2026-09-27T14:18:03+03:00,single,1,35,1,1,1,43.0,,,5185,,77,,,paper/data/raw/attach_series.log
+E0_powercycle,base,coax,,51,1x1,oai_ue,2026-09-27T14:19:51+03:00,single,1,35,1,0,0,73.0,,cr_fail,5128,,186,,,paper/data/raw/attach_series.log
+E0_powercycle,base,coax,,51,1x1,oai_ue,2026-09-27T14:21:02+03:00,single,1,35,1,1,1,42.0,,,5133,,257,,,paper/data/raw/attach_series.log
+E0_powercycle,base,coax,,51,1x1,oai_ue,2026-09-27T14:22:16+03:00,single,1,35,1,1,1,41.0,,,5125,,331,,,paper/data/raw/attach_series.log
+E0_powercycle,base,coax,,51,1x1,oai_ue,2026-09-27T14:24:02+03:00,single,1,35,1,0,0,73.0,,cr_fail,5129,,437,,,paper/data/raw/attach_series.log
+E0_powercycle,base,coax,,51,1x1,oai_ue,2026-09-27T14:25:48+03:00,single,1,35,1,0,0,75.0,,synch_failed,,,542,,,paper/data/raw/attach_series.log
+E0_powercycle,base,coax,,51,1x1,oai_ue,2026-09-27T14:27:05+03:00,single,1,35,1,1,1,40.0,,,5186,,620,,,paper/data/raw/attach_series.log
+E0_powercycle,base,coax,,51,1x1,oai_ue,2026-09-27T14:28:47+03:00,single,1,35,1,0,0,69.0,,assert,5119,,722,,,paper/data/raw/attach_series.log
+C2_attach,base,coax,,51,1x1,oai_ue,2026-09-27T16:50:01+03:00,single,1,35,1,1,1,41.0,,,5150,,3589,,,paper/data/raw/attach_series.log
+C2_attach,base,coax,,51,1x1,oai_ue,2026-09-27T16:51:18+03:00,single,1,35,1,1,1,43.0,,,5099,,3665,,,paper/data/raw/attach_series.log
+C2_attach,base,coax,,51,1x1,oai_ue,2026-09-27T16:53:04+03:00,single,1,35,1,0,0,72.0,,sib1_nack,5116,,3772,,,paper/data/raw/attach_series.log
+C2_attach,base,coax,,51,1x1,oai_ue,2026-09-27T16:54:14+03:00,single,1,35,1,1,1,40.0,,,5110,,3842,,,paper/data/raw/attach_series.log
+C2_attach,base,coax,,51,1x1,oai_ue,2026-09-27T16:55:30+03:00,single,1,35,1,1,1,41.0,,,5097,,3917,,,paper/data/raw/attach_series.log
+C2_attach,base,coax,,51,1x1,oai_ue,2026-09-27T16:57:18+03:00,single,1,35,1,0,0,73.0,,synch_failed,5115,,4026,,,paper/data/raw/attach_series.log
+C2_attach,base,coax,,51,1x1,oai_ue,2026-09-27T16:58:59+03:00,single,1,35,1,0,0,72.0,,cr_fail,5161,,4127,,,paper/data/raw/attach_series.log
+C2_attach,base,coax,,51,1x1,oai_ue,2026-09-27T17:00:10+03:00,single,1,35,1,1,1,41.0,,,5076,,4198,,,paper/data/raw/attach_series.log
+C2_attach,base,coax,,51,1x1,oai_ue,2026-09-27T17:01:56+03:00,single,1,35,1,0,0,73.0,,cr_fail,5165,,4304,,,paper/data/raw/attach_series.log
+C2_attach,base,coax,,51,1x1,oai_ue,2026-09-27T17:03:34+03:00,single,1,35,1,0,0,69.0,,assert,5107,,4401,,,paper/data/raw/attach_series.log
+C2_attach,base,coax,,51,1x1,oai_ue,2026-09-27T17:05:13+03:00,single,1,35,1,0,0,69.0,,assert,5111,,4501,,,paper/data/raw/attach_series.log
+C2_attach,base,coax,,51,1x1,oai_ue,2026-09-27T17:06:30+03:00,single,1,35,1,1,1,46.0,,,5122,,4578,,,paper/data/raw/attach_series.log
+C2_attach,base,coax,,51,1x1,oai_ue,2026-09-27T17:08:16+03:00,single,1,35,1,0,0,72.0,,synch_failed,5132,,4683,,,paper/data/raw/attach_series.log
+C2_attach,base,coax,,51,1x1,oai_ue,2026-09-27T17:09:58+03:00,single,1,35,1,0,0,72.0,,cr_fail,5106,,4786,,,paper/data/raw/attach_series.log
+C2_attach,base,coax,,51,1x1,oai_ue,2026-09-27T17:11:36+03:00,single,1,35,1,0,0,69.0,,assert,5088,,4884,,,paper/data/raw/attach_series.log
+C2_attach,base,coax,,51,1x1,oai_ue,2026-09-27T17:12:48+03:00,single,1,35,1,1,1,40.0,,,5087,,4956,,,paper/data/raw/attach_series.log
+C2_attach,base,coax,,51,1x1,oai_ue,2026-09-27T17:14:04+03:00,single,1,35,1,1,1,41.0,,,5134,,5032,,,paper/data/raw/attach_series.log
+C2_attach,base,coax,,51,1x1,oai_ue,2026-09-27T17:15:19+03:00,single,1,35,1,1,1,41.0,,,5085,,5106,,,paper/data/raw/attach_series.log
+C2_attach,base,coax,,51,1x1,oai_ue,2026-09-27T17:17:01+03:00,single,1,35,1,0,0,68.0,,assert,5133,,5209,,,paper/data/raw/attach_series.log
+C2_attach,base,coax,,51,1x1,oai_ue,2026-09-27T17:18:23+03:00,single,1,35,1,1,1,50.0,,,5099,,5291,,,paper/data/raw/attach_series.log
+C2_attach,base,coax,,51,1x1,oai_ue,2026-09-27T17:20:04+03:00,single,1,35,1,0,0,69.0,,assert,5195,,5392,,,paper/data/raw/attach_series.log
+C2_attach,base,coax,,51,1x1,oai_ue,2026-09-27T17:21:47+03:00,single,1,35,1,0,0,73.0,,cr_fail,5121,,5495,,,paper/data/raw/attach_series.log
+C2_attach,base,coax,,51,1x1,oai_ue,2026-09-27T17:22:57+03:00,single,1,35,1,1,1,40.0,,,5095,,5565,,,paper/data/raw/attach_series.log
+C2_attach,base,coax,,51,1x1,oai_ue,2026-09-27T17:24:13+03:00,single,1,35,1,1,1,41.0,,,5123,,5641,,,paper/data/raw/attach_series.log
+C2_attach,base,coax,,51,1x1,oai_ue,2026-09-27T17:25:29+03:00,single,1,35,1,1,1,41.0,,,5100,,5716,,,paper/data/raw/attach_series.log
+C2_attach,base,coax,,51,1x1,oai_ue,2026-09-27T17:26:43+03:00,single,1,35,1,1,1,40.0,,,5099,,5791,,,paper/data/raw/attach_series.log
+C2_attach,base,coax,,51,1x1,oai_ue,2026-09-27T17:27:57+03:00,single,1,35,1,1,1,39.0,,,5098,,5865,,,paper/data/raw/attach_series.log
+C2_attach,base,coax,,51,1x1,oai_ue,2026-09-27T17:29:13+03:00,single,1,35,1,1,1,41.0,,,5130,,5941,,,paper/data/raw/attach_series.log
+C2_attach,base,coax,,51,1x1,oai_ue,2026-09-27T17:32:11+03:00,single,1,35,1,0,0,146.0,,assert,5094,,6119,,,paper/data/raw/attach_series.log
+C2_attach,base,coax,,51,1x1,oai_ue,2026-09-27T17:33:54+03:00,single,1,35,1,0,0,72.0,,cr_fail,5131,,6222,,,paper/data/raw/attach_series.log
+C2_attach,base,coax,,51,1x1,oai_ue,2026-09-27T17:35:06+03:00,single,1,35,1,1,1,42.0,,,5143,,6294,,,paper/data/raw/attach_series.log
+C2_attach,base,coax,,51,1x1,oai_ue,2026-09-27T17:36:26+03:00,single,1,35,1,1,1,45.0,,,5095,,6374,,,paper/data/raw/attach_series.log
+C2_attach,base,coax,,51,1x1,oai_ue,2026-09-27T17:37:42+03:00,single,1,35,1,1,1,40.0,,,5097,,6449,,,paper/data/raw/attach_series.log
+C4_ue_image,w38,coax,,51,1x1,oai_ue,2026-09-27T20:04:01+03:00,single,1,35,1,1,1,40.0,,,5097,,7760,,,paper/data/raw/attach_series.log
+C4_ue_image,w10,coax,,51,1x1,oai_ue,2026-09-27T20:05:30+03:00,single,1,35,1,1,1,56.0,,,5142,,7849,,,paper/data/raw/attach_series.log
+C4_ue_image,w10,coax,,51,1x1,oai_ue,2026-09-27T20:07:08+03:00,single,1,35,1,0,0,72.0,,cr_fail,5123,,7947,,,paper/data/raw/attach_series.log
+C4_ue_image,w38,coax,,51,1x1,oai_ue,2026-09-27T20:09:15+03:00,single,1,35,1,1,1,97.0,,,5115,,8074,,,paper/data/raw/attach_series.log
+C4_ue_image,w38,coax,,51,1x1,oai_ue,2026-09-27T20:10:53+03:00,single,1,35,1,0,0,72.0,,cr_fail,5123,,8172,,,paper/data/raw/attach_series.log
+C4_ue_image,w10,coax,,51,1x1,oai_ue,2026-09-27T20:12:02+03:00,single,1,35,1,1,1,40.0,,,5057,,8241,,,paper/data/raw/attach_series.log
+C4_ue_image,w10,coax,,51,1x1,oai_ue,2026-09-27T20:13:44+03:00,single,1,35,1,0,0,69.0,,assert,5167,,8343,,,paper/data/raw/attach_series.log
+C4_ue_image,w38,coax,,51,1x1,oai_ue,2026-09-27T20:15:28+03:00,single,1,35,1,0,0,73.0,,cr_fail,5125,,8448,,,paper/data/raw/attach_series.log
+C4_ue_image,w38,coax,,51,1x1,oai_ue,2026-09-27T20:16:38+03:00,single,1,35,1,1,1,41.0,,,5106,,8517,,,paper/data/raw/attach_series.log
+C4_ue_image,w10,coax,,51,1x1,oai_ue,2026-09-27T20:18:19+03:00,single,1,35,1,0,0,68.0,,assert,5133,,8618,,,paper/data/raw/attach_series.log
+C4_ue_image,w10,coax,,51,1x1,oai_ue,2026-09-27T20:20:02+03:00,single,1,35,1,0,0,72.0,,cr_fail,5104,,8721,,,paper/data/raw/attach_series.log
+C4_ue_image,w38,coax,,51,1x1,oai_ue,2026-09-27T20:21:40+03:00,single,1,35,1,0,0,68.0,,assert,5095,,8819,,,paper/data/raw/attach_series.log
+C4_ue_image,w38,coax,,51,1x1,oai_ue,2026-09-27T20:22:52+03:00,single,1,35,1,1,1,41.0,,,5121,,8891,,,paper/data/raw/attach_series.log
+C4_ue_image,w10,coax,,51,1x1,oai_ue,2026-09-27T20:24:06+03:00,single,1,35,1,1,1,41.0,,,5163,,8965,,,paper/data/raw/attach_series.log
+C4_ue_image,w10,coax,,51,1x1,oai_ue,2026-09-27T20:25:21+03:00,single,1,35,1,1,1,41.0,,,5126,,9040,,,paper/data/raw/attach_series.log
+C4_ue_image,w38,coax,,51,1x1,oai_ue,2026-09-27T20:26:36+03:00,single,1,35,1,1,1,42.0,,,5114,,9116,,,paper/data/raw/attach_series.log
+C4_ue_image,w38,coax,,51,1x1,oai_ue,2026-09-27T20:28:22+03:00,single,1,35,1,0,0,73.0,,cr_fail,5113,,9221,,,paper/data/raw/attach_series.log
+C4_ue_image,w10,coax,,51,1x1,oai_ue,2026-09-27T20:30:04+03:00,single,1,35,1,0,0,72.0,,cr_fail,5115,,9323,,,paper/data/raw/attach_series.log
+C4_ue_image,w10,coax,,51,1x1,oai_ue,2026-09-27T20:31:20+03:00,single,1,35,1,1,1,46.0,,,5069,,9400,,,paper/data/raw/attach_series.log
+C4_ue_image,w38,coax,,51,1x1,oai_ue,2026-09-27T20:33:08+03:00,single,1,35,1,0,0,73.0,,other,5074,,9508,,,paper/data/raw/attach_series.log
+G1_overnight_attach,base,coax,,51,1x1,oai_ue,2026-09-27T23:19:42+03:00,single,1,35,1,0,0,73.0,,assert,5056,,7558,,,paper/data/raw/attach_series.log
+G1_overnight_attach,base,coax,,51,1x1,oai_ue,2026-09-27T23:21:20+03:00,single,1,35,1,0,0,69.0,,assert,5064,,7656,,,paper/data/raw/attach_series.log
+G1_overnight_attach,base,coax,,51,1x1,oai_ue,2026-09-27T23:23:04+03:00,single,1,35,1,0,0,73.0,,cr_fail,5139,,7759,,,paper/data/raw/attach_series.log
+G1_overnight_attach,base,coax,,51,1x1,oai_ue,2026-09-27T23:24:14+03:00,single,1,35,1,1,1,41.0,,,5098,,7829,,,paper/data/raw/attach_series.log
+G1_overnight_attach,base,coax,,51,1x1,oai_ue,2026-09-27T23:26:00+03:00,single,1,35,1,0,0,72.0,,cr_fail,5080,,7936,,,paper/data/raw/attach_series.log
+G1_overnight_attach,base,coax,,51,1x1,oai_ue,2026-09-27T23:27:11+03:00,single,1,35,1,1,1,41.0,,,5121,,8007,,,paper/data/raw/attach_series.log
+G1_overnight_attach,base,coax,,51,1x1,oai_ue,2026-09-27T23:29:00+03:00,single,1,35,1,0,0,74.0,,cr_fail,5129,,8116,,,paper/data/raw/attach_series.log
+G1_overnight_attach,base,coax,,51,1x1,oai_ue,2026-09-27T23:30:58+03:00,single,1,35,1,1,1,80.0,,,5074,,8234,,,paper/data/raw/attach_series.log
+G1_overnight_attach,base,coax,,51,1x1,oai_ue,2026-09-27T23:32:12+03:00,single,1,35,1,1,1,40.0,,,5113,,8308,,,paper/data/raw/attach_series.log
+G1_overnight_attach,base,coax,,51,1x1,oai_ue,2026-09-27T23:33:26+03:00,single,1,35,1,1,1,40.0,,,5101,,8382,,,paper/data/raw/attach_series.log
+G1_overnight_attach,base,coax,,51,1x1,oai_ue,2026-09-27T23:35:13+03:00,single,1,35,1,0,0,73.0,,cr_fail,5112,,8489,,,paper/data/raw/attach_series.log
+G1_overnight_attach,base,coax,,51,1x1,oai_ue,2026-09-27T23:36:55+03:00,single,1,35,1,0,0,73.0,,cr_fail,5102,,8591,,,paper/data/raw/attach_series.log
+G1_overnight_attach,base,coax,,51,1x1,oai_ue,2026-09-27T23:38:37+03:00,single,1,35,1,0,0,73.0,,other,5149,,8693,,,paper/data/raw/attach_series.log
+G1_overnight_attach,base,coax,,51,1x1,oai_ue,2026-09-27T23:40:18+03:00,single,1,35,1,0,0,72.0,,cr_fail,5113,,8794,,,paper/data/raw/attach_series.log
+G1_overnight_attach,base,coax,,51,1x1,oai_ue,2026-09-27T23:41:29+03:00,single,1,35,1,1,1,41.0,,,5125,,8865,,,paper/data/raw/attach_series.log
+G1_overnight_attach,base,coax,,51,1x1,oai_ue,2026-09-27T23:42:45+03:00,single,1,35,1,1,1,41.0,,,5117,,8941,,,paper/data/raw/attach_series.log
+G1_overnight_attach,base,coax,,51,1x1,oai_ue,2026-09-27T23:44:32+03:00,single,1,35,1,0,0,72.0,,cr_fail,5156,,9047,,,paper/data/raw/attach_series.log
+G1_overnight_attach,base,coax,,51,1x1,oai_ue,2026-09-27T23:45:43+03:00,single,1,35,1,1,1,40.0,,,5088,,9119,,,paper/data/raw/attach_series.log
+G1_overnight_attach,base,coax,,51,1x1,oai_ue,2026-09-27T23:47:30+03:00,single,1,35,1,0,0,73.0,,other,5063,,9226,,,paper/data/raw/attach_series.log
+G1_overnight_attach,base,coax,,51,1x1,oai_ue,2026-09-27T23:48:40+03:00,single,1,35,1,1,1,41.0,,,5123,,9296,,,paper/data/raw/attach_series.log
+G1_overnight_attach,base,coax,,51,1x1,oai_ue,2026-09-27T23:49:57+03:00,single,1,35,1,1,1,42.0,,,5098,,9373,,,paper/data/raw/attach_series.log
+G1_overnight_attach,base,coax,,51,1x1,oai_ue,2026-09-27T23:51:16+03:00,single,1,35,1,1,1,45.0,,,5057,,9452,,,paper/data/raw/attach_series.log
+G1_overnight_attach,base,coax,,51,1x1,oai_ue,2026-09-27T23:52:31+03:00,single,1,35,1,1,1,41.0,,,5103,,9527,,,paper/data/raw/attach_series.log
+G1_overnight_attach,base,coax,,51,1x1,oai_ue,2026-09-27T23:53:45+03:00,single,1,35,1,1,1,40.0,,,5104,,9601,,,paper/data/raw/attach_series.log
+G1_overnight_attach,base,coax,,51,1x1,oai_ue,2026-09-27T23:55:43+03:00,single,1,35,1,0,0,84.0,,cr_fail,5091,,9719,,,paper/data/raw/attach_series.log
+G1_overnight_attach,base,coax,,51,1x1,oai_ue,2026-09-27T23:57:34+03:00,single,1,35,1,0,0,73.0,,synch_failed,5107,,9830,,,paper/data/raw/attach_series.log
+G1_overnight_attach,base,coax,,51,1x1,oai_ue,2026-09-27T23:58:44+03:00,single,1,35,1,1,1,41.0,,,5075,,9900,,,paper/data/raw/attach_series.log
+G1_overnight_attach,base,coax,,51,1x1,oai_ue,2026-09-28T00:00:00+03:00,single,1,35,1,1,1,42.0,,,5118,,9976,,,paper/data/raw/attach_series.log
+G1_overnight_attach,base,coax,,51,1x1,oai_ue,2026-09-28T00:01:19+03:00,single,1,35,1,1,1,43.0,,,5118,,10055,,,paper/data/raw/attach_series.log
+G1_overnight_attach,base,coax,,51,1x1,oai_ue,2026-09-28T00:03:10+03:00,single,1,35,1,0,0,73.0,,synch_failed,5106,,10166,,,paper/data/raw/attach_series.log
+G1_overnight_attach,base,coax,,51,1x1,oai_ue,2026-09-28T00:04:52+03:00,single,1,35,1,1,1,73.0,,,5082,,10268,,,paper/data/raw/attach_series.log
+G1_overnight_attach,base,coax,,51,1x1,oai_ue,2026-09-28T00:06:02+03:00,single,1,35,1,1,1,41.0,,,5113,,10337,,,paper/data/raw/attach_series.log
+G1_overnight_attach,base,coax,,51,1x1,oai_ue,2026-09-28T00:07:16+03:00,single,1,35,1,1,1,40.0,,,5102,,10411,,,paper/data/raw/attach_series.log
+G1_overnight_attach,base,coax,,51,1x1,oai_ue,2026-09-28T00:08:41+03:00,single,1,35,1,1,1,51.0,,,5076,,10497,,,paper/data/raw/attach_series.log
+G1_overnight_attach,base,coax,,51,1x1,oai_ue,2026-09-28T00:10:33+03:00,single,1,35,1,0,0,82.0,,assert,5112,,10609,,,paper/data/raw/attach_series.log
+G1_overnight_attach,base,coax,,51,1x1,oai_ue,2026-09-28T00:11:35+03:00,single,1,35,1,1,1,41.0,,,5053,,10671,,,paper/data/raw/attach_series.log
+G1_overnight_attach,base,coax,,51,1x1,oai_ue,2026-09-28T00:13:24+03:00,single,1,35,1,0,0,74.0,,synch_failed,5080,,10780,,,paper/data/raw/attach_series.log
+G1_overnight_attach,base,coax,,51,1x1,oai_ue,2026-09-28T00:14:33+03:00,single,1,35,1,1,1,40.0,,,5129,,10849,,,paper/data/raw/attach_series.log
+G1_overnight_attach,base,coax,,51,1x1,oai_ue,2026-09-28T00:16:16+03:00,single,1,35,1,0,0,69.0,,synch_failed,5125,,10952,,,paper/data/raw/attach_series.log
+G1_overnight_attach,base,coax,,51,1x1,oai_ue,2026-09-28T00:19:28+03:00,single,1,35,1,0,0,161.0,,cr_fail,5094,,11144,,,paper/data/raw/attach_series.log
+G1_overnight_attach,base,coax,,51,1x1,oai_ue,2026-09-28T00:20:47+03:00,single,1,35,1,1,1,41.0,,,5066,,11223,,,paper/data/raw/attach_series.log
+G1_overnight_attach,base,coax,,51,1x1,oai_ue,2026-09-28T00:22:03+03:00,single,1,35,1,1,1,41.0,,,5093,,11299,,,paper/data/raw/attach_series.log
+G1_overnight_attach,base,coax,,51,1x1,oai_ue,2026-09-28T00:23:51+03:00,single,1,35,1,0,0,73.0,,cr_fail,5121,,11407,,,paper/data/raw/attach_series.log
+G1_overnight_attach,base,coax,,51,1x1,oai_ue,2026-09-28T00:25:01+03:00,single,1,35,1,1,1,41.0,,,5077,,11477,,,paper/data/raw/attach_series.log
+G1_overnight_attach,base,coax,,51,1x1,oai_ue,2026-09-28T00:26:16+03:00,single,1,35,1,1,1,40.0,,,5122,,11552,,,paper/data/raw/attach_series.log
+G1_overnight_attach,base,coax,,51,1x1,oai_ue,2026-09-28T00:28:02+03:00,single,1,35,1,0,0,72.0,,cr_fail,5116,,11658,,,paper/data/raw/attach_series.log
+G1_overnight_attach,base,coax,,51,1x1,oai_ue,2026-09-28T00:29:13+03:00,single,1,35,1,1,1,41.0,,,5179,,11728,,,paper/data/raw/attach_series.log
+G1_overnight_attach,base,coax,,51,1x1,oai_ue,2026-09-28T00:30:55+03:00,single,1,35,1,0,0,69.0,,assert,5114,,11831,,,paper/data/raw/attach_series.log
+G1_overnight_attach,base,coax,,51,1x1,oai_ue,2026-09-28T00:32:08+03:00,single,1,35,1,1,1,42.0,,,5107,,11904,,,paper/data/raw/attach_series.log
+G1_overnight_attach,base,coax,,51,1x1,oai_ue,2026-09-28T00:33:50+03:00,single,1,35,1,0,0,69.0,,assert,5059,,12006,,,paper/data/raw/attach_series.log
+G1_overnight_attach,base,coax,,51,1x1,oai_ue,2026-09-28T00:35:34+03:00,single,1,35,1,0,0,72.0,,cr_fail,5075,,12110,,,paper/data/raw/attach_series.log
+G1_overnight_attach,base,coax,,51,1x1,oai_ue,2026-09-28T00:36:55+03:00,single,1,35,1,1,1,51.0,,,5105,,12191,,,paper/data/raw/attach_series.log
+G1_overnight_attach,base,coax,,51,1x1,oai_ue,2026-09-28T00:38:10+03:00,single,1,35,1,1,1,44.0,,,5073,,12266,,,paper/data/raw/attach_series.log
+G1_overnight_attach,base,coax,,51,1x1,oai_ue,2026-09-28T00:40:14+03:00,single,1,35,1,0,0,89.0,,synch_failed,5105,,12390,,,paper/data/raw/attach_series.log
+G1_overnight_attach,base,coax,,51,1x1,oai_ue,2026-09-28T00:42:00+03:00,single,1,35,1,0,0,73.0,,cr_fail,5124,,12496,,,paper/data/raw/attach_series.log
+G1_overnight_attach,base,coax,,51,1x1,oai_ue,2026-09-28T00:43:31+03:00,single,1,35,1,1,1,62.0,,,5092,,12587,,,paper/data/raw/attach_series.log
+G1_overnight_attach,base,coax,,51,1x1,oai_ue,2026-09-28T00:44:48+03:00,single,1,35,1,1,1,41.0,,,5104,,12664,,,paper/data/raw/attach_series.log
+G1_overnight_attach,base,coax,,51,1x1,oai_ue,2026-09-28T00:46:20+03:00,single,1,35,1,1,1,58.0,,,5086,,12756,,,paper/data/raw/attach_series.log
+G1_overnight_attach,base,coax,,51,1x1,oai_ue,2026-09-28T00:47:52+03:00,single,1,35,1,0,0,68.0,,assert,5102,,12848,,,paper/data/raw/attach_series.log
+G1_overnight_attach,base,coax,,51,1x1,oai_ue,2026-09-28T00:49:04+03:00,single,1,35,1,1,1,40.0,,,5092,,12920,,,paper/data/raw/attach_series.log
+G1_overnight_attach,base,coax,,51,1x1,oai_ue,2026-09-28T00:50:46+03:00,single,1,35,1,0,0,68.0,,assert,5104,,13022,,,paper/data/raw/attach_series.log
+G1_overnight_attach,base,coax,,51,1x1,oai_ue,2026-09-28T00:52:25+03:00,single,1,35,1,0,0,68.0,,assert,,,13121,,,paper/data/raw/attach_series.log
+G1_overnight_attach,base,coax,,51,1x1,oai_ue,2026-09-28T00:54:09+03:00,single,1,35,1,0,0,73.0,,synch_failed,5111,,13225,,,paper/data/raw/attach_series.log
+G1_overnight_attach,base,coax,,51,1x1,oai_ue,2026-09-28T00:55:51+03:00,single,1,35,1,0,0,72.0,,cr_fail,5112,,13326,,,paper/data/raw/attach_series.log
+G1_overnight_attach,base,coax,,51,1x1,oai_ue,2026-09-28T00:57:33+03:00,single,1,35,1,0,0,73.0,,cr_fail,5148,,13428,,,paper/data/raw/attach_series.log
+G1_overnight_attach,base,coax,,51,1x1,oai_ue,2026-09-28T00:58:44+03:00,single,1,35,1,1,1,42.0,,,5055,,13500,,,paper/data/raw/attach_series.log
+G1_overnight_attach,base,coax,,51,1x1,oai_ue,2026-09-28T01:00:01+03:00,single,1,35,1,1,1,43.0,,,5089,,13576,,,paper/data/raw/attach_series.log
+G1_overnight_attach,base,coax,,51,1x1,oai_ue,2026-09-28T01:01:48+03:00,single,1,35,1,0,0,74.0,,synch_failed,5156,,13683,,,paper/data/raw/attach_series.log
+G1_overnight_attach,base,coax,,51,1x1,oai_ue,2026-09-28T01:03:38+03:00,single,1,35,1,0,0,72.0,,other,5129,,13794,,,paper/data/raw/attach_series.log
+G1_overnight_attach,base,coax,,51,1x1,oai_ue,2026-09-28T01:04:49+03:00,single,1,35,1,1,1,41.0,,,5094,,13865,,,paper/data/raw/attach_series.log
+S0_0920,,coax,,51,1x1,oai_ue,2026-09-20T14:39:17+03:00,retry,4,35,4,1,0,,,,,,,,,paper/data/raw/stability/_invalid_20260920_143359_monitor_false_positive/base_r1_up.log
+S0_0920,,coax,,51,1x1,oai_ue,2026-09-20T14:42:52+03:00,retry,4,35,2,1,0,,,,,,,,,paper/data/raw/stability/_invalid_20260920_143359_monitor_false_positive/capped_r1_up.log
+S0_0920,,coax,,51,1x1,oai_ue,2026-09-20T14:45:23+03:00,retry,4,35,1,1,1,,,,,,,,,paper/data/raw/stability/_invalid_20260920_143359_monitor_false_positive/capped_r2_up.log
+S0_0920,,coax,,51,1x1,oai_ue,2026-09-20T14:46:40+03:00,retry,4,35,1,0,0,,,,,,,,,paper/data/raw/stability/_invalid_20260920_143359_monitor_false_positive/base_r2_up.log
+S0_0920,,coax,,51,1x1,oai_ue,2026-09-20T14:50:30+03:00,retry,4,35,2,1,0,,,,,,,,,paper/data/raw/stability/A_base_vs_capped_all_ue_assert_20260920_144739_51prb/base_r1_up.log
+S0_0920,,coax,,51,1x1,oai_ue,2026-09-20T14:52:37+03:00,retry,4,35,1,1,1,,,,,,,,,paper/data/raw/stability/A_base_vs_capped_all_ue_assert_20260920_144739_51prb/capped_r1_up.log
+S0_0920,,coax,,51,1x1,oai_ue,2026-09-20T14:57:15+03:00,retry,4,35,2,1,0,,,,,,,,,paper/data/raw/stability/A_base_vs_capped_all_ue_assert_20260920_144739_51prb/capped_r2_up.log
+S0_0920,,coax,,51,1x1,oai_ue,2026-09-20T15:01:11+03:00,retry,4,35,2,1,0,,,,,,,,,paper/data/raw/stability/A_base_vs_capped_all_ue_assert_20260920_144739_51prb/base_r2_up.log
+S0_0920,,coax,,51,1x1,oai_ue,2026-09-20T15:03:06+03:00,retry,4,35,1,1,1,,,,,,,,,paper/data/raw/stability/20260920_150218_51prb/base_r1_up.log
+S0_0920,,coax,,51,1x1,oai_ue,2026-09-20T15:11:16+03:00,retry,4,35,4,0,0,,,,,,,,,paper/data/raw/stability/20260920_150218_51prb/uetx_r1_up.log
+S0_0920,,coax,,51,1x1,oai_ue,2026-09-20T15:17:43+03:00,retry,4,35,4,0,0,,,,,,,,,paper/data/raw/stability/20260920_150218_51prb/uetx_r2_up.log
+S0_0920,,coax,,51,1x1,oai_ue,2026-09-20T15:23:57+03:00,retry,4,35,4,0,0,,,,,,,,,paper/data/raw/stability/20260920_150218_51prb/base_r2_up.log
+S0_0920,,coax,,51,1x1,oai_ue,2026-09-20T15:24:45+03:00,retry,4,35,1,0,0,,,,,,,,,paper/data/raw/stability/20260920_150218_51prb/base_r3_up.log
+S0_0920,,coax,,51,1x1,oai_ue,2026-09-20T16:23:02+03:00,retry,4,35,1,1,1,,,,,,,,,paper/data/raw/stability/20260920_162216_51prb/base_r1_up.log
+S0_0920,,coax,,51,1x1,oai_ue,2026-09-20T16:26:07+03:00,retry,4,35,1,1,1,,,,,,,,,paper/data/raw/stability/20260920_162216_51prb/base_r2_up.log
+S0_0920,,coax,,51,1x1,oai_ue,2026-09-20T16:29:49+03:00,retry,4,35,2,1,0,,,,,,,,,paper/data/raw/stability/20260920_162216_51prb/base_r3_up.log
+S0_0920,,coax,,51,1x1,oai_ue,2026-09-20T16:33:46+03:00,retry,4,35,1,1,1,,,,,,,,,paper/data/raw/stability/20260920_162216_51prb/base_r4_up.log
+S1_soak_v1,,coax,,51,1x1,oai_ue,2026-09-27T13:36:24+03:00,retry,4,35,1,1,1,,,,,,,,,paper/data/raw/soak/20260927_133538_c51_t1_p01/r1_up.log
+S1_soak_v1,,coax,,51,1x1,oai_ue,2026-09-27T13:39:30+03:00,retry,4,35,1,1,1,,,,,,,,,paper/data/raw/soak/20260927_133538_c51_t1_p01/r2_up.log
+S1_soak_v1,,coax,,51,1x1,oai_ue,2026-09-27T13:42:20+03:00,retry,4,35,1,1,1,,,,,,,,,paper/data/raw/soak/20260927_133538_c51_t1_p01/r3_up.log
+S1_soak_v1,,coax,,24,1x1,oai_ue,2026-09-27T13:45:26+03:00,retry,4,35,1,1,1,,,,,,,,,paper/data/raw/soak/20260927_134440_c24_t1_p01/r1_up.log
+S1_soak_v1,,coax,,24,1x1,oai_ue,2026-09-27T13:48:02+03:00,retry,4,35,1,0,0,,,,,,,,,paper/data/raw/soak/20260927_134440_c24_t1_p01/r2_up.log
+S1_soak_v1,,coax,,51,1x1,oai_ue,2026-09-27T13:53:59+03:00,retry,4,35,4,0,0,,,,,,,,,paper/data/raw/soak/20260927_134816_c51_t1_p01_idle/r1_up.log
+S1_soak_v1,,coax,,51,1x1,oai_ue,2026-09-27T13:54:31+03:00,retry,4,35,1,0,0,,,,,,,,,paper/data/raw/soak/20260927_134816_c51_t1_p01_idle/r2_up.log
+S2_phases,,coax,,51,1x1,oai_ue,2026-09-27T14:35:21+03:00,retry,4,35,2,0,0,,,,,,,,,paper/data/raw/soak/20260927_143402_c51_t1_p01_shm/r1_up.log
+S2_phases,,coax,,51,1x1,oai_ue,2026-09-27T14:37:50+03:00,retry,4,35,2,1,0,,,,,,,,,paper/data/raw/soak2/20260927_143539_c51_t1_p01/r1_up.log
+S2_phases,,coax,,51,1x1,oai_ue,2026-09-27T14:53:36+03:00,retry,4,35,4,1,0,,,,,,,,,paper/data/raw/soak2/20260927_143539_c51_t1_p01/r2_up.log
+S2_phases,,coax,,51,1x1,oai_ue,2026-09-27T15:01:04+03:00,retry,4,35,3,1,0,,,,,,,,,paper/data/raw/soak2/20260927_145657_c51_base/r1_up.log
+S2_phases,,coax,,51,1x1,oai_ue,2026-09-27T15:10:43+03:00,retry,4,35,2,1,0,,,,,,,,,paper/data/raw/soak2/20260927_145657_c51_base/r2_up.log
+S2_phases,,coax,,51,1x1,oai_ue,2026-09-27T15:17:32+03:00,retry,4,35,1,1,1,,,,,,,,,paper/data/raw/soak2/20260927_151646_c51_capped/r1_up.log
+S2_phases,,coax,,51,1x1,oai_ue,2026-09-27T15:23:09+03:00,retry,4,35,2,1,0,,,,,,,,,paper/data/raw/soak2/20260927_151646_c51_capped/r2_up.log
+C1_campaign,base,coax,,51,1x1,oai_ue,2026-09-27T15:26:56+03:00,retry,4,35,1,1,1,,,,,,,,,paper/data/raw/campaign_2026-09-27/E2_soak/20260927_152552_camp_2026-09-27_base_i1/r1_up.log
+C1_campaign,base,coax,,51,1x1,oai_ue,2026-09-27T15:31:31+03:00,retry,4,35,2,1,0,,,,,,,,,paper/data/raw/campaign_2026-09-27/E2_soak/20260927_152854_camp_2026-09-27_capped_i1/r1_up.log
+C1_campaign,base,coax,,51,1x1,oai_ue,2026-09-27T15:33:41+03:00,retry,4,35,1,0,0,,,,,,,,,paper/data/raw/campaign_2026-09-27/E2_soak/20260927_153330_camp_2026-09-27_capped_i2/r1_up.log
+C2_ladder,base,coax,,51,1x1,oai_ue,2026-09-27T15:52:10+03:00,retry,4,35,1,1,1,,,,,,,,,paper/data/raw/campaign_2026-09-27b/E3_ladder/20260927_155120_ladder_dl_i1/r1_up.log
+C2_ladder,base,coax,,51,1x1,oai_ue,2026-09-27T16:04:51+03:00,retry,4,35,4,0,0,,,,,,,,,paper/data/raw/campaign_2026-09-27b/E3_ladder/20260927_155914_ladder_ul_i1/r1_up.log
+C2_ladder,base,coax,,51,1x1,oai_ue,2026-09-27T16:06:50+03:00,retry,4,35,1,1,1,,,,,,,,,paper/data/raw/campaign_2026-09-27b/E3_ladder/20260927_160604_ladder_dl_i1/r1_up.log
+C2_ladder,base,coax,,51,1x1,oai_ue,2026-09-27T16:12:35+03:00,retry,4,35,1,1,1,,,,,,,,,paper/data/raw/campaign_2026-09-27b/E3_ladder/20260927_161151_ladder_ul_i1/r1_up.log
+C2_ladder,base,coax,,51,1x1,oai_ue,2026-09-27T16:18:40+03:00,retry,4,35,1,1,1,,,,,,,,,paper/data/raw/campaign_2026-09-27b/E3_ladder/20260927_161736_ladder_dl_i2/r1_up.log
+C2_ladder,base,coax,,51,1x1,oai_ue,2026-09-27T16:29:24+03:00,retry,4,35,3,1,0,,,,,,,,,paper/data/raw/campaign_2026-09-27b/E3_ladder/20260927_162544_ladder_ul_i2/r1_up.log
+C2_phases,base,coax,,51,1x1,oai_ue,2026-09-27T16:36:37+03:00,retry,4,35,2,1,0,,,,,,,,,paper/data/raw/campaign_2026-09-27b/E2_phases/20260927_163425_phases_i1/r1_up.log
+C2_phases,base,coax,,51,1x1,oai_ue,2026-09-27T16:44:29+03:00,retry,4,35,4,1,0,,,,,,,,,paper/data/raw/campaign_2026-09-27b/E2_phases/20260927_163835_phases_i2/r1_up.log
+C2_phases,base,coax,,51,1x1,oai_ue,2026-09-27T16:47:15+03:00,retry,4,35,1,1,1,,,,,,,,,paper/data/raw/campaign_2026-09-27b/E2_phases/20260927_164627_phases_i3/r1_up.log
+C3_levers,24 PRB,coax,,24,1x1,oai_ue,2026-09-27T18:52:11+03:00,retry,4,35,1,1,1,,,,,,,,,paper/data/raw/campaign_2026-09-27c/E4_levers/20260927_185109_c24_dl_i1/r1_up.log
+C3_levers,24 PRB,coax,,24,1x1,oai_ue,2026-09-27T19:01:39+03:00,retry,4,35,1,1,1,,,,,,,,,paper/data/raw/campaign_2026-09-27c/E4_levers/20260927_190053_c24_ul_i1/r1_up.log
+C3_levers,LDPC 4 it.,coax,,51,1x1,oai_ue,2026-09-27T19:14:05+03:00,retry,4,35,4,0,0,,,,,,,,,paper/data/raw/campaign_2026-09-27c/E4_levers/20260927_190646_ldpc4_dl_i1/r1_up.log
+C3_levers,LDPC 4 it.,coax,,51,1x1,oai_ue,2026-09-27T19:18:36+03:00,retry,4,35,3,1,0,,,,,,,,,paper/data/raw/campaign_2026-09-27c/E4_levers/20260927_191418_ldpc4_ul_i1/r1_up.log
+C3_levers,24 PRB,coax,,24,1x1,oai_ue,2026-09-27T19:24:40+03:00,retry,4,35,1,1,1,,,,,,,,,paper/data/raw/campaign_2026-09-27c/E4_levers/20260927_192337_c24_dl_i2/r1_up.log
+C3_levers,24 PRB,coax,,24,1x1,oai_ue,2026-09-27T19:36:02+03:00,retry,4,35,2,1,0,,,,,,,,,paper/data/raw/campaign_2026-09-27c/E4_levers/20260927_193349_c24_ul_i2/r1_up.log
+C3_levers,LDPC 4 it.,coax,,51,1x1,oai_ue,2026-09-27T19:48:34+03:00,retry,4,35,4,1,0,,,,,,,,,paper/data/raw/campaign_2026-09-27c/E4_levers/20260927_194109_ldpc4_dl_i2/r1_up.log
+C3_levers,LDPC 4 it.,coax,,51,1x1,oai_ue,2026-09-27T19:56:27+03:00,retry,4,35,1,1,1,,,,,,,,,paper/data/raw/campaign_2026-09-27c/E4_levers/20260927_195538_ldpc4_ul_i2/r1_up.log
+C4_ue_image,w38,coax,,51,1x1,oai_ue,2026-09-27T20:34:59+03:00,retry,4,35,1,1,1,,,,,,,,,paper/data/raw/campaign_2026-09-27d/E5b_ladder/20260927_203331_w38_dl_i1/r1_up.log
+C4_ue_image,w38,coax,,51,1x1,oai_ue,2026-09-27T20:43:35+03:00,retry,4,35,3,1,0,,,,,,,,,paper/data/raw/campaign_2026-09-27d/E5b_ladder/20260927_204001_w38_ul_i1/r1_up.log
+C4_ue_image,"w38, 1+1 actors",coax,,51,1x1,oai_ue,2026-09-27T20:49:24+03:00,retry,4,35,1,1,1,,,,,,,,,paper/data/raw/campaign_2026-09-27d/E5b_ladder/20260927_204838_w38act_dl_i1/r1_up.log
+C4_ue_image,"w38, 1+1 actors",coax,,51,1x1,oai_ue,2026-09-27T20:55:14+03:00,retry,4,35,1,1,1,,,,,,,,,paper/data/raw/campaign_2026-09-27d/E5b_ladder/20260927_205425_w38act_ul_i1/r1_up.log
+C4_ue_image,w38,coax,,51,1x1,oai_ue,2026-09-27T21:01:02+03:00,retry,4,35,1,1,1,,,,,,,,,paper/data/raw/campaign_2026-09-27d/E5b_ladder/20260927_210015_w38_dl_i2/r1_up.log
+G1_golden,,coax,,24,1x1,oai_ue,2026-09-27T21:15:06+03:00,retry,4,35,1,1,1,,,,,,,,,paper/data/raw/campaign_2026-09-27g/runs/20260927_211416_golden_r1/r1_up.log
+G1_golden,,coax,,24,1x1,oai_ue,2026-09-27T21:42:19+03:00,retry,4,35,1,1,1,,,,,,,,,paper/data/raw/campaign_2026-09-27g/runs/aborted_20260927_214108_golden_r2/r1_up.log
+G1_golden,,coax,,24,1x1,oai_ue,2026-09-27T21:45:27+03:00,retry,4,35,1,1,1,,,,,,,,,paper/data/raw/campaign_2026-09-27g2/runs/20260927_214441_golden_r1/r1_up.log
+G1_golden,,coax,,24,1x1,oai_ue,2026-09-27T22:07:56+03:00,retry,4,35,1,1,1,,,,,,,,,paper/data/raw/campaign_2026-09-27g2/runs/20260927_220710_golden_r2/r1_up.log
+G1_golden,,coax,,24,1x1,oai_ue,2026-09-27T22:19:48+03:00,retry,4,35,1,1,1,,,,,,,,,paper/data/raw/campaign_2026-09-27g2/runs/20260927_221902_golden_r3/r1_up.log
+G1_golden,,coax,,24,1x1,oai_ue,2026-09-27T22:42:16+03:00,retry,4,35,1,1,1,,,,,,,,,paper/data/raw/campaign_2026-09-27g2/runs/20260927_224130_golden_r4/r1_up.log
+G1_golden,,coax,,24,1x1,oai_ue,2026-09-27T22:54:06+03:00,retry,4,35,1,1,1,,,,,,,,,paper/data/raw/campaign_2026-09-27g2/runs/20260927_225320_golden_r5/r1_up.log
+G2_golden,,coax,,24,1x1,oai_ue,2026-09-28T04:35:43+03:00,retry,4,35,1,1,1,,,,,,,,,paper/data/raw/campaign_2026-09-28_dl2ul1/runs/20260928_043400_golden_r1/r1_up.log
+G2_golden,,coax,,24,1x1,oai_ue,2026-09-28T04:58:13+03:00,retry,4,35,1,1,1,,,,,,,,,paper/data/raw/campaign_2026-09-28_dl2ul1/runs/20260928_045724_golden_r2/r1_up.log
+G2_golden,,coax,,24,1x1,oai_ue,2026-09-28T05:20:40+03:00,retry,4,35,1,1,1,,,,,,,,,paper/data/raw/campaign_2026-09-28_dl2ul1/runs/20260928_051955_golden_r3/r1_up.log
+G2_golden,,coax,,24,1x1,oai_ue,2026-09-28T05:43:09+03:00,retry,4,35,1,1,1,,,,,,,,,paper/data/raw/campaign_2026-09-28_dl2ul1/runs/20260928_054220_golden_r4/r1_up.log
+G2_golden,,coax,,24,1x1,oai_ue,2026-09-28T06:05:53+03:00,retry,4,35,1,1,1,,,,,,,,,paper/data/raw/campaign_2026-09-28_dl2ul1/runs/20260928_060451_golden_r5/r1_up.log
+O2_attach_2cm,ota working config,ota,2,24,1x1,oai_ue,2026-10-03T13:58:18+03:00,single,1,35,1,1,1,42.0,,,5120,,10251,,,results/ota_campaign_2026-10-03/data/ota_queue_2026-10-03/attach_series_ota.log
+O2_attach_2cm,ota working config,ota,2,24,1x1,oai_ue,2026-10-03T13:59:33+03:00,single,1,35,1,1,1,41.0,,,5096,,10326,,,results/ota_campaign_2026-10-03/data/ota_queue_2026-10-03/attach_series_ota.log
+O2_attach_2cm,ota working config,ota,2,24,1x1,oai_ue,2026-10-03T14:00:48+03:00,single,1,35,1,1,1,41.0,,,5124,,10401,,,results/ota_campaign_2026-10-03/data/ota_queue_2026-10-03/attach_series_ota.log
+O2_attach_2cm,ota working config,ota,2,24,1x1,oai_ue,2026-10-03T14:02:34+03:00,single,1,35,1,0,0,71.0,,cr_fail,5093,,10507,,,results/ota_campaign_2026-10-03/data/ota_queue_2026-10-03/attach_series_ota.log
+O2_attach_2cm,ota working config,ota,2,24,1x1,oai_ue,2026-10-03T14:04:12+03:00,single,1,35,1,1,1,66.0,,,5083,,10605,,,results/ota_campaign_2026-10-03/data/ota_queue_2026-10-03/attach_series_ota.log
+O2_attach_2cm,ota working config,ota,2,24,1x1,oai_ue,2026-10-03T14:05:57+03:00,single,1,35,1,0,0,71.0,,cr_fail,5094,,10710,,,results/ota_campaign_2026-10-03/data/ota_queue_2026-10-03/attach_series_ota.log
+O2_attach_2cm,ota working config,ota,2,24,1x1,oai_ue,2026-10-03T14:07:07+03:00,single,1,35,1,1,1,39.0,,,5109,,10780,,,results/ota_campaign_2026-10-03/data/ota_queue_2026-10-03/attach_series_ota.log
+O2_attach_2cm,ota working config,ota,2,24,1x1,oai_ue,2026-10-03T14:08:53+03:00,single,1,35,1,0,0,72.0,,cr_fail,5100,,10886,,,results/ota_campaign_2026-10-03/data/ota_queue_2026-10-03/attach_series_ota.log
+O2_attach_2cm,ota working config,ota,2,24,1x1,oai_ue,2026-10-03T14:10:44+03:00,single,1,35,1,0,0,81.0,,assert,5144,,10997,,,results/ota_campaign_2026-10-03/data/ota_queue_2026-10-03/attach_series_ota.log
+O2_attach_2cm,ota working config,ota,2,24,1x1,oai_ue,2026-10-03T14:13:46+03:00,single,1,35,1,0,0,152.0,,assert,5142,,11179,,,results/ota_campaign_2026-10-03/data/ota_queue_2026-10-03/attach_series_ota.log
+O2_attach_2cm,ota working config,ota,2,24,1x1,oai_ue,2026-10-03T14:20:16+03:00,single,1,35,1,1,1,58.0,,,5077,,11569,,,results/ota_campaign_2026-10-03/data/ota_queue_2026-10-03/attach_series_ota.log
+O2_attach_2cm,ota working config,ota,2,24,1x1,oai_ue,2026-10-03T14:22:04+03:00,single,1,35,1,0,0,71.0,,cr_fail,5123,,11677,,,results/ota_campaign_2026-10-03/data/ota_queue_2026-10-03/attach_series_ota.log
+O2_attach_2cm,ota working config,ota,2,24,1x1,oai_ue,2026-10-03T14:23:16+03:00,single,1,35,1,1,1,41.0,,,5093,,11749,,,results/ota_campaign_2026-10-03/data/ota_queue_2026-10-03/attach_series_ota.log
+O2_attach_2cm,ota working config,ota,2,24,1x1,oai_ue,2026-10-03T14:25:01+03:00,single,1,35,1,0,0,72.0,,cr_fail,5097,,11854,,,results/ota_campaign_2026-10-03/data/ota_queue_2026-10-03/attach_series_ota.log
+O2_attach_2cm,ota working config,ota,2,24,1x1,oai_ue,2026-10-03T14:26:13+03:00,single,1,35,1,1,1,41.0,,,5091,,11926,,,results/ota_campaign_2026-10-03/data/ota_queue_2026-10-03/attach_series_ota.log
+O2_attach_2cm,ota working config,ota,2,24,1x1,oai_ue,2026-10-03T14:27:28+03:00,single,1,35,1,1,1,40.0,,,5099,,12001,,,results/ota_campaign_2026-10-03/data/ota_queue_2026-10-03/attach_series_ota.log
+O2_attach_2cm,ota working config,ota,2,24,1x1,oai_ue,2026-10-03T14:28:42+03:00,single,1,35,1,1,1,41.0,,,5095,,12075,,,results/ota_campaign_2026-10-03/data/ota_queue_2026-10-03/attach_series_ota.log
+O2_attach_2cm,ota working config,ota,2,24,1x1,oai_ue,2026-10-03T14:29:58+03:00,single,1,35,1,1,1,41.0,,,5151,,12151,,,results/ota_campaign_2026-10-03/data/ota_queue_2026-10-03/attach_series_ota.log
+O2_attach_2cm,ota working config,ota,2,24,1x1,oai_ue,2026-10-03T14:31:43+03:00,single,1,35,1,0,0,71.0,,cr_fail,5090,,12256,,,results/ota_campaign_2026-10-03/data/ota_queue_2026-10-03/attach_series_ota.log
+O2_attach_2cm,ota working config,ota,2,24,1x1,oai_ue,2026-10-03T14:33:07+03:00,single,1,35,1,1,1,53.0,,,5140,,12340,,,results/ota_campaign_2026-10-03/data/ota_queue_2026-10-03/attach_series_ota.log
+O2_attach_2cm,ota working config,ota,2,24,1x1,oai_ue,2026-10-03T14:39:17+03:00,single,1,35,1,1,1,40.0,,,5135,,12710,,,results/ota_campaign_2026-10-03/data/ota_queue_2026-10-03/attach_series_ota.log
+O2_attach_2cm,ota working config,ota,2,24,1x1,oai_ue,2026-10-03T14:40:34+03:00,single,1,35,1,1,1,43.0,,,5123,,12787,,,results/ota_campaign_2026-10-03/data/ota_queue_2026-10-03/attach_series_ota.log
+O2_attach_2cm,ota working config,ota,2,24,1x1,oai_ue,2026-10-03T14:42:19+03:00,single,1,35,1,0,0,72.0,,cr_fail,5161,,12892,,,results/ota_campaign_2026-10-03/data/ota_queue_2026-10-03/attach_series_ota.log
+O2_attach_2cm,ota working config,ota,2,24,1x1,oai_ue,2026-10-03T14:44:00+03:00,single,1,35,1,0,0,71.0,,assert,5139,,12993,,,results/ota_campaign_2026-10-03/data/ota_queue_2026-10-03/attach_series_ota.log
+O2_attach_2cm,ota working config,ota,2,24,1x1,oai_ue,2026-10-03T14:45:11+03:00,single,1,35,1,1,1,40.0,,,5127,,13064,,,results/ota_campaign_2026-10-03/data/ota_queue_2026-10-03/attach_series_ota.log
+O2_attach_2cm,ota working config,ota,2,24,1x1,oai_ue,2026-10-03T14:46:44+03:00,single,1,35,1,1,1,58.0,,,5124,,13157,,,results/ota_campaign_2026-10-03/data/ota_queue_2026-10-03/attach_series_ota.log
+O2_attach_2cm,ota working config,ota,2,24,1x1,oai_ue,2026-10-03T14:48:20+03:00,single,1,35,1,0,0,71.0,,cr_fail,5124,,13253,,,results/ota_campaign_2026-10-03/data/ota_queue_2026-10-03/attach_series_ota.log
+O2_attach_2cm,ota working config,ota,2,24,1x1,oai_ue,2026-10-03T14:49:36+03:00,single,1,35,1,1,1,44.0,,,5148,,13329,,,results/ota_campaign_2026-10-03/data/ota_queue_2026-10-03/attach_series_ota.log
+O2_attach_2cm,ota working config,ota,2,24,1x1,oai_ue,2026-10-03T14:50:56+03:00,single,1,35,1,1,1,46.0,,,5091,,13409,,,results/ota_campaign_2026-10-03/data/ota_queue_2026-10-03/attach_series_ota.log
+O2_attach_2cm,ota working config,ota,2,24,1x1,oai_ue,2026-10-03T14:52:41+03:00,single,1,35,1,0,0,71.0,,other,5138,,13514,,,results/ota_campaign_2026-10-03/data/ota_queue_2026-10-03/attach_series_ota.log
+O1_golden_2cm,ota golden,ota,2,24,1x1,oai_ue,2026-10-03T11:20:53+03:00,retry,4,35,2,1,0,,,,,,,,,results/ota_campaign_2026-10-03/data/campaign_2026-10-03_ota_dl2ul1/acceptance.csv
+O1_golden_2cm,ota golden,ota,2,24,1x1,oai_ue,2026-10-03T11:50:28+03:00,retry,4,35,1,1,1,,,,,,,,,results/ota_campaign_2026-10-03/data/campaign_2026-10-03_ota_dl2ul1/acceptance.csv
+O1_golden_2cm,ota golden,ota,2,24,1x1,oai_ue,2026-10-03T12:18:15+03:00,retry,4,35,3,1,0,,,,,,,,,results/ota_campaign_2026-10-03/data/campaign_2026-10-03_ota_dl2ul1/acceptance.csv
+O1_golden_2cm,ota golden,ota,2,24,1x1,oai_ue,2026-10-03T12:48:58+03:00,retry,4,35,1,1,1,,,,,,,,,results/ota_campaign_2026-10-03/data/campaign_2026-10-03_ota_dl2ul1/acceptance.csv
+O1_golden_2cm,ota golden,ota,2,24,1x1,oai_ue,2026-10-03T13:18:12+03:00,retry,4,35,2,1,0,,,,,,,,,results/ota_campaign_2026-10-03/data/campaign_2026-10-03_ota_dl2ul1/acceptance.csv
+O7_golden_10cm,ota golden,ota,10,24,1x1,oai_ue,2026-10-03T20:13:07+03:00,retry,4,35,1,1,1,,,,,,,,,results/ota_campaign_2026-10-03/data/campaign_2026-10-03_ota_10cm_dl2ul1/acceptance.csv
+O7_golden_10cm,ota golden,ota,10,24,1x1,oai_ue,2026-10-03T20:40:39+03:00,retry,4,35,2,1,0,,,,,,,,,results/ota_campaign_2026-10-03/data/campaign_2026-10-03_ota_10cm_dl2ul1/acceptance.csv
+O7_golden_10cm,ota golden,ota,10,24,1x1,oai_ue,2026-10-03T21:08:57+03:00,retry,4,35,1,1,1,,,,,,,,,results/ota_campaign_2026-10-03/data/campaign_2026-10-03_ota_10cm_dl2ul1/acceptance.csv
+O3_kpi_2cm,ota working config,ota,2,24,1x1,oai_ue,2026-10-03T14:59:25+03:00,retry,4,60,1,1,1,,,,,,,,,results/ota_campaign_2026-10-03/data/ota_queue_2026-10-03/kpi1_up.log
+O4_grid_2cm,"att_tx 0, ue_rxgain 95",ota,2,24,1x1,oai_ue,2026-10-03T15:53:30+03:00,retry,3,60,1,1,1,,,,,,,,,results/ota_campaign_2026-10-03/data/campaign_2026-10-03_ota_grid/grid.csv
+O4_grid_2cm,"att_tx 10, ue_rxgain 100",ota,2,24,1x1,oai_ue,2026-10-03T15:55:42+03:00,retry,3,60,1,1,1,,,,,,,,,results/ota_campaign_2026-10-03/data/campaign_2026-10-03_ota_grid/grid.csv
+O4_grid_2cm,"att_tx 10, ue_rxgain 90",ota,2,24,1x1,oai_ue,2026-10-03T15:58:04+03:00,retry,3,60,1,1,1,,,,,,,,,results/ota_campaign_2026-10-03/data/campaign_2026-10-03_ota_grid/grid.csv
+O4_grid_2cm,"att_tx 0, ue_rxgain 100",ota,2,24,1x1,oai_ue,2026-10-03T16:00:32+03:00,retry,3,60,1,1,1,,,,,,,,,results/ota_campaign_2026-10-03/data/campaign_2026-10-03_ota_grid/grid.csv
+O4_grid_2cm,"att_tx 10, ue_rxgain 95",ota,2,24,1x1,oai_ue,2026-10-03T16:02:44+03:00,retry,3,60,1,1,1,,,,,,,,,results/ota_campaign_2026-10-03/data/campaign_2026-10-03_ota_grid/grid.csv
+O4_grid_2cm,"att_tx 0, ue_rxgain 90",ota,2,24,1x1,oai_ue,2026-10-03T16:05:14+03:00,retry,3,60,1,1,1,,,,,,,,,results/ota_campaign_2026-10-03/data/campaign_2026-10-03_ota_grid/grid.csv
+O4_grid_2cm,"att_tx 5, ue_rxgain 100",ota,2,24,1x1,oai_ue,2026-10-03T16:07:25+03:00,retry,3,60,1,1,1,,,,,,,,,results/ota_campaign_2026-10-03/data/campaign_2026-10-03_ota_grid/grid.csv
+O4_grid_2cm,"att_tx 5, ue_rxgain 95",ota,2,24,1x1,oai_ue,2026-10-03T16:09:37+03:00,retry,3,60,1,1,1,,,,,,,,,results/ota_campaign_2026-10-03/data/campaign_2026-10-03_ota_grid/grid.csv
+O4_grid_2cm,"att_tx 5, ue_rxgain 90",ota,2,24,1x1,oai_ue,2026-10-03T16:11:49+03:00,retry,3,60,1,1,1,,,,,,,,,results/ota_campaign_2026-10-03/data/campaign_2026-10-03_ota_grid/grid.csv
+O4_grid_2cm,"att_tx 5, ue_rxgain 90",ota,2,24,1x1,oai_ue,2026-10-03T16:19:01+03:00,retry,3,60,1,1,1,,,,,,,,,results/ota_campaign_2026-10-03/data/campaign_2026-10-03_ota_grid/grid.csv
+O4_grid_2cm,"att_tx 0, ue_rxgain 100",ota,2,24,1x1,oai_ue,2026-10-03T16:21:13+03:00,retry,3,60,1,1,1,,,,,,,,,results/ota_campaign_2026-10-03/data/campaign_2026-10-03_ota_grid/grid.csv
+O4_grid_2cm,"att_tx 5, ue_rxgain 95",ota,2,24,1x1,oai_ue,2026-10-03T16:23:25+03:00,retry,3,60,2,1,0,,,,,,,,,results/ota_campaign_2026-10-03/data/campaign_2026-10-03_ota_grid/grid.csv
+O4_grid_2cm,"att_tx 10, ue_rxgain 95",ota,2,24,1x1,oai_ue,2026-10-03T16:27:54+03:00,retry,3,60,1,1,1,,,,,,,,,results/ota_campaign_2026-10-03/data/campaign_2026-10-03_ota_grid/grid.csv
+O4_grid_2cm,"att_tx 10, ue_rxgain 90",ota,2,24,1x1,oai_ue,2026-10-03T16:30:06+03:00,retry,3,60,1,1,1,,,,,,,,,results/ota_campaign_2026-10-03/data/campaign_2026-10-03_ota_grid/grid.csv
+O4_grid_2cm,"att_tx 10, ue_rxgain 100",ota,2,24,1x1,oai_ue,2026-10-03T16:32:52+03:00,retry,3,60,1,1,1,,,,,,,,,results/ota_campaign_2026-10-03/data/campaign_2026-10-03_ota_grid/grid.csv
+O4_grid_2cm,"att_tx 0, ue_rxgain 90",ota,2,24,1x1,oai_ue,2026-10-03T16:35:13+03:00,retry,3,60,1,1,1,,,,,,,,,results/ota_campaign_2026-10-03/data/campaign_2026-10-03_ota_grid/grid.csv
+O4_grid_2cm,"att_tx 0, ue_rxgain 95",ota,2,24,1x1,oai_ue,2026-10-03T16:37:25+03:00,retry,3,60,0,0,0,,,,,,,,,results/ota_campaign_2026-10-03/data/campaign_2026-10-03_ota_grid/grid.csv
+O4_grid_2cm,"att_tx 5, ue_rxgain 100",ota,2,24,1x1,oai_ue,2026-10-03T16:44:02+03:00,retry,3,60,1,1,1,,,,,,,,,results/ota_campaign_2026-10-03/data/campaign_2026-10-03_ota_grid/grid.csv
+O6_std_10cm,_smoke,ota,10,24,1x1,oai_ue,2026-10-03T17:04:22+03:00,retry,4,60,1,1,1,42.0,,,,,403,,,results/std/std.csv
+O6_std_10cm,siso_10cm,ota,10,24,1x1,oai_ue,2026-10-03T17:34:40+03:00,retry,4,60,1,1,1,45.0,,,,,2223,,,results/std/std.csv
+O6_std_10cm,rxdiv1x2_10cm,ota,10,24,1x2,oai_ue,2026-10-03T17:38:33+03:00,retry,4,60,3,1,0,273.0,,,,,2685,,,results/std/std.csv
+O6_std_10cm,siso_10cm,ota,10,24,1x1,oai_ue,2026-10-03T17:46:17+03:00,retry,4,60,1,1,1,46.0,,,,,2922,,,results/std/std.csv
+O6_std_10cm,rxdiv1x2_10cm,ota,10,24,1x2,oai_ue,2026-10-03T17:50:09+03:00,retry,4,60,1,1,1,41.0,,,,,3149,,,results/std/std.csv
+O6_std_10cm,siso_10cm,ota,10,24,1x1,oai_ue,2026-10-03T17:54:00+03:00,retry,4,60,1,1,1,48.0,,,,,3387,,,results/std/std.csv
+O6_std_10cm,rxdiv1x2_10cm,ota,10,24,1x2,oai_ue,2026-10-03T17:57:52+03:00,retry,4,60,1,1,1,41.0,,,,,3612,,,results/std/std.csv
+O6_std_10cm,siso_10cm,ota,10,24,1x1,oai_ue,2026-10-03T18:01:44+03:00,retry,4,60,1,1,1,40.0,,,,,3842,,,results/std/std.csv
+O6_std_10cm,rxdiv1x2_10cm,ota,10,24,1x2,oai_ue,2026-10-03T18:05:36+03:00,retry,4,60,3,1,0,332.0,,,,,4367,,,results/std/std.csv
+O6_std_10cm,siso_10cm,ota,10,24,1x1,oai_ue,2026-10-03T18:14:19+03:00,retry,4,60,1,1,1,41.0,,,,,4599,,,results/std/std.csv
+O6_std_10cm,rxdiv1x2_10cm,ota,10,24,1x2,oai_ue,2026-10-03T18:18:10+03:00,retry,4,60,3,1,0,292.0,,,,,5081,,,results/std/std.csv
+O6_std_10cm,mimo2x2_10cm,ota,10,24,2x2,oai_ue,2026-10-03T18:26:14+03:00,retry,4,60,0,0,0,486.0,,,,,5759,,,results/std/std.csv
+O6_std_10cm,mimo2x2_10cm,ota,10,24,2x2,oai_ue,2026-10-03T18:35:47+03:00,retry,4,60,2,1,0,166.0,,,,,6012,,,results/std/std.csv
+O5_mimo_tries_10cm,"02_2x2_1layer_att5: 1 layer(s), att_tx 5",ota,10,24,2x2,oai_ue,2026-10-03T17:10:42+03:00,retry,3,60,2,1,0,,,,,,,,,results/mimo_tuning/tries.csv
+O5_mimo_tries_10cm,"03_2x2_rank2_att15: 2 layer(s), att_tx 15",ota,10,24,2x2,oai_ue,2026-10-03T17:14:56+03:00,retry,3,60,0,0,0,,,,,,,,,results/mimo_tuning/tries.csv
+O5_mimo_tries_10cm,"04_1x2_rxdiv_att5: 1 layer(s), att_tx 5",ota,10,24,1x2,oai_ue,2026-10-03T17:26:03+03:00,retry,3,60,0,0,0,,,,,,,,,results/mimo_tuning/tries.csv
+O5_mimo_tries_10cm,"05_1x2_rxdiv_att5_nocap: 1 layer(s), att_tx 5",ota,10,24,1x2,oai_ue,2026-10-03T17:32:04+03:00,retry,3,60,1,1,1,,,,,,,,,results/mimo_tuning/tries.csv
+B3_c3,attach_coax24_c3,coax,,24,1x1,oai_ue,2026-10-05T02:22:01+03:00,single,1,60,1,1,1,40.0,12.4,,5029,1,33681,,,results/o5gb/o5gb_attach.csv
+B3_c3,attach_coax24_c3,coax,,24,1x1,oai_ue,2026-10-05T02:23:22+03:00,single,1,60,1,1,1,40.0,12.4,,5133,1,33762,,,results/o5gb/o5gb_attach.csv
+B3_c3,attach_coax24_c3,coax,,24,1x1,oai_ue,2026-10-05T02:24:42+03:00,single,1,60,1,1,1,40.0,12.5,,5082,1,33842,,,results/o5gb/o5gb_attach.csv
+B3_c3,attach_coax24_c3,coax,,24,1x1,oai_ue,2026-10-05T02:26:00+03:00,single,1,60,1,0,0,104.0,,cr_fail,-24,11,33983,,,results/o5gb/o5gb_attach.csv
+B3_c3,attach_coax24_c3,coax,,24,1x1,oai_ue,2026-10-05T02:28:27+03:00,single,1,60,1,1,1,40.0,12.4,,5080,1,34067,,,results/o5gb/o5gb_attach.csv
+B3_c3,attach_coax24_c3,coax,,24,1x1,oai_ue,2026-10-05T02:29:45+03:00,single,1,60,1,0,0,104.0,,cr_fail,-13,11,34209,,,results/o5gb/o5gb_attach.csv
+B3_c3,attach_coax24_c3,coax,,24,1x1,oai_ue,2026-10-05T02:32:11+03:00,single,1,60,1,1,1,87.0,12.4,,5043,2,34337,,,results/o5gb/o5gb_attach.csv
+B3_c3,attach_coax24_c3,coax,,24,1x1,oai_ue,2026-10-05T02:34:16+03:00,single,1,60,1,1,1,46.0,12.5,,5025,1,34421,,,results/o5gb/o5gb_attach.csv
+B3_c3,attach_coax24_c3,coax,,24,1x1,oai_ue,2026-10-05T02:35:41+03:00,single,1,60,1,0,0,106.0,,cr_fail,41,11,34567,,,results/o5gb/o5gb_attach.csv
+B3_c3,attach_coax24_c3,coax,,24,1x1,oai_ue,2026-10-05T02:38:08+03:00,single,1,60,1,1,1,49.0,12.4,,5058,1,34657,,,results/o5gb/o5gb_attach.csv
+B3_c3,attach_ota24_c3,ota,15,24,1x1,oai_ue,2026-10-05T02:40:08+03:00,single,1,60,1,1,1,53.0,12.4,,5093,1,34780,,,results/o5gb/o5gb_attach.csv
+B3_c3,attach_ota24_c3,ota,15,24,1x1,oai_ue,2026-10-05T02:41:35+03:00,single,1,60,1,1,1,42.0,12.4,,5136,1,34857,,,results/o5gb/o5gb_attach.csv
+B3_c3,attach_ota24_c3,ota,15,24,1x1,oai_ue,2026-10-05T02:43:01+03:00,single,1,60,1,1,1,42.0,12.9,,5071,5,34943,,,results/o5gb/o5gb_attach.csv
+B3_c3,attach_ota24_c3,ota,15,24,1x1,oai_ue,2026-10-05T02:44:23+03:00,single,1,60,1,0,0,103.0,,cr_fail,-25,11,35085,,,results/o5gb/o5gb_attach.csv
+B3_c3,attach_ota24_c3,ota,15,24,1x1,oai_ue,2026-10-05T02:46:48+03:00,single,1,60,1,1,1,40.0,12.4,,5060,1,35168,,,results/o5gb/o5gb_attach.csv
+B3_c3,attach_ota24_c3,ota,15,24,1x1,oai_ue,2026-10-05T02:48:07+03:00,single,1,60,1,1,1,43.0,12.4,,5087,8,35250,,,results/o5gb/o5gb_attach.csv
+B3_c3,attach_ota24_c3,ota,15,24,1x1,oai_ue,2026-10-05T02:49:30+03:00,single,1,60,1,0,0,102.0,,cr_fail,6,11,35392,,,results/o5gb/o5gb_attach.csv
+B3_c3,attach_ota24_c3,ota,15,24,1x1,oai_ue,2026-10-05T02:51:56+03:00,single,1,60,1,1,1,41.0,13.4,,5082,1,35476,,,results/o5gb/o5gb_attach.csv
+B3_c3,attach_ota24_c3,ota,15,24,1x1,oai_ue,2026-10-05T02:53:17+03:00,single,1,60,1,1,1,43.0,13.5,,5065,1,35560,,,results/o5gb/o5gb_attach.csv
+B3_c3,attach_ota24_c3,ota,15,24,1x1,oai_ue,2026-10-05T02:54:44+03:00,single,1,60,1,1,1,46.0,12.4,,5073,1,35650,,,results/o5gb/o5gb_attach.csv
+B3_c3,attach_coax24_c3,coax,,24,1x1,oai_ue,2026-10-05T07:31:10+03:00,single,1,60,1,1,1,40.0,13.4,,5081,1,52229,,,results/o5gb/o5gb_attach.csv
+B3_c3,attach_coax24_c3,coax,,24,1x1,oai_ue,2026-10-05T07:32:30+03:00,single,1,60,1,0,0,102.0,,cr_fail,-77,11,52372,,,results/o5gb/o5gb_attach.csv
+B3_c3,attach_coax24_c3,coax,,24,1x1,oai_ue,2026-10-05T07:34:56+03:00,single,1,60,1,1,1,42.0,12.4,,5077,1,52458,,,results/o5gb/o5gb_attach.csv
+B3_c3,attach_coax24_c3,coax,,24,1x1,oai_ue,2026-10-05T07:36:17+03:00,single,1,60,1,0,0,191.0,,cr_fail,14,11,52688,,,results/o5gb/o5gb_attach.csv
+B3_c3,attach_coax24_c3,coax,,24,1x1,oai_ue,2026-10-05T07:40:04+03:00,single,1,60,1,0,0,105.0,,cr_fail,-28,11,52828,,,results/o5gb/o5gb_attach.csv
+B3_c3,attach_coax24_c3,coax,,24,1x1,oai_ue,2026-10-05T07:42:31+03:00,single,1,60,1,1,1,41.0,13.4,,5035,1,52911,,,results/o5gb/o5gb_attach.csv
+B3_c3,attach_coax24_c3,coax,,24,1x1,oai_ue,2026-10-05T07:43:52+03:00,single,1,60,1,1,1,39.0,12.4,,5095,1,52991,,,results/o5gb/o5gb_attach.csv
+B3_c3,attach_coax24_c3,coax,,24,1x1,oai_ue,2026-10-05T07:45:12+03:00,single,1,60,1,1,1,72.0,12.4,,5015,1,53104,,,results/o5gb/o5gb_attach.csv
+B3_c3,attach_coax24_c3,coax,,24,1x1,oai_ue,2026-10-05T07:46:59+03:00,single,1,60,1,0,0,104.0,,cr_fail,-12,11,53243,,,results/o5gb/o5gb_attach.csv
+B3_c3,attach_coax24_c3,coax,,24,1x1,oai_ue,2026-10-05T07:49:25+03:00,single,1,60,1,1,1,51.0,13.4,,5090,1,53335,,,results/o5gb/o5gb_attach.csv
+B3_c3,attach_ota24_c3,ota,15,24,1x1,oai_ue,2026-10-05T07:51:26+03:00,single,1,60,1,1,1,42.0,13.4,,5089,1,53447,,,results/o5gb/o5gb_attach.csv
+B3_c3,attach_ota24_c3,ota,15,24,1x1,oai_ue,2026-10-05T07:52:48+03:00,single,1,60,1,1,1,84.0,13.4,,5085,1,53571,,,results/o5gb/o5gb_attach.csv
+B3_c3,attach_ota24_c3,ota,15,24,1x1,oai_ue,2026-10-05T07:54:52+03:00,single,1,60,1,1,1,42.0,13.4,,5021,2,53653,,,results/o5gb/o5gb_attach.csv
+B3_c3,attach_ota24_c3,ota,15,24,1x1,oai_ue,2026-10-05T07:56:13+03:00,single,1,60,1,1,1,40.0,13.4,,5076,6,53733,,,results/o5gb/o5gb_attach.csv
+B3_c3,attach_ota24_c3,ota,15,24,1x1,oai_ue,2026-10-05T07:57:32+03:00,single,1,60,1,1,1,51.0,12.4,,5099,1,53822,,,results/o5gb/o5gb_attach.csv
+B3_c3,attach_ota24_c3,ota,15,24,1x1,oai_ue,2026-10-05T07:58:59+03:00,single,1,60,1,1,1,96.0,12.4,,5049,1,53955,,,results/o5gb/o5gb_attach.csv
+B3_c3,attach_ota24_c3,ota,15,24,1x1,oai_ue,2026-10-05T08:01:06+03:00,single,1,60,1,1,1,41.0,13.5,,5046,1,54027,,,results/o5gb/o5gb_attach.csv
+B3_c3,attach_ota24_c3,ota,15,24,1x1,oai_ue,2026-10-05T08:02:26+03:00,single,1,60,1,1,1,55.0,12.4,,5077,1,54121,,,results/o5gb/o5gb_attach.csv
+B3_c3,attach_ota24_c3,ota,15,24,1x1,oai_ue,2026-10-05T08:03:53+03:00,single,1,60,1,1,1,40.0,12.5,,5075,1,54192,,,results/o5gb/o5gb_attach.csv
+B3_c3,attach_ota24_c3,ota,15,24,1x1,oai_ue,2026-10-05T08:05:11+03:00,single,1,60,1,1,1,44.0,13.4,,5101,1,54274,,,results/o5gb/o5gb_attach.csv
+B5_c5,attach_coax24_c5,coax,,24,1x1,oai_ue,2026-10-05T13:10:48+03:00,single,1,60,1,1,1,42.0,12.8,,5031,1,72610,,,results/o5gb/o5gb_attach.csv
+B5_c5,attach_coax24_c5,coax,,24,1x1,oai_ue,2026-10-05T13:12:09+03:00,single,1,60,1,1,1,39.0,12.4,,5044,1,72687,,,results/o5gb/o5gb_attach.csv
+B5_c5,attach_coax24_c5,coax,,24,1x1,oai_ue,2026-10-05T13:13:28+03:00,single,1,60,1,0,0,102.0,,cr_fail,9,11,72830,,,results/o5gb/o5gb_attach.csv
+B5_c5,attach_coax24_c5,coax,,24,1x1,oai_ue,2026-10-05T13:15:53+03:00,single,1,60,1,1,1,57.0,12.5,,5071,1,72930,,,results/o5gb/o5gb_attach.csv
+B5_c5,attach_coax24_c5,coax,,24,1x1,oai_ue,2026-10-05T13:17:20+03:00,single,1,60,1,0,0,107.0,,synch_failed,5045,0,73067,,,results/o5gb/o5gb_attach.csv
+B5_c5,attach_coax24_c5,coax,,24,1x1,oai_ue,2026-10-05T13:19:47+03:00,single,1,60,1,1,1,42.0,12.4,,5079,1,73148,,,results/o5gb/o5gb_attach.csv
+B5_c5,attach_coax24_c5,coax,,24,1x1,oai_ue,2026-10-05T13:21:08+03:00,single,1,60,1,1,1,41.0,12.4,,5028,1,73228,,,results/o5gb/o5gb_attach.csv
+B5_c5,attach_coax24_c5,coax,,24,1x1,oai_ue,2026-10-05T13:22:28+03:00,single,1,60,1,1,1,40.0,13.4,,5041,1,73308,,,results/o5gb/o5gb_attach.csv
+B5_c5,attach_coax24_c5,coax,,24,1x1,oai_ue,2026-10-05T13:23:49+03:00,single,1,60,1,1,1,42.0,13.5,,5074,2,73390,,,results/o5gb/o5gb_attach.csv
+B5_c5,attach_coax24_c5,coax,,24,1x1,oai_ue,2026-10-05T13:25:15+03:00,single,1,60,1,1,1,41.0,13.4,,5031,1,73475,,,results/o5gb/o5gb_attach.csv
+B5_c5,attach_coax24_c5,coax,,24,1x1,oai_ue,2026-10-05T13:26:36+03:00,single,1,60,1,1,1,41.0,13.4,,4984,1,73556,,,results/o5gb/o5gb_attach.csv
+B5_c5,attach_coax24_c5,coax,,24,1x1,oai_ue,2026-10-05T13:27:58+03:00,single,1,60,1,1,1,42.0,13.4,,5053,3,73639,,,results/o5gb/o5gb_attach.csv
+B5_c5,attach_coax24_c5,coax,,24,1x1,oai_ue,2026-10-05T13:29:19+03:00,single,1,60,1,0,0,103.0,,cr_fail,19,11,73782,,,results/o5gb/o5gb_attach.csv
+B5_c5,attach_coax24_c5,coax,,24,1x1,oai_ue,2026-10-05T13:31:46+03:00,single,1,60,1,1,1,40.0,13.4,,5026,1,73866,,,results/o5gb/o5gb_attach.csv
+B5_c5,attach_coax24_c5,coax,,24,1x1,oai_ue,2026-10-05T13:33:06+03:00,single,1,60,1,0,0,104.0,,cr_fail,-50,11,74010,,,results/o5gb/o5gb_attach.csv
+B0_smoke,phones_attach_smoke2,ota,,24,1x1,phone,2026-10-04T18:06:33+03:00,cell_restart,,,,1,,48.8,,,,51,4191,12.1.1.2,1,results/o5gb/o5gb_phones_attach.csv
+B0_smoke,phones_attach_smoke2,ota,,24,1x1,phone,2026-10-04T18:06:33+03:00,cell_restart,,,,1,,260.1,,,,51,4191,12.1.1.3,2,results/o5gb/o5gb_phones_attach.csv
+B3_c3,phones_attach_c3,ota,,24,1x1,phone,2026-10-05T02:57:23+03:00,cell_restart,,,,0,,,,,,65,36189,,1,results/o5gb/o5gb_phones_attach.csv
+B3_c3,phones_attach_c3,ota,,24,1x1,phone,2026-10-05T02:57:23+03:00,cell_restart,,,,0,,,,,,65,36189,,2,results/o5gb/o5gb_phones_attach.csv
+B3_c3,phones_attach_c3,ota,,24,1x1,phone,2026-10-05T03:05:48+03:00,cell_restart,,,,1,,275.0,,,,46,36694,12.1.1.2,1,results/o5gb/o5gb_phones_attach.csv
+B3_c3,phones_attach_c3,ota,,24,1x1,phone,2026-10-05T03:05:48+03:00,cell_restart,,,,0,,,,,,46,36694,,2,results/o5gb/o5gb_phones_attach.csv
+B3_c3,phones_attach_c3,ota,,24,1x1,phone,2026-10-05T03:14:13+03:00,cell_restart,,,,1,,21.9,,,,23,37136,12.1.1.2,1,results/o5gb/o5gb_phones_attach.csv
+B3_c3,phones_attach_c3,ota,,24,1x1,phone,2026-10-05T03:14:13+03:00,cell_restart,,,,1,,345.9,,,,23,37136,12.1.1.3,2,results/o5gb/o5gb_phones_attach.csv
+B3_c3,phones_attach_c3,ota,,24,1x1,phone,2026-10-05T08:07:52+03:00,cell_restart,,,,1,,319.8,,,,35,54818,12.1.1.2,1,results/o5gb/o5gb_phones_attach.csv
+B3_c3,phones_attach_c3,ota,,24,1x1,phone,2026-10-05T08:07:52+03:00,cell_restart,,,,0,,,,,,35,54818,,2,results/o5gb/o5gb_phones_attach.csv
+B3_c3,phones_attach_c3,ota,,24,1x1,phone,2026-10-05T08:16:17+03:00,cell_restart,,,,1,,247.3,,,,15,55322,12.1.1.2,1,results/o5gb/o5gb_phones_attach.csv
+B3_c3,phones_attach_c3,ota,,24,1x1,phone,2026-10-05T08:16:17+03:00,cell_restart,,,,0,,,,,,15,55322,,2,results/o5gb/o5gb_phones_attach.csv
+B3_c3,phones_attach_c3,ota,,24,1x1,phone,2026-10-05T08:24:41+03:00,cell_restart,,,,1,,196.4,,,,4,55650,12.1.1.2,1,results/o5gb/o5gb_phones_attach.csv
+B3_c3,phones_attach_c3,ota,,24,1x1,phone,2026-10-05T08:24:41+03:00,cell_restart,,,,1,,232.4,,,,4,55650,12.1.1.3,2,results/o5gb/o5gb_phones_attach.csv
+B6_split,phones_attach_c6,ota,,24,1x1,phone,2026-10-05T17:27:20+03:00,cell_restart,,,,1,,54.0,,,,16,7693,12.1.1.2,1,results/o5gb/o5gb_phones_attach.csv
+B6_split,phones_attach_c6,ota,,24,1x1,phone,2026-10-05T17:27:20+03:00,cell_restart,,,,0,,,,,,16,7693,,2,results/o5gb/o5gb_phones_attach.csv
+B6_split,phones_attach_c6,ota,,24,1x1,phone,2026-10-05T17:33:30+03:00,cell_restart,,,,1,,206.9,,,,4,7993,12.1.1.2,1,results/o5gb/o5gb_phones_attach.csv
+B6_split,phones_attach_c6,ota,,24,1x1,phone,2026-10-05T17:33:30+03:00,cell_restart,,,,1,,218.7,,,,4,7993,12.1.1.3,2,results/o5gb/o5gb_phones_attach.csv
